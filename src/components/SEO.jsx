@@ -4,9 +4,9 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 // importing favicons
-import favicon16 from "./images/favicon16.png";
-import favicon32 from "./images/favicon32.png";
-import favicon64 from "./images/favicon64.png";
+import favicon16 from "./images/favicon.png";
+import favicon32 from "./images/favicon.png";
+import favicon64 from "./images/favicon.png";
 
 function SEO({ description, lang, meta, keywords, title }) {
   return (
