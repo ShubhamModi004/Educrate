@@ -27,6 +27,26 @@ const IndexPage = () => (
     </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
+      <h1>asja
+      sdlf las FormattedMessagefsa
+      f
+      sadf
+      s
+      afas
+      f
+      sdf
+      s
+      df
+      sadf
+      as
+      f
+      asfd
+      s
+      f
+      sdf
+      sfsdf
+      
+      sfd</h1>
     </div>
     <Link to="/page-2/">
       <FormattedMessage id="home.Go to page 2" />
