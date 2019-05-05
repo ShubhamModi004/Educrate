@@ -11,7 +11,7 @@ const Header = ({ siteTitle, hideLangs }) => (
       background: 'transparent',
       marginBottom: `1.45rem`,
     }}
-    className="position-sticky"
+    className="position-sticky container"
   >
     <div className="header">
         <Link to="/" style={{ textDecoration: `none`}}>

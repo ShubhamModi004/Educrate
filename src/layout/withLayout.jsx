@@ -12,6 +12,7 @@ import { translations, languages } from '../i18n';
 import Header from '../components/Header';
 import SEO from '../components/SEO';
 import './layout.min.css';
+import './custom.css';
 
 addLocaleData([...plData, ...enData]);
 
