@@ -1,0 +1,16 @@
+.aboutUs{
+    background: #F9F9F9;
+    min-height: 22rem;
+    border-radius: 2rem;
+}
+.aboutUs-image{
+    padding: 0 !important;
+}
+.aboutUs-image img{
+    height: 100%;
+    width: 100%;
+}
+
+.aboutUs-info{
+    padding: 3rem 5rem;
+}

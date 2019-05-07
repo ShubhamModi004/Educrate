@@ -3,10 +3,15 @@
 }
 
 .header{
+    position: absolute;
     padding:28px 0px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .menu-wrapper{
@@ -16,22 +21,42 @@
 }
 
 .menu-wrapper a{
-    color: #50565b;
-    padding: 6px 20px 6px 20px!important;
-    border-radius: 5rem;
-    font-size: 14px;
-    font-weight: lighter;
+    color: #7A8297;
+    font-size: 0.7rem;
     -webkit-transition: 0.3s ease-out;
     -moz-transition: 0.3s ease-out;
     transition: 0.3s ease-out;
+    margin: 20px !important;
+    letter-spacing: 0.09rem;
+}
+.getinTouch{
+    background: #4a70f2;
+    border-radius: 5rem;
+    color: #fff !important;
+    font-weight: bold;
+    padding: 1rem;
 }
 
 .menu-wrapper a:hover{
-    color: #FFFFFF!important;
-    background-color: #4a70f2;
+    color: #000!important;
+    
 }
 
+
+
 .active{
-    color: #FFFFFF!important;
-    background-color: #4a70f2;
+    color: #000!important;
+    position: relative;
+}
+
+.active::after{
+    content: "•";
+    color: #579CFF;
+    text-shadow: #579CFF 0 0 5px;
+    margin-top: 0.8rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size:1.5rem; 
 }

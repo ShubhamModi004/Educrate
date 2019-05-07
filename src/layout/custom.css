@@ -1,3 +1,12 @@
 .light{
     font-weight: lighter;
 }
+
+.yellowButtons {
+    background: #FFCC73;
+    border-radius: 2rem;
+    color: #6D501E;
+    padding: 1rem 1.3rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+}

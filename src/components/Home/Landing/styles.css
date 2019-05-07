@@ -1,13 +1,19 @@
 .home-main-title {
-    height: 70vh;
+    height: 100vh;
     display: flex;
     align-items: center;
+    
 }
 
 .home-main-title p{
-    color: #50565b;
-    font-size: 18px;
-    padding: 1.5rem 0rem;
-    max-width: 45%;
+    color: #7A8297;
+    font-size: 1rem;
+    padding: 1.5rem 0rem 0.9rem 0rem;
     line-height: 1.8em;
+    
 }   
+
+.home-main-title h2{
+    font-size: 2rem; 
+    letter-spacing: 0.05rem;
+}
