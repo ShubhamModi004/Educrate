@@ -20,7 +20,8 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
-    "react-intl": "^2.8.0"
+    "react-intl": "^2.8.0",
+    "react-reveal": "^1.2.2"
   },
   "keywords": [
     "gatsby"

@@ -1,0 +1,17 @@
+.contact-us{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.contact-us h2{
+    font-weight: bold;
+
+}
+
+.contact-us p {
+    color: #7A8297;
+    font-size: 1rem;
+    padding: 0.4rem 0rem 0.9rem 0rem;
+    line-height: 1.8em;
+}

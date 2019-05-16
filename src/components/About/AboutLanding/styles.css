@@ -1,0 +1,9 @@
+.PinkSection{
+    background: #F3E6E6;
+    width: 26rem;
+    height: 24rem;
+    flex: 2;
+    position: absolute;
+    right: 0;
+    padding: 2rem 2rem 2rem 0rem;
+}

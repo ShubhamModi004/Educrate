@@ -45,11 +45,11 @@ const withLayout = customProps => PageComponent => props => {
               <main>
                 <PageComponent {...props} />
               </main>
-              <footer>
+              {/* <footer>
                 © {new Date().getFullYear()}, Built with ❤️ by 
                 {` `}
                 <a href="https://blckstudio.netlify.com/">BLCK STUDIO</a>
-              </footer>
+              </footer> */}
           </PageContext.Provider>
         </IntlProvider>
       )}

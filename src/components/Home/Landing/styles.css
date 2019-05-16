@@ -1,19 +1,44 @@
 .home-main-title {
-    height: 100vh;
+    min-height: 76vh;
     display: flex;
     align-items: center;
-    
+    padding-top: 5rem;
+    flex: 1;
+}
+.main-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 7.5;
 }
 
 .home-main-title p{
     color: #7A8297;
+    font-weight: 400;
     font-size: 1rem;
     padding: 1.5rem 0rem 0.9rem 0rem;
     line-height: 1.8em;
-    
+    letter-spacing: 0.02rem;
 }   
 
 .home-main-title h2{
-    font-size: 2rem; 
-    letter-spacing: 0.05rem;
+    font-size: 1.9rem; 
+    letter-spacing: 0.01rem;
+    font-weight: 700;
+}
+
+.main-title-imageSection{
+    width: 5rem;
+    flex: 4;
+    padding: 6rem;
+}
+
+.socialMedia{
+    position: relative;
+    float: right;
+    flex: 1;
+}
+.socialMedia .gatsby-image-wrapper{
+    width: 2rem;
+    margin: 1.5rem 0;
 }

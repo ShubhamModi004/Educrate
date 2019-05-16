@@ -1,0 +1,17 @@
+.mission{
+    background: rgba(217, 221, 227, 0.15);
+    padding: 4rem 0rem;
+    border-radius: 1rem;
+}
+.mission h2{
+    text-align: center;
+}
+
+.mission-section{
+    padding: 4rem;
+}
+
+.mission-section p{
+    padding-right: 1rem;
+}
+

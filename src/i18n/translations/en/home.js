@@ -1,6 +1,6 @@
 export default {
   title: 'Home',
-  'Aiding access to quality education to those in need.': 'Aiding access to quality education to those in need.',
+  'Revolutionizing the way content is delivered in school': 'Revolutionizing the way content is delivered in school',
   'Educrate aims to provide the best form of education with the help of tech.': 'Educrate aims to provide the best form of education with the help of tech.',
   'Your training platform to improve sales results, client retention and partners performance.': 'Your training platform to improve sales results, client retention and partners performance.',
   'Hi people': 'Hi people',

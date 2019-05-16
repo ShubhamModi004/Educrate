@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+
 .light{
     font-weight: lighter;
 }
@@ -9,4 +11,22 @@
     padding: 1rem 1.3rem;
     font-size: 0.7rem;
     font-weight: 600;
+    letter-spacing: 0.04rem;
+    max-width: 8.5rem;
+}
+
+.yellowButtons:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #272727;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: #7d7d7d;
+  font-weight: 500;
 }

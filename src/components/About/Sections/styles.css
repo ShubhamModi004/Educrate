@@ -1,0 +1,52 @@
+.about-sections{
+    margin: 2.3rem auto 5rem auto;  
+    width: 40%;
+    position: relative;
+    -webkit-transition: 0.3s all ease-in-out;
+    -moz-transition: 0.3s all ease-in-out;
+    transition: 0.3s all ease-in-out;
+}
+
+.sectionContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.section h6{
+    font-size: 0.7rem;
+    color: #7A8297;
+}
+
+.section{
+    /* padding: 0.4rem; */
+    margin: 0;
+}
+
+.selected{
+    border: 1px solid #85BCFF;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: 6rem;
+    height: 2rem;
+    color: #000 !important;
+    margin-top: -0.4rem; 
+}
+
+.notSelected{
+    border: 1px solid #FFFFFF;
+    border-radius: 2rem;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 6rem;
+    height: 2rem;
+    -webkit-transition: 0.3s all ease-in-out;
+    -moz-transition: 0.3s all ease-in-out;
+    transition: 0.3s all ease-in-out;
+}
