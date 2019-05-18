@@ -2,12 +2,12 @@ import React from 'react';
 import { FormattedMessage } from 'react-intl';
 
 import withLayout from '../layout';
-import Contact from '../components/Contact';
+// import Contact from '../components/Contact';
 
 
 const IndexPage = () => (
   <>
-    <Contact/>
+    {/* <Contact/> */}
   </>
 );
 
