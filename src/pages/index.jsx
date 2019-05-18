@@ -10,9 +10,6 @@ const IndexPage = () => (
   <>
     <Landing/>
     <About/>
-    <Link to="/page-2/">
-      <FormattedMessage id="home.Go to page 2" />
-    </Link>
   </>
 );
 
