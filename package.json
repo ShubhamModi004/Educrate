@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-intl",
+  "name": "Educrate",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby and i18n",
+  "description": "Revolutionizing the way content is delivered in school",
   "version": "1.0.0",
-  "author": "Tomek Skuta <tomskuta@gmail.com>",
+  "author": "Shubham Modi",
   "dependencies": {
     "browser-lang": "^0.0.1",
     "flat": "^4.1.0",
