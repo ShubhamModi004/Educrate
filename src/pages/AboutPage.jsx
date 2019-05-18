@@ -6,7 +6,7 @@ import Link from '../components/Link';
 import Landing from '../components/About/Landing';
 import Sections from '../components/About/Sections';
 
-const IndexPage = () => (
+const AboutPage = () => (
   <>
     <Landing />
     <Sections />
@@ -17,4 +17,4 @@ const customProps = {
     localeKey: 'home', // same as file name in src/i18n/translations/your-lang/index.js
 };
 
-export default withLayout(customProps)(IndexPage);
+export default withLayout(customProps)(AboutPage);
