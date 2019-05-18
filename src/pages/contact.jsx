@@ -2,7 +2,7 @@ import React from 'react';
 import { FormattedMessage } from 'react-intl';
 
 import withLayout from '../layout';
-import Contact from '../components/Home/ContactComponent';
+import Contact from '../components/ContactComponent';
 
 
 const IndexPage = () => (

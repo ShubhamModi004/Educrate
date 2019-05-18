@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Educrate`,
     description: ``,
-    author: `@gatsbyjs, @tomekskuta`,
+    author: `shubham modi`,
     keywords: [`gatsby`, `application`, `react`],
   },
   plugins: [
