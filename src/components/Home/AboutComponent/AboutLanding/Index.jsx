@@ -3,9 +3,9 @@ import { FormattedMessage } from 'react-intl';
 import { Link } from 'gatsby';
 
 // Importing Image
-import Facebook from '../../common/Facebook';
-import Instagram from '../../common/Instagram';
-import Whatsapp from '../../common/Whatsapp';
+import Facebook from '../../../common/Facebook';
+import Instagram from '../../../common/Instagram';
+import Whatsapp from '../../../common/Whatsapp';
 
 // import css
 import './styles.css';

@@ -82,7 +82,7 @@ class Index extends Component {
                     </div>
                 </div>
                 <div className="map-section">
-                    <img src={require('../../images/Map.png')} />
+                    <img src={require('../../../images/Map.png')} />
                 </div>
             </div>
         )
