@@ -13,9 +13,9 @@ import './styles.css';
 class Index extends Component {
     render() {
         return (
-            <div>
+            <div style={{ height: '100%'}}>
                 <div className="container contact-us">
-                    <div className="col-md-6 col-12 contact-us-header">
+                    <div className="col-l-6 col-md-12 col-12 contact-us-header">
                         <h3>CONTACT US</h3>
                         <p><FormattedMessage id="We would love to get in touch with you." /></p>
                     </div>
@@ -27,11 +27,11 @@ class Index extends Component {
                 </div>
                 <div className="yellow-box">
                     <div className="row yellow-box-text">
-                        <div className="col-md-6 yellow-box-text-header">
+                        <div className="col-md-6 col-7 yellow-box-text-header">
                             <h3>Help@educrate.com</h3>
                         </div>
-                        <div className="col-md-1 checkbox__line"></div>
-                        <div className="col-md-3 yellow-box-checkbox">
+                        <div className="col-md-1 col-0 col-xs-0 col-xs-1 checkbox__line"></div>
+                        <div className="col-md-3 col-5 yellow-box-checkbox">
                             <label class="checkbox">
                                 <input class="checkbox__trigger visuallyhidden" type="checkbox" />
                                 <span class="checkbox__symbol">
@@ -45,11 +45,11 @@ class Index extends Component {
                         </div>
                     </div>
                     <div className="row yellow-box-text">
-                        <div className="col-md-6 yellow-box-text-header">
+                        <div className="col-md-6 col-7 yellow-box-text-header">
                             <h3>040 2275 651</h3>
                         </div>
-                        <div className="col-md-1 checkbox__line"></div>
-                        <div className="col-md-3 yellow-box-checkbox">
+                        <div className="col-md-1 col-0 col-xs-0 checkbox__line"></div>
+                        <div className="col-md-3 col-5 yellow-box-checkbox">
                             <label class="checkbox">
                                 <input class="checkbox__trigger visuallyhidden" type="checkbox" />
                                 <span class="checkbox__symbol">
@@ -63,11 +63,11 @@ class Index extends Component {
                         </div>
                     </div>
                     <div className="row yellow-box-text">
-                        <div className="col-md-6 yellow-box-text-header">
+                        <div className="col-md-6 col-7 yellow-box-text-header">
                             <h3>+91 85859 95812</h3>
                         </div>
-                        <div className="col-md-1 checkbox__line"></div>
-                        <div className="col-md-3 yellow-box-checkbox">
+                        <div className="col-md-1 col-0 col-xs-0 checkbox__line"></div>
+                        <div className="col-md-3 col-5 yellow-box-checkbox">
                             <label class="checkbox">
                                 <input class="checkbox__trigger visuallyhidden" type="checkbox" />
                                 <span class="checkbox__symbol">

@@ -1,12 +1,10 @@
 .about-sections{
     margin: 2.3rem auto 5rem auto;  
-    width: 40%;
+    width: 45%;
     position: relative;
     -webkit-transition: 0.3s all ease-in-out;
     -moz-transition: 0.3s all ease-in-out;
     transition: 0.3s all ease-in-out;
-    display: flex;
-    justify-content: center;
 }
 
 .sectionContainer{

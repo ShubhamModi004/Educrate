@@ -1,8 +1,7 @@
 .home-main-title {
-    min-height: 76vh;
+    min-height: 65vh;
     display: flex;
     align-items: center;
-    padding-top: 5rem;
     flex: 1;
 }
 
@@ -13,7 +12,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: space-between;
-        padding-top: 5rem;
         flex: 1;
     }
 }

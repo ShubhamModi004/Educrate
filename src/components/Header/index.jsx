@@ -9,11 +9,11 @@ const Header = ({ siteTitle, hideLangs }) => (
   <header
     style={{
       background: 'transparent',
-      marginBottom: `1.45rem`,
+      position: 'relative'
     }}
     className="position-sticky container"
   >
-    <div className="header">
+    <div className="header" style={{ position: 'relative'}}>
         <div className="langLogo">       
           <div className="logo">
             <Link to="/" style={{ textDecoration: `none` }}>

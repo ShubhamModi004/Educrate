@@ -3,8 +3,8 @@
 }
 
 .header{
-    position: absolute;
-    padding:28px 0px;
+    position: relative;
+    padding: 1rem  0 0.5rem 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
