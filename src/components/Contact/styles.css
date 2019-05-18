@@ -1,12 +1,17 @@
 .contact-us{
-    height: 80vh;
+    height: 30rem;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
+    position: relative;
+    z-index: -2;
 }
 
-.contact-us h2{
-    font-weight: bold;
+.contact-us-header{
+    margin-bottom: 7rem;
+}
 
+.contact-us h3{
+    font-weight: bold;
 }
 
 .contact-us p {
@@ -14,4 +19,205 @@
     font-size: 1rem;
     padding: 0.4rem 0rem 0.9rem 0rem;
     line-height: 1.8em;
+    font-weight: 300;
 }
+
+.yellow-box-section{
+    position: relative;
+}
+
+.yellow-box{
+    background: #FECB72;
+    height: 25rem;
+    width: 55%;
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    top: 17rem;
+    padding: 2rem 0rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.yellow-box h3{
+    padding: 1rem 0rem;
+    text-align: right;
+    position: relative;
+}
+
+.yellow-box label{
+    padding: 1.5rem 0rem 0rem 0rem;
+    text-align: right;
+    margin-bottom: -1rem;
+}
+.yellow-box-text{
+    width: 100%;
+}
+.yellow-box .yellow-box-text-header{
+    padding: 0.2rem 0.5rem;
+}
+
+.yellow-box-text-header{
+    text-align: right;
+}
+
+.checkbox-section{
+    padding: 2rem 0rem;
+    margin-left: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.checkbox-section::before{
+    content: '________';
+    position: absolute;
+    left: 1rem;
+    top: 1.2rem;
+    color: #EAB871;
+}
+
+
+/* CHECK BOX */
+@import url("https://fonts.googleapis.com/css?family=Fira+Mono:400,700");
+.checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+}
+.checkbox + .checkbox {
+  margin-top: 1.2em;
+}
+.checkbox__symbol {
+  display: inline-block;
+  display: flex;
+  margin-right: 1.2em;
+  background: #fff;
+  position: relative;
+  width: 1.5625em;
+  height: 1.5625em;
+  transition: box-shadow 0.4s cubic-bezier(0.11, 0.29, 0.18, 0.98), background-color 0.4s;
+  box-shadow: 0 0 0 0 rgba(232, 200, 17, 0.1);
+}
+.checkbox__symbol:after {
+  content: "";
+  position: absolute;
+  top: 0.53125em;
+  left: 0.53125em;
+  width: 0.25em;
+  height: 0.25em;
+  background-color: rgba(232, 200, 17, 0.2);
+  opacity: 0;
+  border-radius: 3.125em;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+.checkbox .icon-checkbox {
+  width: 1em;
+  height: 1em;
+  margin: auto;
+  fill: none;
+  stroke-width: 3;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+  color: #080000;
+  display: inline-block;
+}
+.checkbox .icon-checkbox path {
+  transition: stroke-dashoffset 0.2s ease-in;
+  stroke-dasharray: 30px, 31px;
+  stroke-dashoffset: 30px;
+}
+.checkbox__textwrapper {
+  margin: 0;
+}
+.checkbox__trigger:checked + .checkbox__symbol:after {
+  -webkit-animation: ripple 1.5s cubic-bezier(0.11, 0.29, 0.18, 0.98);
+          animation: ripple 1.5s cubic-bezier(0.11, 0.29, 0.18, 0.98);
+}
+.checkbox__trigger:checked + .checkbox__symbol .icon-checkbox path {
+  transition: stroke-dashoffset 0.4s cubic-bezier(0.11, 0.29, 0.18, 0.98);
+  stroke-dashoffset: 0px;
+}
+.checkbox__trigger:focus + .checkbox__symbol {
+  box-shadow: 0 0 0 0.25em rgba(232, 193, 17, 0.2);
+}
+
+@-webkit-keyframes ripple {
+  from {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: scale(20);
+            transform: scale(20);
+  }
+}
+
+@keyframes ripple {
+  from {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: scale(20);
+            transform: scale(20);
+  }
+}
+:root .visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+/* Pen styling: */
+
+.checkbox p{
+    color: #705629;
+    font-weight: 600;
+}
+
+.checkbox__line{
+    width: 4rem;
+    border-bottom: solid 2px #EAB871;
+    z-index: 1;
+    top: -50%;
+    position: relative;
+}
+
+.socials-contactus{
+    position: absolute;
+    left: 2rem;
+    bottom: 1rem;
+    display: flex;
+    width: 35%;
+}
+
+.socials-contactus .gatsby-image-wrapper{
+    width: 2.5rem;
+    margin-right: 2rem;
+}
+
+/* Map section */
+
+.map-section{
+    width: 100vw;
+}
+
+.map-section img{
+    width: 100vw;
+}
+

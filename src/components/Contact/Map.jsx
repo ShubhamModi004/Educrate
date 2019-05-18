@@ -13,11 +13,11 @@ import Img from "gatsby-image"
  * - `StaticQuery`: https://gatsby.app/staticquery
  */
 
-const Instagram = () => (
+const Map = () => (
     <StaticQuery
         query={graphql`
       query {
-        placeholderImage: file(relativePath: { eq: "Instagram.png" }) {
+        placeholderImage: file(relativePath: { eq: "Map.png" }) {
           childImageSharp {
             fluid(maxWidth: 300) {
               ...GatsbyImageSharpFluid
@@ -29,4 +29,4 @@ const Instagram = () => (
         render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
     />
 )
-export default Instagram
+export default Map

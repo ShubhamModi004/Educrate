@@ -1,6 +1,6 @@
 .mission{
     background: rgba(217, 221, 227, 0.15);
-    padding: 4rem 0rem;
+    padding: 4rem 0rem 3rem 0rem;
     border-radius: 1rem;
 }
 .mission h2{
@@ -8,10 +8,202 @@
 }
 
 .mission-section{
-    padding: 4rem;
+    padding: 1rem 4rem 0rem 4rem;
+}
+@media only screen and (max-width: 770px){
+    .mission-section{
+        padding: 1rem 1rem 0rem 1rem;
+    }
 }
 
-.mission-section p{
+.number{
+    color: #579CFF !important;
+    font-size: 1.8rem !important;
+    padding-right: 1rem; 
+    margin-top: -0.3rem;
+    font-weight: 700;
+}
+
+.mission-section .desc{
     padding-right: 1rem;
+    color: #7A8297;
+    font-weight: 400;
+    font-size: 0.85rem;
+    line-height: 1.6rem;
+    opacity: 0.8;
 }
 
+.mission-section-image-container{
+    width: 9rem;
+    margin: 2rem 1rem;
+}
+
+@media only screen and (max-width: 770px){
+    .mission-section-image-container{
+        margin: 2rem auto;
+    }
+}
+
+
+/* Mission Strive */
+.mission-strive{
+    padding: 6rem 0rem 0rem 0rem;
+}
+
+.mission-strive h2{
+    text-align: center;
+}
+
+.mission-strive-sections{
+    padding: 4rem 0rem;
+}
+
+.mission-strive-sections .mission-strive-header{
+    padding: 1rem 0rem;
+    font-size: 0.8rem;
+    color: #7A8297;
+    font-weight: 600;
+}
+@media only screen and (max-width: 770px){
+    .mission-strive-sections .mission-strive-header{
+        -webkit-transition: 0.3s ease-in-out all;
+        -moz-transition: 0.3s ease-in-out all;
+        transition: 0.3s ease-in-out all;
+    }
+    .mission-strive-sections .mission-strive-header:hover{
+        border-bottom: 1px solid #85BCFF;
+    }
+}
+.mission-strive-section{
+    padding: 0.5rem 0rem;
+}
+
+.mission-strive-section-image-container {
+    width: 8rem;
+    margin: 2rem 0rem;
+}
+
+.mission-strive-section p{
+    font-size: 0.8rem;
+    letter-spacing: 0.01rem;
+    color: #7A8297;
+    opacity: 0.8;
+    line-height: 1.5rem;
+}
+
+.mission-strive-header-active{
+    color: #000 !important;
+}
+@media only screen and (max-width: 770px){
+    .mission-strive-header-active{
+        color: #000 !important;
+        border-bottom: 1px solid #85BCFF;
+    }
+}
+
+
+.selectBackground{
+    background: #D1E6FF;
+    width: 50%;
+    height: 0.8rem;
+    z-index: -2;
+    position: absolute;
+    margin-top: -2.2rem;
+}
+@media only screen and (max-width: 770px){
+    .selectBackground{
+        display: none;
+    }
+}
+
+.mission-strive-sections-fields{
+    position: sticky;
+    top: 1%;
+    z-index: 2;
+}
+
+@media only screen and (max-width: 770px){
+    .mission-strive-sections-fields{
+        top: 1%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+
+/* Real world problems */
+.real-world{
+    padding: 3rem 0vh;
+}
+
+.real-world h2{
+    text-align: center;
+}
+
+.real-world-section{
+    height: 15rem;
+    background: rgba(217, 221, 227, 0.17);
+    border-radius: 2rem;
+    margin: 2rem 0rem;   
+}
+
+@media only screen and (max-width: 770px){
+    .real-world-section{
+        height: 100%;
+        margin: 2rem 0rem;   
+    }
+}
+
+.real-world-section h6{
+    color: #000;
+    font-size: 0.8rem;
+}
+.real-world-section p{
+    font-size: 0.8rem;
+    line-height: 1.6rem;
+}
+.real-world-section .row{
+    width: 100% !important;
+}
+
+@media only screen and (max-width: 770px){
+    .real-world-section .row{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
+.real-world-section .real-world-section-number{
+    background: #DBECFF;
+    padding: 0;
+    display: flex;
+    color: #579CFF;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    position: relative;
+    top: 0;
+    height: 15rem;
+    font-size: 7rem;
+    border-radius: 2rem;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 770px){
+    .real-world-section .real-world-section-number{
+        height: auto;
+        width: 100%;
+        font-size: 5rem;
+    }
+}
+
+.real-world-section .real-world-section-desc{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mission-end{
+    line-height: 3rem;
+    padding: 2rem 0rem;
+}

@@ -13,7 +13,7 @@ import Img from "gatsby-image"
  * - `StaticQuery`: https://gatsby.app/staticquery
  */
 
-const Logo = () => (
+const Whatsapp = () => (
     <StaticQuery
         query={graphql`
       query {
@@ -29,4 +29,4 @@ const Logo = () => (
         render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
     />
 )
-export default Logo
+export default Whatsapp

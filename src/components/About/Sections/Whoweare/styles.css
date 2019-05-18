@@ -4,12 +4,26 @@
     margin-right: auto; 
 }
 
+@media only screen and (max-width: 770px){
+    .Whocontainer{
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto; 
+    }
+}
+
 .Whoweare{
     width: 100%;
     background: #70ADFF;
-    height: 50vh;
+    min-height: 50vh;
     border-radius: 2rem;
     padding: 0rem 6rem;
+}
+@media only screen and (max-width: 770px){
+    .Whoweare{
+        padding: 2rem 1.5rem;
+        min-height: 60vh;
+    }
 }
 
 .Whoweare h2{
@@ -17,12 +31,25 @@
     text-align: center;
     padding: 3.5rem 0rem;
 }
+@media only screen and (max-width: 770px){
+    .Whoweare h2{
+        padding: 1.5rem 0rem;
+    }
+}
+
 
 .Whoweare p{
     color: #fff;
     letter-spacing: 0.03rem;
     line-height: 2rem;
 }
+
+@media only screen and (max-width: 770px){
+    .Whoweare p{
+        text-align: center;
+    }
+}
+
 .meet{
     padding-bottom: 2rem; 
 }
@@ -41,11 +68,22 @@
 
 .right{
     padding-right:2rem; 
-}
+}  
+
 
 .left{
     padding-left:2rem; 
 }
+
+@media only screen and (max-width: 770px){
+    .right{
+        padding-right:0rem; 
+    }
+    .left{
+        padding-left:0rem; 
+    }
+}
+
 
 .partnerDescription{
     display: flex;
@@ -96,6 +134,13 @@
     margin-right: auto;
     margin-top: 3.5rem;
 }
+
+@media only screen and (max-width: 770px){
+    .catch-imageContainer{
+        width: 100%;
+    }
+}
+
 
 .dots{
     display: flex;

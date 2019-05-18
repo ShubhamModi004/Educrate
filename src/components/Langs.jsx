@@ -7,8 +7,10 @@ import PageContext from '../layout/PageContext';
 
 const buttonStyle = {
   margin: '0.5rem',
-  borderRadius: '10px',
-  border: 0,
+  borderRadius: '1rem', 
+  background: '#fff',
+  width: '3rem',
+  fontSize: '0.8rem',
   cursor: 'pointer',
 };
 
@@ -16,7 +18,7 @@ const LangButton = ({ label, chosen, onClick }) => (
   <button
     onClick={onClick}
     style={{
-      background: chosen ? '#FFAF1E' : 'white',
+      border: chosen ? '1px solid #85BCFF' : 'white',
       ...buttonStyle,
     }}
   >

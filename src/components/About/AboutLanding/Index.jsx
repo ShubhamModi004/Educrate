@@ -13,7 +13,7 @@ import './styles.css';
 class Index extends Component {
     render() {
         return (
-            <div className="home-main-title container">
+            <div className="about-main-title container">
                 <div className="main-title">
                     <h2><FormattedMessage id="EVERYTHING YOU NEED TO KNOW ABOUT US" /></h2>
                     <p className="light"><FormattedMessage id="Get to know deeper insights about who we are, what drives us and what's our mission" /></p>

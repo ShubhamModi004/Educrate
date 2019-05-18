@@ -18,7 +18,7 @@ class Index extends Component {
                 <div className="main-title">
                     <h2><FormattedMessage id="home.Revolutionizing the way content is delivered in school" /></h2>
                     <p className="light"><FormattedMessage id="home.Educrate aims to provide the best form of education with the help of tech." /></p>
-                    <Link className="yellowButtons"><FormattedMessage id="FIND OUT HOW" /></Link>
+                    <Link className="yellowButtons"><FormattedMessage id="home.FIND OUT HOW" /></Link>
                 </div>
                 <div className="main-title-imageSection">
                     <HomeLanding/>

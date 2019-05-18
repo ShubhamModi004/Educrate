@@ -1,7 +1,7 @@
 module.exports = [
   {
     locale: 'pl',
-    label: 'हिं',
+    label: 'हिंदी',
   },
   {
     locale: 'en',

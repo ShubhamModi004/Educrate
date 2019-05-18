@@ -1,5 +1,5 @@
 .logo{
-    width: 12rem;
+    width: 10rem;
 }
 
 .header{
@@ -8,10 +8,20 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    z-index: 2;
+    z-index: 10;
     top: 0;
     left: 0;
     right: 0;
+    overflow: hidden;
+}
+
+.langLogo{
+    display: flex;
+    align-items: center;
+}
+
+.langLogo .logo{
+    margin-right: 2rem;
 }
 
 .menu-wrapper{
