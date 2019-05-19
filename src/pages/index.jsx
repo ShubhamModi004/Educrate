@@ -5,11 +5,13 @@ import withLayout from '../layout';
 import Link from '../components/Link';
 import Landing from '../components/Home/Landing';
 import About from '../components/Home/About';
+import How from '../components/Home/How';
 
 const IndexPage = () => (
   <>
     <Landing/>
     <About/>
+    <How/>
   </>
 );
 

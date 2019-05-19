@@ -24,9 +24,9 @@ const Header = ({ siteTitle, hideLangs }) => (
         </div>
         <div className="menu-wrapper">
           <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Home</Link>
-          <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About Us</Link>
-          <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Mission</Link>
-          <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
+          <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
+          <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
+          <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">FAQ</Link>
           <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active">Contact us</Link>
           <Link to="/" className="getinTouch" style={{ textDecoration: `none` }} activeClassName="active">GET IN TOUCH</Link>
         </div>

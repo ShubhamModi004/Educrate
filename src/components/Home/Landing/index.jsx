@@ -3,7 +3,7 @@ import { FormattedMessage } from 'react-intl';
 import { Link } from 'gatsby';
 
 // Importing Image
-import HomeLanding from './HomeLanding';
+import LandingSection from './LandingSection';
 import Facebook from '../../common/Facebook';
 import Instagram from '../../common/Instagram';
 import Whatsapp from '../../common/Whatsapp';
@@ -17,11 +17,11 @@ class Index extends Component {
             <div className="home-main-title container">
                 <div className="main-title">
                     <h2><FormattedMessage id="home.Revolutionizing the way content is delivered in school" /></h2>
-                    <p className="light"><FormattedMessage id="home.Educrate aims to provide the best form of education with the help of tech." /></p>
+                    <p className="light"><FormattedMessage id="Digital education to all class of students" /></p>
                     <Link className="yellowButtons"><FormattedMessage id="home.FIND OUT HOW" /></Link>
                 </div>
                 <div className="main-title-imageSection">
-                    <HomeLanding/>
+                    <LandingSection/>
                 </div>
                 <div className="socialMedia">
                     <Facebook />
