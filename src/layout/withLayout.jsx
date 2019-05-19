@@ -42,14 +42,9 @@ const withLayout = customProps => PageComponent => props => {
           <PageContext.Provider value={pageContextValue}>
             <SEO title={pageTitle} lang={pageLocale} />
             <Header className="position-sticky" siteTitle={data.site.siteMetadata.title} hideLangs={hideLangs} />
-              <main>
+              <main className="body">
                 <PageComponent {...props} />
               </main>
-              {/* <footer>
-                © {new Date().getFullYear()}, Built with ❤️ by 
-                {` `}
-                <a href="https://blckstudio.netlify.com/">BLCK STUDIO</a>
-              </footer> */}
           </PageContext.Provider>
         </IntlProvider>
       )}

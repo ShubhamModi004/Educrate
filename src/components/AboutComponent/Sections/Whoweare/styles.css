@@ -22,7 +22,7 @@
 @media only screen and (max-width: 770px){
     .Whoweare{
         padding: 2rem 1.5rem;
-        min-height: 60vh;
+        min-height: 100%;
     }
 }
 

@@ -15,6 +15,7 @@
     overflow: hidden;
 }
 
+
 .langLogo{
     display: flex;
     align-items: center;
@@ -70,3 +71,146 @@
     transform: translate(-50%, -50%);
     font-size:1.5rem; 
 }
+
+/* hamburger menu */
+.section-header {
+    z-index: 104 !important;
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+}
+.section-header:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.025);
+}
+.section__title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 3.5rem;
+  margin: 0;
+  letter-spacing: -.25rem;
+  color: #fff;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+
+.row {
+  display: flex;
+  margin-right: -15px;
+  margin-left: -15px;
+  flex-wrap: wrap;
+}
+
+.col {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  min-height: 1px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+@media only screen and (min-width: 576px) {
+  .col {
+    max-width: 33.333333%;
+    flex: 0 0 33.333333%;
+  }
+}
+
+.hamburger {
+  position: relative;
+  cursor: pointer;
+  height: 2.5rem;
+  width: 3rem;
+}
+.hamburger__bar {
+  position: relative;
+  transform: translateY(1rem);
+}
+.hamburger__bar, .hamburger__bar:before, .hamburger__bar:after {
+  height: 0.1rem;
+  width: 2.5rem;
+  background-color: #000;
+}
+.hamburger__bar:before, .hamburger__bar:after {
+  content: '';
+  left: 0;
+  position: absolute;
+}
+.hamburger--v1 .hamburger__bar {
+  transition: 0.4s ease;
+}
+.hamburger--v1 .hamburger__bar:before, .hamburger--v1 .hamburger__bar:after {
+  transition: 0.4s ease;
+}
+.hamburger--v1 .hamburger__bar:before {
+  transform: translateY(-0.6rem);
+}
+.hamburger--v1 .hamburger__bar:after {
+  transform: translateY(0.6rem);
+}
+.hamburger--v1.is-active .hamburger__bar {
+  background-color: transparent;
+}
+.hamburger--v1.is-active .hamburger__bar:before {
+  transform: translateY(0) rotate(-45deg);
+}
+.hamburger--v1.is-active .hamburger__bar:after {
+  transform: translateY(0) rotate(45deg);
+}
+
+
+
+/* few fixes */
+.desktop{
+  display: block;
+}
+
+.mobile{
+  display: none;
+}
+
+@media only screen and (max-width: 998px){
+  .desktop{
+    display: none !important;
+  }
+  .mobile{
+    display: block;
+  }
+}
+
+.header-links-hamburger{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: #FFCC73;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-links-hamburger a{
+  font-size: 2rem;
+  color: #000;
+  text-decoration: none;
+  padding: 1rem 0;
+}
+
+.header-links-hamburger .active::after{
+  top: 70%;
+  font-size: 3rem;
+}
+
+.headerVisible ~ .body{
+  position: relative !important;
+  z-index: -2 !important;
+}
+
+
+a img:parent { background: none; }
