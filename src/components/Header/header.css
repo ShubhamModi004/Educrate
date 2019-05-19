@@ -1,3 +1,5 @@
+
+
 .logo{
     width: 10rem;
 }
@@ -16,10 +18,32 @@
 }
 
 
+
+
 .langLogo{
     display: flex;
     align-items: center;
 }
+
+@media only screen and (max-width: 998px){
+  .langLogo {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 75vw;
+  }
+}
+
+@media only screen and (max-width: 770px){
+  .langLogo {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 65vw;
+  }
+}
+
+
 
 .langLogo .logo{
     margin-right: 2rem;
@@ -75,9 +99,8 @@
 /* hamburger menu */
 .section-header {
     z-index: 104 !important;
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
+    top: 0rem;
+    right: 0rem;
 }
 .section-header:nth-child(even) {
   background-color: rgba(0, 0, 0, 0.025);

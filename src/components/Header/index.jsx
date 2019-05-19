@@ -46,7 +46,7 @@ class Header extends Component {
               </div>
               {/* Mobile Menu */}
               <div className="mobile">
-                <section className="section-header" onClick={() => this.toggleHamburger()}>
+            <section className="section-header" style= {{position: isActive ? 'relative' : 'relative'}} onClick={() => this.toggleHamburger()}>
                   <div className="container">
                     <div className="row">
                       <div className="col">
