@@ -218,11 +218,16 @@
 .header-links-hamburger{
   position: fixed;
   width: 100vw;
+  -webkit-overflow-width:100vw;
   height: 100vh;
+  -webkit-overflow-height:100vw;
   background: #FFCC73;
   top: 0;
+  -webkit-overflow-top:100vw;
   left: 0;
+  -webkit-overflow-left:100vw;
   z-index: 100;
+  -webkit-overflow-z-index:100vw;
   display: flex;
   flex-direction: column;
   align-items: center;
