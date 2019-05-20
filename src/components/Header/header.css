@@ -241,9 +241,15 @@
   font-size: 3rem;
 }
 
+.headerVisible{
+  display: block;
+  position: absolute !important;
+}
+
 .headerVisible ~ .body{
   position: relative !important;
   z-index: -2 !important;
+  display: none;
 }
 
 

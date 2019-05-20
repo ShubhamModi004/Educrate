@@ -25,7 +25,7 @@ class Header extends Component {
             background: 'transparent',
             position: 'relative'
           }}
-          className={"position-sticky container " + (isActive ? 'headerVisible' : '')}
+          className={"container " + (isActive ? 'headerVisible' : '')}
         >
           <div className="header" style={{ position: 'relative'}}>
               <div className="langLogo">       
