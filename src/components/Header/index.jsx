@@ -23,11 +23,11 @@ class Header extends Component {
         <header
           style={{
             background: 'transparent',
-            position: 'relative'
+            position: isActive ? 'fixed' : 'relative'
           }}
           className={"container " + (isActive ? 'headerVisible' : '')}
         >
-          <div className="header" style={{ position: 'relative'}}>
+          <div className="header" style={{ position:  isActive ?  'fixed': 'relative'}}>
               <div className="langLogo">       
                 <div className="logo">
                   <Link to="/" style={{ textDecoration: `none` }}>
