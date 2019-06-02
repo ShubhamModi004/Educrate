@@ -1,0 +1,14 @@
+.purchase-faq-section{
+    min-height: 28rem;
+    background: #EEF6FF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 4rem 0 11rem 0;
+}
+
+.purchase-faq-section h6{
+    font-weight: 600;
+}

@@ -1,19 +1,31 @@
 .how-we-do-it{
     min-height: 90vh;
-    background: #DBECFF;
+    background: #EEF6FF;
 }
 
 .how-we-do-it-title{
     text-align: center;
-    padding: 8vh 0;
+    padding: 6rem 0;
 }
 
-.how-we-do-it-title p{
-    color: #1F232D;
+.how-we-do-it-title .text{
+    color: #000000 !important;
     letter-spacing: 0.015;
     line-height: 2rem;
     font-weight: 600;
     margin: 2.5rem 0; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text p{
+    color: #000000 !important;
+}
+.text h5{
+    margin-bottom: 0;
+    position: relative;
+    top: -0.55rem;
+    padding-left: 0.4rem;
 }
 
 .product-features{

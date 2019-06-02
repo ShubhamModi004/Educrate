@@ -1,0 +1,60 @@
+
+
+.toggler {
+
+}
+
+.collapsible {
+    background: #FFCC73;
+    height: 3.5rem;
+    line-height: 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    border-bottom: 0.5px solid rgba(112, 112, 112, 0.30);
+}
+
+.icon {
+    text-decoration: underline;
+    font-size: 0.6rem;
+}
+
+.toggler .label {
+    padding-left: .5em;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.tableRow{
+    padding: 0 3rem;
+    display: flex;
+    flex: 1;
+}
+
+.tableDetail{
+    flex: 1;
+}
+
+.key{
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+.value{
+    font-size: 0.8rem;
+    color: #1F232D;
+}
+.tableHeader{
+    background: #1E81CE;
+    min-height: 3rem;
+    padding: 0 2rem;
+    margin-top: 4rem;
+    display: flex;
+    flex: 1;
+}
+.tableHeader-details{
+    color: #fff;
+    flex: 1;
+    padding: 0.75em;
+    font-weight: 700; 
+}

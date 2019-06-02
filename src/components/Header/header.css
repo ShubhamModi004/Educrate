@@ -15,6 +15,7 @@
     left: 0;
     right: 0;
     overflow: hidden;
+    padding-top: 2rem;
 }
 
 
@@ -55,6 +56,7 @@
 .menu-wrapper a{
     color: #7A8297;
     font-size: 0.7rem;
+    font-weight: 400;
     -webkit-transition: 0.3s ease-out;
     -moz-transition: 0.3s ease-out;
     transition: 0.3s ease-out;
@@ -221,7 +223,7 @@
   -webkit-overflow-width:100vw;
   height: 100vh;
   -webkit-overflow-height:100vw;
-  background: #FFCC73;
+  background: #5A4625;
   top: 0;
   -webkit-overflow-top:100vw;
   left: 0;
@@ -249,6 +251,8 @@
 .headerVisible{
   display: block;
   position: absolute !important;
+  height: 100vh !important;
+  z-index: 200 !important;
 }
 
 .headerVisible ~ .body{
@@ -259,4 +263,3 @@
 }
 
 
-a img:parent { background: none; }

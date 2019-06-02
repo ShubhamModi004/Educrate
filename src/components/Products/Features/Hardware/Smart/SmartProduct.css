@@ -1,0 +1,152 @@
+.smart-product-classroom{
+    min-height: 90vh;
+    padding: 3rem 0vh 3rem 0vh;
+}
+
+.smart-product-classroom .smart-classroom-title{
+    display: flex;
+    justify-content: flex-start;
+}
+
+@media only screen and (max-width: 770px){
+    .smart-product-classroom .smart-classroom-title{
+        display: flex;
+        justify-content: center;
+    }
+}
+.smart-product-classroom .smart-classroom-title h2{
+    padding: 0 0rem;
+    margin-right: 1rem;
+    position: relative;
+    color: #000;
+}
+
+@media only screen and (max-width: 770px){
+    .smart-product-classroom .smart-classroom-title h2{
+        font-size: 01rem;
+    }
+}
+.smart-product-classroom .yellowbg{
+    background: #FFCC73;
+    padding: 1.3rem 1.2rem !important;
+    border-radius: 1rem;
+    margin-top: -0.5rem;
+}
+
+.smart-product-classroom .smart-classroom-text{
+    color: #000 !important;
+    text-align: center;
+    line-height: 2rem;
+
+}
+
+.smart-product-classroom .smart-classroom-text p{
+    color: #000 !important;
+    font-weight: 600;
+}
+
+
+/* nj */
+.smart-product-classroom .smart-classroom-product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0rem;
+}
+
+@media only screen and (max-width: 770px){
+    .smart-product-classroom .smart-classroom-product{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2rem 0rem;
+    }
+}
+
+.smart-product-classroom .smart-classroom-product-feature .gatsby-image-wrapper{
+    width: 4rem;
+    height: 4rem;
+}
+.smart-product-classroom .smart-classroom-product-feature .gatsby-image-wrapper img{
+    object-fit: contain !important;
+}
+
+.smart-product-classroom .smart-classroom-product-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 10rem;
+    padding: 0.5rem 0;
+    width: 12rem;
+}
+@media only screen and (max-width: 770px){
+    .smart-product-classroom .smart-classroom-product-title{
+        height: 100%;
+        width: 12rem;
+    }
+}
+.smart-product-classroom .smart-classroom-product-plus{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 10rem;
+    padding: 0.5rem 0;
+    width: 3rem;
+}
+@media only screen and (max-width: 770px){
+    .smart-product-classroom .smart-classroom-product-plus{
+        height: 5rem;
+        width: 3rem;
+    }
+}
+
+.smart-product-classroom .smart-classroom-product-title h6{
+    text-align: center;
+    color: #1E81CE;
+    font-size: 0.6rem;
+    font-weight: 600;
+    line-height: 1rem;
+
+}
+
+
+.smart-product-classroom .hardware .gatsby-image-wrapper{
+    width: 6rem !important;
+    margin-top: -0.8rem;
+}
+@media only screen and (max-width: 770px){
+    .smart-product-classroom  .gatsby-image-wrapper{
+        width: 10rem !important;
+        margin-bottom: 1rem
+    }
+    .smart-product-classroom .hardware .gatsby-image-wrapper{
+        width: 10rem !important;
+        margin-bottom: 1rem
+    }
+}
+.smart-product-classroom .plus{
+    margin-top: 1rem; 
+}
+@media only screen and (max-width: 770px){
+    .smart-product-classroom .plus{
+        margin-top: 0rem; 
+    }
+}
+
+.smart-product-classroom .plus .gatsby-image-wrapper{
+    height: 1.5rem !important;
+}
+
+.smart-product-classroom .visualizer{
+    padding-bottom: 1.3rem !important;
+}
+
+.product-page-smart-paragraph{
+    color: #1F232D !important;
+    text-align: left;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+}

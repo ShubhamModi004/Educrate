@@ -1,0 +1,87 @@
+
+
+.software-paragraph{
+    padding: 2rem 4rem 0rem 0rem;
+}
+
+.software-paragraph h5{
+}
+.software-paragraph p{
+    color: #1F232D;
+    line-height: 2rem;
+    font-weight: 600;
+}
+
+
+/* dassd */
+.content-features{
+    padding: 0rem 0rem 3rem 0rem;
+}
+
+.content-features h2{
+    text-align: center;
+}
+
+.content-features-section{
+    height: 7rem;
+    background: rgba(217, 221, 227, 0.17);
+    border-radius: 2rem;
+    margin: 2rem 0rem;   
+}
+
+@media only screen and (max-width: 770px){
+    .content-features-section{
+        height: 100%;
+        margin: 2rem 0rem;   
+    }
+}
+
+.content-features-section h6{
+    color: #000;
+    font-size: 0.8rem;
+}
+.content-features-section p{
+    font-size: 0.8rem;
+    line-height: 1.6rem;
+}
+.content-features-section .row{
+    width: 100% !important;
+}
+
+@media only screen and (max-width: 770px){
+    .content-features-section .row{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
+.content-features-section .content-features-section-number{
+    background: #DBECFF;
+    padding: 0;
+    display: flex;
+    color: #579CFF;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    font-weight: 700;
+    position: relative;
+    top: 0;
+    height: 7rem;
+    font-size: 3rem;
+    border-radius: 2rem;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 770px){
+    .content-features-section .content-features-section-number{
+        height: auto;
+        width: 100%;
+        font-size: 4rem;
+    }
+}
+
+.content-features-section .content-features-section-desc{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

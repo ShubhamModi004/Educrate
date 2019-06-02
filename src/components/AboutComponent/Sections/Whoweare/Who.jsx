@@ -3,7 +3,7 @@ import { FormattedMessage } from 'react-intl';
 import { Link } from 'gatsby';
 
 // Importing Image
-
+import Slider from './Slider';
 
 // import css
 import './styles.css';
@@ -61,11 +61,8 @@ class Who extends Component {
                 </div>
                 <div className="catch">
                     <h5>CATCH US IN ACTION</h5>
-                    <div className="catch-imageContainer"></div>
-                    <div className="dots">
-                        <div className="dot"></div>
-                        <div className="dot"></div>
-                        <div className="dot"></div>
+                    <div className="Slider">
+                        <Slider/>
                     </div>
                 </div>
             </div>

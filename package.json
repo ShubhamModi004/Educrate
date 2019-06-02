@@ -5,6 +5,8 @@
   "version": "1.0.0",
   "author": "Shubham Modi",
   "dependencies": {
+    "@material-ui/core": "^4.0.0",
+    "@material-ui/icons": "^4.0.0",
     "browser-lang": "^0.0.1",
     "flat": "^4.1.0",
     "gatsby": "^2.1.24",
@@ -15,13 +17,20 @@
     "gatsby-plugin-sharp": "^2.0.25",
     "gatsby-source-filesystem": "^2.0.23",
     "gatsby-transformer-sharp": "^2.1.15",
+    "material-auto-rotating-carousel": "^3.0.1",
     "path": "^0.12.7",
     "prop-types": "^15.7.2",
-    "react": "^16.8.4",
+    "react": "^16.8.6",
+    "react-circular-progressbar": "^2.0.0",
+    "react-collapse": "^4.0.3",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
+    "react-intersection-observer": "^8.23.0",
     "react-intl": "^2.8.0",
-    "react-reveal": "^1.2.2"
+    "react-motion": "^0.5.2",
+    "react-reveal": "^1.2.2",
+    "react-spring": "^8.0.20",
+    "react-swipeable-views": "^0.13.3"
   },
   "keywords": [
     "gatsby"

@@ -1,0 +1,40 @@
+
+
+.footer-socials{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-social-images{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    align-items: center;
+    margin: 3rem auto; 
+}
+
+.Insta-footer,
+.Facebook-footer,
+.Whatsapp-footer{
+    width: 10rem;
+    height: 10rem;
+    background: #FFCC73;
+    border-radius: 3rem;
+    padding: 3rem;
+}
+
+.Insta-footer .gatsby-image-wrapper img,
+.Facebook-footer .gatsby-image-wrapper img,
+.Whatsapp-footer .gatsby-image-wrapper img{
+    object-fit: contain !important;
+}
+
+.footer-bottom{
+    background: #EEF6FF;
+    min-height: 40rem;
+}
+

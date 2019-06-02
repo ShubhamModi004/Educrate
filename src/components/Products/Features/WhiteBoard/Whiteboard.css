@@ -1,0 +1,17 @@
+.interactive-paragraph{
+    color: #1F232D;
+    line-height: 2rem;
+    font-weight: 600;
+    padding: 2rem 4rem 0rem 0rem;
+}
+.interative-feature-list-header{
+    color: #388FD3;
+    margin: 3rem 0;
+}
+
+.interative-feature-list p{
+    color: #4A4A4A;
+    font-size: 0.8rem;
+    font-weight: 600;
+    opacity: 0.9;
+}

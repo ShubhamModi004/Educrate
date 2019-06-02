@@ -1,0 +1,92 @@
+.knowledge-bank-landing{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.knowledge-bank-landing-header{
+    text-align: center;
+    height: 48vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.knowledge-bank-landing-header h3{
+    font-size: 1.95rem;
+}
+
+.knowledge-blue-section{
+    height: 13rem;
+    background: #2196F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.knowledge-invitation-link{
+    width: 40%;
+    height: 24rem;
+    background: #F8F9FB;
+    border-radius: 3rem;
+    position: relative;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bluebeads{
+    width: 5rem;
+    position: absolute;
+    top: 2%;
+    right: -6%;
+}
+
+.yellowbeads{
+    width: 5rem;
+    position: absolute;
+    bottom: 15%;
+    left: -6%;
+}
+
+.knowledge-invitation-link h6{
+    font-weight: 400;
+    margin-top: 2rem;
+}
+
+.googledoc{
+    width: 5.5rem;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.knowledge-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.knowledge-email{
+    width: 100%;
+    background: #fff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 0.8rem;
+    border: none;
+    width: 14rem;
+    border-radius: 1rem;
+    height: 3rem;
+    margin-top: 1.5rem;    
+}
+.knowledge-email:hover,
+.knowledge-email:active,
+.knowledge-email:foucs
+{
+    outline: none !important;
+    border: none !important;
+}
+
+.knowledge-email::placeholder{
+    color: rgba(0, 0, 0, 0.32);
+    font-size: 0.7rem;
+}

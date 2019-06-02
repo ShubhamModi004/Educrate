@@ -13,6 +13,28 @@
     font-weight: 600;
     letter-spacing: 0.04rem;
     max-width: 8.5rem;
+    cursor: pointer;
+    text-align: center;
+}
+
+.yellowBorderButtons{
+    background: #F8F8F8;
+    border-radius: 2rem;
+    border: 2px solid #FFCC73;
+    color: #6D501E;
+    padding: 1rem 1.3rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 0.04rem;
+    max-width: 8.5rem;
+    text-align: center;
+}
+.yellowBorderButtons:hover,
+.yellowBorderButtons:active,
+.yellowBorderButtons:focus{
+    color: #6D501E;
+    text-decoration: none;
 }
 
 .yellowButtons:hover{

@@ -3,15 +3,15 @@ import { FormattedMessage } from 'react-intl';
 
 import withLayout from '../layout';
 import Link from '../components/Link';
-import Landing from '../components/AboutComponent/AboutLanding';
-import Sections from '../components/AboutComponent/Sections';
+import Products from '../components/Products/Landing';
+import Features from '../components/Products/Features';
 
 
 
 const AboutPage = () => (
   <>
-    <Landing />
-    <Sections />
+    <Products />
+    <Features/>
   </>
 );
 

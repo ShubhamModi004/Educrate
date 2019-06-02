@@ -1,0 +1,119 @@
+.smart-classroom{
+    min-height: 90vh;
+    padding: 8rem 0vh 3rem 0vh;
+    text-align: center;
+    
+}
+
+.smart-classroom-title{
+    display: flex;
+    justify-content: center;
+}
+.smart-classroom-title h2{
+    padding: 0 1rem;
+    position: relative;
+}
+
+@media only screen and (max-width: 770px){
+    .smart-classroom-title h2{
+        font-size: 01rem;
+    }
+}
+.yellowbg{
+    background: #FFCC73;
+    padding: 1.3rem 1.2rem !important;
+    border-radius: 1rem;
+    margin-top: -1.3rem;
+}
+
+.smart-classroom-text{
+    color: #000 !important;
+    text-align: center;
+    line-height: 2rem;
+
+}
+
+.smart-classroom-text p{
+    color: #000 !important;
+    font-weight: 600;
+}
+
+
+/* nj */
+.smart-classroom-product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem 0rem;
+}
+
+@media only screen and (max-width: 770px){
+    .smart-classroom-product{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5rem 0rem;
+    }
+}
+
+.smart-classroom-product-feature .gatsby-image-wrapper{
+    width: 6rem;
+    height: 4rem;
+}
+.smart-classroom-product-feature .gatsby-image-wrapper img{
+    object-fit: contain !important;
+}
+
+.smart-classroom-product-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 10rem;
+    padding: 0.5rem 0;
+    width: 12rem;
+}
+.smart-classroom-product-plus{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 10rem;
+    padding: 0.5rem 0;
+    width: 3rem;
+}
+@media only screen and (max-width: 770px){
+    .smart-classroom-product-plus{
+        height: 5rem;
+    }
+}
+
+.smart-classroom-product-title h6{
+    text-align: center;
+    color: #1E81CE;
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1.2rem;
+}
+
+.hardware .gatsby-image-wrapper{
+    height: 6rem !important;
+    width: 8rem !important;
+}
+.plus{
+    margin-top: 1rem; 
+}
+@media only screen and (max-width: 770px){
+    .plus{
+        margin-top: 0rem; 
+    }
+}
+
+.plus .gatsby-image-wrapper{
+    height: 2.5rem !important;
+}
+
+.visualizer{
+    padding-bottom: 1.3rem !important;
+}

@@ -18,7 +18,10 @@ class Index extends Component {
             <div className="how-we-do-it">
                 <div className="how-we-do-it-title container">
                     <h2><FormattedMessage id="How do we do it?" /></h2>
-                    <p><FormattedMessage id="Educrate is a is a unique & Complete SmartClassroom Solution (CSS), a wall mount device, which aims at providing digital education to all class of students. Completely manufactured in India." /></p>
+                    <div className="text">
+                        <p><FormattedMessage id="This is what we call the " /></p>
+                        <h5><FormattedMessage id=" EDUCRATE HARDWARE" /></h5>
+                    </div>
                     <div className="product-features desktop990">
                         <div className="product-features-title">
                             <div className="product-feature">
@@ -86,9 +89,9 @@ class Index extends Component {
                     </div>
 
 
-                    <p><FormattedMessage id="Read more about our product" /></p>
+                    <p className="smart-classroom-text mb-4"><FormattedMessage id="Read more about our product specifications" /></p>
                     
-                    <Link className="yellowButtons"><FormattedMessage id="READ MORE" /></Link>
+                    <Link className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="READ MORE" /></Link>
                 </div>
             </div>
         )

@@ -142,17 +142,12 @@
 }
 
 
-.dots{
-    display: flex;
-    justify-content: center;
-    margin: 2rem auto;
-}
+  
 
-.dot{
-    background: #E6E6E6;
-    width: 0.4rem;
-    height: 0.4rem;
-    margin: 1rem 0.5rem;
-    border-radius: 0.4rem;
-}   
+.Slider{
+    margin: 3rem auto;
+    height: 20rem;
+    width: 80%;
+    position: relative;
+}
 

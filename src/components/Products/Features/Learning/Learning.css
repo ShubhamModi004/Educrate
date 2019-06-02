@@ -1,0 +1,9 @@
+.imageSection{
+    background: #DBECFF;
+    height: 20rem ;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem 0;
+}
