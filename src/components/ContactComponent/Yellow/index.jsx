@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 
 
 // import css
-import './yellow.css';
+import './Yellow.css';
 
 class Index extends Component {
     render() {
