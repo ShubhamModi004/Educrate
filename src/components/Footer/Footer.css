@@ -1,12 +1,14 @@
 
 
 .footer-socials{
-    margin-top: 5rem;
     display: flex;
     flex-direction: column;
     text-align: center;
     align-items: center;
     justify-content: center;
+    padding: 5rem 0;
+    min-height: 35rem;
+
 }
 
 .footer-social-images{
@@ -15,6 +17,11 @@
     width: 50%;
     align-items: center;
     margin: 3rem auto; 
+}
+@media only screen and (max-width: 1000px){
+    .footer-social-images{
+        flex-direction: column;
+    }
 }
 
 .Insta-footer,
@@ -25,6 +32,15 @@
     background: #FFCC73;
     border-radius: 3rem;
     padding: 3rem;
+}
+@media only screen and (max-width: 1000px){
+    .Insta-footer,
+    .Facebook-footer,
+    .Whatsapp-footer{
+        width: 8rem;
+        height: 8rem;
+        margin: 1rem;
+    }
 }
 
 .Insta-footer .gatsby-image-wrapper img,
@@ -38,3 +54,14 @@
     min-height: 40rem;
 }
 
+
+.Facebook-footer img{
+    height: 4rem !important;
+}
+
+@media only screen and (max-width: 1000px){
+    .Facebook-footer img{
+        height: 2.5rem !important;
+    }
+
+}

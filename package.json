@@ -17,6 +17,7 @@
     "gatsby-plugin-sharp": "^2.0.25",
     "gatsby-source-filesystem": "^2.0.23",
     "gatsby-transformer-sharp": "^2.1.15",
+    "google-maps-react": "^2.0.2",
     "material-auto-rotating-carousel": "^3.0.1",
     "path": "^0.12.7",
     "prop-types": "^15.7.2",
@@ -24,13 +25,15 @@
     "react-circular-progressbar": "^2.0.0",
     "react-collapse": "^4.0.3",
     "react-dom": "^16.8.4",
+    "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.0",
     "react-intersection-observer": "^8.23.0",
     "react-intl": "^2.8.0",
     "react-motion": "^0.5.2",
     "react-reveal": "^1.2.2",
     "react-spring": "^8.0.20",
-    "react-swipeable-views": "^0.13.3"
+    "react-swipeable-views": "^0.13.3",
+    "recompose": "^0.30.0"
   },
   "keywords": [
     "gatsby"

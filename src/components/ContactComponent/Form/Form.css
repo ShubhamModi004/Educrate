@@ -1,0 +1,56 @@
+.contact-section{
+    padding: 5rem 0rem 3rem 0;
+    text-align: center;
+}
+
+.contact-section h2{
+    font-size: 1.90rem;
+}
+
+.contact-form-section p{
+    font-weight: 200;
+    margin-top: 1rem;
+    letter-spacing: 0.04rem;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 3.5rem auto;
+    align-items: center;
+}
+
+@media only screen and (max-width: 770px){
+    .contact-form{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin: 3.5rem auto;
+        align-items: center;
+    }
+}
+
+.contact-email, 
+.contact-name,
+.contact-mobile{
+    margin-bottom: 1rem; 
+    background: #FFF9EF;
+    height: 3.5rem;
+    outline: none;
+    border: 2px solid #F6D59B;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    width: 80%;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+
+.contact-email::placeholder, 
+.contact-name::placeholder,
+.contact-mobile::placeholder{
+    font-size: 0.7rem;
+    color: rgba(31, 35, 45, 0.3);
+    font-weight: bold;
+}

@@ -2,11 +2,11 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
 
-const Instawhatsapp = () => (
-    <StaticQuery
-        query={graphql`
+const Whatsappfooter = () => (
+  <StaticQuery
+    query={graphql`
       query {
-        placeholderImage: file(relativePath: { eq: "Instawhatsapp.png" }) {
+        placeholderImage: file(relativePath: { eq: "Whatsappfooter.png" }) {
           childImageSharp {
             fluid(maxWidth: 300) {
               ...GatsbyImageSharpFluid
@@ -15,7 +15,7 @@ const Instawhatsapp = () => (
         }
       }
     `}
-        render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
-    />
+    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
+  />
 )
-export default Instawhatsapp
+export default Whatsappfooter

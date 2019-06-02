@@ -1,0 +1,140 @@
+.yellow-box-section{
+    position: relative;
+}
+
+.yellow-box{
+    background: #FECB72;
+    height: 25rem;
+    width: 100%;
+    position: relative;
+    padding: 5rem 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.yellow-box-text{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.yellow-box-text-header{
+    flex: 4.5;
+}
+.checkbox__line{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.yellow-box-checkbox{
+    flex: 4.5;
+}
+.yellow-box h3{
+    padding: 1rem 0rem;
+    text-align: right;
+    position: relative;
+    font-size: 1.3rem;
+}
+@media only screen and (max-width: 1200px){
+    .yellow-box h3{
+        font-size: 1.2rem;
+    }
+}
+@media only screen and (max-width: 770px){
+    .yellow-box h3{
+        font-size: 1rem;
+        padding-bottom:0;
+        padding-top: 1.5rem; 
+        margin-bottom: 0; 
+    }
+}
+
+.yellow-box label{
+    padding: 1.5rem 0rem 0rem 0rem;
+    text-align: right;
+    margin-bottom: -1rem;
+}
+.yellow-box-text{
+    width: 100%;
+}
+.yellow-box .yellow-box-text-header{
+    padding: 0.2rem 0.5rem;
+}
+
+.yellow-box-text-header{
+    text-align: right;
+}
+
+.checkbox-section{
+    padding: 2rem 0rem;
+    margin-left: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.checkbox-section::before{
+    content: '________';
+    position: absolute;
+    left: 1rem;
+    top: 1.2rem;
+    color: #EAB871;
+}
+
+/* Pen styling: */
+
+.checkbox p{
+    color: #705629;
+    font-weight: 600;
+}
+
+.line{
+    width: 4.7rem ;
+    height: 2px;
+    background: #EAB871;
+    position: relative;
+    top: -0.5rem;
+}
+
+@media only screen and (max-width: 770px){
+    .line{
+        display: none;
+    }
+}
+
+.socials-contactus{
+    position: absolute;
+    left: 2rem;
+    bottom: 1rem;
+    display: flex;
+    width: 35%;
+}
+@media only screen and (max-width: 990px){
+    .socials-contactus{
+        position: absolute;
+        left: 50%;
+        bottom: 10rem;
+        transform: translateX(-50%);
+        justify-content: center;
+    }
+}
+@media only screen and (max-width: 770px){
+    .socials-contactus{
+        bottom: 5rem;
+    }
+}
+
+.socials-contactus .gatsby-image-wrapper{
+    width: 2.5rem;
+    margin-right: 2rem;
+}
+@media only screen and (max-width: 990px){
+    .socials-contactus .gatsby-image-wrapper{
+        width: 2.5rem;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

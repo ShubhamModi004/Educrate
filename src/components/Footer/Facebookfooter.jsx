@@ -2,11 +2,11 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
 
-const Instafooter = () => (
-    <StaticQuery
-        query={graphql`
+const Facebookfooter = () => (
+  <StaticQuery
+    query={graphql`
       query {
-        placeholderImage: file(relativePath: { eq: "Instafooter.png" }) {
+        placeholderImage: file(relativePath: { eq: "Facebookfooter.png" }) {
           childImageSharp {
             fluid(maxWidth: 300) {
               ...GatsbyImageSharpFluid
@@ -15,7 +15,7 @@ const Instafooter = () => (
         }
       }
     `}
-        render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
-    />
+    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
+  />
 )
-export default Instafooter
+export default Facebookfooter
