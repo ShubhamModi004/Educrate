@@ -4,15 +4,13 @@ import { FormattedMessage } from 'react-intl';
 import withLayout from '../layout';
 import Link from '../components/Link';
 import KnowledgeLanding from '../components/KnowledgeBank/KnowledgeLanding';
-import About from '../components/Home/About';
-import How from '../components/Home/How';
-import Smart from '../components/Home/Smart';
-import Future from '../components/Home/Future';
-import Counter from '../components/Home/Counter';
+import KnowledgeDetails from '../components/KnowledgeBank/KnowledgeDetails';
+
 
 const IndexPage = () => (
   <>
     <KnowledgeLanding />
+    <KnowledgeDetails />
   </>
 );
 

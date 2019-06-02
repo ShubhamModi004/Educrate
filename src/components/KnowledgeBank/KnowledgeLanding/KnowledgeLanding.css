@@ -36,6 +36,23 @@
     flex-direction: column;
 }
 
+@media only screen and (max-width: 770px){
+    .knowledge-invitation-link{
+        width: 80% !important;
+    }
+}
+.knowledge-invitation-link{
+    width: 40%;
+    height: 24rem;
+    background: #F8F9FB;
+    border-radius: 3rem;
+    position: relative;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .bluebeads{
     width: 5rem;
     position: absolute;
