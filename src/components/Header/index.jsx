@@ -41,6 +41,7 @@ class Header extends Component {
             <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
             <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
             <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purhcase</Link>
+            <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills</Link>
             <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
             <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">FAQ</Link>
             <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active">Contact us</Link>
@@ -63,6 +64,9 @@ class Header extends Component {
                 <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Home</Link>
                 <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
                 <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
+                <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purhcase</Link>
+                <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills</Link>
+                <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
                 <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">FAQ</Link>
                 <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active">Contact us</Link>
               </div>
