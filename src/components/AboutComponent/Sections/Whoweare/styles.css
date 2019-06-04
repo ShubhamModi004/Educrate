@@ -17,7 +17,7 @@
     background: #70ADFF;
     min-height: 50vh;
     border-radius: 2rem;
-    padding: 0rem 6rem;
+    padding: 4rem 6rem;
 }
 @media only screen and (max-width: 770px){
     .Whoweare{
@@ -29,7 +29,7 @@
 .Whoweare h2{
     color: #fff;
     text-align: center;
-    padding: 3.5rem 0rem;
+    padding-bottom: 2.5rem;
 }
 @media only screen and (max-width: 770px){
     .Whoweare h2{

@@ -1,0 +1,15 @@
+.certification-section{
+    position: relative;
+    overflow: hidden;
+}
+
+.certification-header{
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.certification-header p{
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: #7A8297;
+}

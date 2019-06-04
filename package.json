@@ -27,7 +27,6 @@
     "react-dom": "^16.8.4",
     "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.0",
-    "react-horizontal-scrolling-menu": "^0.6.11",
     "react-intersection-observer": "^8.23.0",
     "react-intl": "^2.8.0",
     "react-motion": "^0.5.2",
@@ -59,6 +58,7 @@
     "babel-preset-gatsby": "^0.1.8",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.3.0",
+    "react-alice-carousel": "^1.13.13",
     "react-test-renderer": "^16.8.4"
   }
 }

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { FormattedMessage } from 'react-intl';
 import { Link } from 'gatsby';
-import ScrollMenu from 'react-horizontal-scrolling-menu';
 
 // Importing Image
 import Skillssection from './Skillssection';
