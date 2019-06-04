@@ -49,10 +49,7 @@
     object-fit: contain !important;
 }
 
-.footer-bottom{
-    background: #EEF6FF;
-    min-height: 40rem;
-}
+
 
 
 .Facebook-footer img{
@@ -64,4 +61,85 @@
         height: 2.5rem !important;
     }
 
+}
+
+
+/* footer bottom */
+
+
+.footer-bottom{
+    background: #F8F9FB;
+    min-height: 28rem;
+    border-top-right-radius: 4rem;
+    border-top-left-radius: 4rem;
+    position: relative;
+    overflow: hidden;
+    padding: 6rem;
+}
+
+@media only screen and (max-width: 770px){
+    .footer-bottom{
+        padding: 4rem 1.5rem;
+    }
+}
+
+.logo-footer{
+    width: 8.5rem;
+    margin-top: -0.2rem;
+    margin-bottom: 2rem;
+}
+
+.blue-footer{
+    width: 50vw;
+    position: absolute;
+    bottom: -4rem;
+    right: -3rem;
+}
+.yellow-footer{
+    width: 30vw;
+    position: absolute;
+    bottom: -4rem;
+    left: -3rem;
+}
+ @media only screen and (max-width: 770px){
+    .blue-footer{
+        width: 60vw;
+        position: absolute;
+        bottom: -2.5rem;
+        right: -2rem;
+    }
+    .yellow-footer{
+        width: 40vw;
+        position: absolute;
+        bottom: -2.5rem;
+        left: -2rem;
+    }
+}
+
+
+
+.footer-quicklinks{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 1.5rem;
+}
+
+.quicklinks{
+    padding: 0.5rem 0rem;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.quicklinks a{
+    margin-top: 0.7rem;
+    font-size: 0.8rem;
+    color: #7A8297;
+}
+
+.quicklinks a:hover,
+.quicklinks a:focus,
+.quicklinks a:active{
+    text-decoration: none;
+    color: #000;
 }

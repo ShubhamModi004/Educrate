@@ -59,6 +59,14 @@
   margin-bottom: 0;
   border-radius: 3.5rem;
 }
+@media only screen and (max-width: 770px){
+  .alice-carousel__next-btn{
+    width: 2.5rem;
+    height: 2.5rem;
+    right: 0.5rem;
+    top: 2.5rem;
+  }
+}
 
 .right-arrow {
   background: #FFCC73;
@@ -76,6 +84,16 @@
   border-radius: 3.5rem;
 }
 
+@media only screen and (max-width: 770px){
+  .right-arrow {
+    width: 2.5rem;
+    height: 2.5rem;
+    right: 0.5rem;
+    top: 2.5rem;
+  }
+}
+
+
 .alice-carousel__prev-btn{
   position: absolute;
   left: 2rem;
@@ -92,6 +110,15 @@
   margin-bottom: 0;
   border-radius: 3.5rem;
 }
+
+@media only screen and (max-width: 770px){
+  .alice-carousel__prev-btn {
+    width: 2.5rem;
+    height: 2.5rem;
+    left: 0.5rem;
+    top: 2.5rem;
+  }
+}
 .left-arrow {
   background: #FFCC73;
   width: 3.5rem;
@@ -106,6 +133,15 @@
   justify-content: center;
   margin-bottom: 0;
 
+}
+
+@media only screen and (max-width: 770px){
+  .left-arrow {
+    width: 2.5rem;
+    height: 2.5rem;
+    left: 0.5rem;
+    top: 2.5rem;
+  }
 }
 
 .alice-carousel__next-btn-item{
@@ -154,6 +190,16 @@
   rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0));
   z-index: 19;
   width: 15vw;
+}
+
+
+@media only screen and (max-width: 770px){
+  .right-blurr{
+    width: 5vw;
+  }
+  .left-blurr{
+    width: 5vw;
+  }
 }
 
 

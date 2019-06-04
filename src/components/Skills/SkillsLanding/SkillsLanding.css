@@ -54,11 +54,15 @@
     margin-right: auto;
 }   
 
+
 @media only screen and (max-width: 770px){
     .skills-main-title-imageSection{
         width: 90vw;
         padding: 2.5rem;
     }
+    .skills-main-title-imageSection .gatsby-image-wrapper{
+        width: 18rem;
+    } 
 }
 
 
