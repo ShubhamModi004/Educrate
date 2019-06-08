@@ -13,7 +13,7 @@ class Index extends React.Component {
     render() {
         return (
             <div className="product-home">
-                <img src={require('./ProductImage.png')} />
+                <ProductImage />
             </div>
         )
     }
