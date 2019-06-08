@@ -1,6 +1,59 @@
 export default {
+
   title: 'Home',
+  'Home': 'Home',
+  'About': 'About',
+  'Product': 'Product',
+  'Purchase': 'Purchase',
+  'More': 'More',
+  'Skills Certificate': 'Skills Certificate',
+  'Knowledge Bank': 'Knowledge Bank',
+  'Faqs': 'Faqs',
+  'Contact Us': 'Contact Us',
   'Revolutionizing the way content is delivered in school': 'Revolutionizing the way content is delivered in school',
+  'Digital education to all class of students': 'Digital education to all class of students',
+  'How do we do it?': 'How do we do it?',
+  'This is what we call the ': 'This is what we call the ',
+  'EDUCRATE HARDWARE': 'EDUCRATE HARDWARE',
+  'PROJECTOR': 'PROJECTOR',
+  'COMPUTER': 'COMPUTER',
+  'SPEAKERS': 'SPEAKERS',
+  'CAMERA': 'CAMERA',
+  'WIFI': 'WIFI',
+
+  'Read more about our product specifications': 'Read more about our product specifications',
+  'READ MORE': 'READ MORE',
+
+  'Complete': 'Complete',
+  'SmartClassroom': 'SmartClassroom',
+  'Solution': 'Solution',
+  'EDUCRATE': 'EDUCRATE',
+  'HARDWARE': 'HARDWARE',
+  'INTERACTIVE WHITEBOARD': 'INTERACTIVE WHITEBOARD',
+  '& GREENBOARD': '& GREENBOARD',
+  'DIGITAL': 'DIGITAL',
+  'CONTENT': 'CONTENT',
+  'HDMI/VGA': 'HDMI/VGA',
+  'CABLES': 'CABLES',
+  'Visualizer': 'Visualizer',
+  'Complete SmartClassroom Solution (CSS) is a combination of Educrate hardware & interactive whiteboard (green board optional) which makes teaching more effective & interactive. The board has in built software which accommodates several applications and can also perform features like edit documents, add comments and save them': 'Complete SmartClassroom Solution (CSS) is a combination of Educrate hardware & interactive whiteboard (green board optional) which makes teaching more effective & interactive. The board has in built software which accommodates several applications and can also perform features like edit documents, add comments and save them',
+
+
+
+  'The future is digitization, The future is our students.': 'The future is digitization, The future is our students.',
+  'Read more about how we could help our students get the best that they deserve.Let us take a look at the mission that keeps us going.': 'Read more about how we could help our students get the best that they deserve.Let us take a look at the mission that keeps us going.',
+  'Ready to take the leap to the future': 'Ready to take the leap to the future',
+
+  "Connect with us on socially": "Connect with us on socially",
+  'Quick Links': 'Quick Links',
+  'Legal': 'Legal',
+  'Lets Talk': 'Lets Talk',
+  'Privacy Policy': 'Privacy Policy',
+  'Complaint Registration': 'Complaint Registration',
+  'Warranty & Delivery Policy': 'Warranty & Delivery Policy',
+  'Support': 'Support',
+
+  'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',
   'Educrate aims to provide the best form of education with the help of tech.': 'Educrate aims to provide the best form of education with the help of tech.',
   'FIND OUT HOW': 'FIND OUT HOW',
   'Who we are': 'Who we are',

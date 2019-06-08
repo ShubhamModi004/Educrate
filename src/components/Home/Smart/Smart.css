@@ -17,6 +17,7 @@
 @media only screen and (max-width: 770px){
     .smart-classroom-title h2{
         font-size: 01rem;
+        padding: 0 0.5rem;
     }
 }
 .yellowbg{

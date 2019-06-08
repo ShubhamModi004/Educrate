@@ -6,17 +6,19 @@ import Link from '../components/Link';
 import Landing from '../components/Home/Landing';
 import About from '../components/Home/About';
 import How from '../components/Home/How';
+import Product from '../components/Home/Product';
 import Smart from '../components/Home/Smart';
 import Future from '../components/Home/Future';
 import Counter from '../components/Home/Counter';
 
 const IndexPage = () => (
   <>
-    <Landing/>
-    <About/>
-    <How/>
-    <Smart/>
-    <Future/>
+  <Landing />
+  <About />
+  <How />
+  <Product />
+  <Smart />
+  <Future />
   </>
 );
 

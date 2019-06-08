@@ -17,41 +17,41 @@ class Index extends Component {
         return (
             <div className="how-we-do-it">
                 <div className="how-we-do-it-title container">
-                    <h2><FormattedMessage id="How do we do it?" /></h2>
+                    <h2><FormattedMessage id="home.How do we do it?" /></h2>
                     <div className="text">
-                        <p><FormattedMessage id="This is what we call the " /></p>
-                        <h5><FormattedMessage id=" EDUCRATE HARDWARE" /></h5>
+                        <p><FormattedMessage id="home.This is what we call the " /></p>
+                        <h5><FormattedMessage id="home.EDUCRATE HARDWARE" /></h5>
                     </div>
                     <div className="product-features desktop990">
                         <div className="product-features-title">
                             <div className="product-feature">
-                                <Projector/>
+                                <Projector />
                             </div>
-                            <h6>PROJECTOR</h6>
+                            <h6><FormattedMessage id="home.PROJECTOR" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
-                                <Computer/>
+                                <Computer />
                             </div>
-                            <h6>COMPUTER</h6>
+                            <h6><FormattedMessage id="home.COMPUTER" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
-                                <Speakers/>
+                                <Speakers />
                             </div>
-                            <h6>SPEAKERS</h6>
+                            <h6><FormattedMessage id="home.SPEAKERS" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
-                                <Camera/>
+                                <Camera />
                             </div>
-                            <h6>CAMERA</h6>
+                            <h6><FormattedMessage id="home.CAMERA" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
-                                <Wifi/>
+                                <Wifi />
                             </div>
-                            <h6>WIFI</h6>
+                            <h6><FormattedMessage id="home.WIFI" /></h6>
                         </div>
                     </div>
 
@@ -60,38 +60,38 @@ class Index extends Component {
                             <div className="product-feature">
                                 <Projector />
                             </div>
-                            <h6>PROJECTOR</h6>
+                            <h6><FormattedMessage id="home.PROJECTOR" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
                                 <Computer />
                             </div>
-                            <h6>COMPUTER</h6>
+                            <h6><FormattedMessage id="home.COMPUTER" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
                                 <Speakers />
                             </div>
-                            <h6>SPEAKERS</h6>
+                            <h6><FormattedMessage id="home.SPEAKERS" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
                                 <Camera />
                             </div>
-                            <h6>CAMERA</h6>
+                            <h6><FormattedMessage id="home.CAMERA" /></h6>
                         </div>
                         <div className="product-features-title">
                             <div className="product-feature">
                                 <Wifi />
                             </div>
-                            <h6>WIFI</h6>
+                            <h6><FormattedMessage id="home.WIFI" /></h6>
                         </div>
                     </div>
 
 
-                    <p className="smart-classroom-text mb-4"><FormattedMessage id="Read more about our product specifications" /></p>
-                    
-                    <Link className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="READ MORE" /></Link>
+                    <p className="smart-classroom-text mb-4"><FormattedMessage id="home.Read more about our product specifications" /></p>
+
+                    <Link className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="home.READ MORE" /></Link>
                 </div>
             </div>
         )

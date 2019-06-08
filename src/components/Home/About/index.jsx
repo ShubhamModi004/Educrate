@@ -15,11 +15,7 @@ class Index extends Component {
                         <Image />
                     </div>
                     <div className="col-md-8 col-12 aboutUs-info">
-                        <p>Educrate was created by keeping in mind that digital/smart
-                        classroom concept should reach all the students, every student
-                        should have equal access to the technological advancements in the
-                        field of education and moreover audio visual content should reach
-                        them, at minimal cost.
+                        <p><FormattedMessage id="home.Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost." />
                         </p>
                         <Link className="yellowButtons"><FormattedMessage id="home.MORE ABOUT US" /></Link>
                     </div>

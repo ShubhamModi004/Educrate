@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Link from '../Link';
 import Langs from '../Langs';
+import { FormattedMessage } from 'react-intl';
 import Logo from './Logo';
 import { Transition, Trail } from 'react-spring/renderprops';
 
@@ -28,9 +29,9 @@ class Header extends Component {
     const { isActive } = this.state;
     const { hideLangs } = this.props;
     const menuItems = [
-      <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills Certificate</Link>,
-      <Link to="/FaqPage/" style={{ textDecoration: `none` }} activeClassName="active">Faqs</Link>,
-      <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
+      <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Skills Certificate" /></Link>,
+      <Link to="/FaqPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Faqs" /></Link>,
+      <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Knowledge Bank" /></Link>
     ];
     return (
       <header
@@ -50,14 +51,14 @@ class Header extends Component {
             {!hideLangs && <Langs />}
           </div>
           <div className="menu-wrapper desktop">
-            <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Home</Link>
-            <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
-            <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
-            <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purchase</Link>
+            <Link to="/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Home" /></Link>
+            <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.About" /></Link>
+            <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Product" /></Link>
+            <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Purchase" /></Link>
             <a>
               <div className="Link-dropdown">
                 <p onClick={this.handleBtnClick}>
-                  More +
+                  <FormattedMessage id="home.More" /> +
                 </p>
                 <Transition
                   unique
@@ -98,7 +99,7 @@ class Header extends Component {
                 </Transition>
               </div>
             </a>
-            <Link to="/ContactPage/" style={{ textDecoration: `none` }} className="getinTouch">Contact Us</Link>
+            <Link to="/ContactPage/" style={{ textDecoration: `none` }} className="getinTouch"><FormattedMessage id="home.Contact Us" /></Link>
           </div>
 
           {/* Mobile Menu */}
@@ -116,14 +117,14 @@ class Header extends Component {
             </section>
             {(isActive ?
               <div className="header-links-hamburger">
-                <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Home</Link>
-                <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
-                <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
-                <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purhcase</Link>
-                <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills Certificate</Link>
-                <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
-                <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">Faqs</Link>
-                <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active">Contact us</Link>
+                <Link to="/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Home" /></Link>
+                <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.About" /></Link>
+                <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Product" /></Link>
+                <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Purhcase" />Purhcase</Link>
+                <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Skills Certificate" /></Link>
+                <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Knowledge Bank" /></Link>
+                <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Faqs" /></Link>
+                <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Contact Us" /></Link>
               </div>
               :
               <div />
