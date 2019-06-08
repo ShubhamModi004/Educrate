@@ -3,12 +3,20 @@ import PropTypes from 'prop-types';
 import Link from '../Link';
 import Langs from '../Langs';
 import Logo from './Logo';
+import { Transition, Trail } from 'react-spring/renderprops';
+
 import './header.css';
+
 
 class Header extends Component {
   state = {
-    isActive: false
+    isActive: false,
+    menuOpen: false,
   }
+
+  handleBtnClick = () => {
+    this.setState(prevState => ({ menuOpen: !prevState.menuOpen }));
+  };
 
   toggleHamburger = () => {
     const { isActive } = this.state
@@ -19,6 +27,11 @@ class Header extends Component {
   render() {
     const { isActive } = this.state;
     const { hideLangs } = this.props;
+    const menuItems = [
+      <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills Certificate</Link>,
+      <Link to="/FaqPage/" style={{ textDecoration: `none` }} activeClassName="active">Faqs</Link>,
+      <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
+    ];
     return (
       <header
         style={{
@@ -40,12 +53,54 @@ class Header extends Component {
             <Link to="/" style={{ textDecoration: `none` }} activeClassName="active">Home</Link>
             <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
             <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
-            <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purhcase</Link>
-            <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills</Link>
-            <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
-            <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">FAQ</Link>
-            <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active">Contact us</Link>
+            <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purchase</Link>
+            <a>
+              <div className="Link-dropdown">
+                <p onClick={this.handleBtnClick}>
+                  More +
+                </p>
+                <Transition
+                  unique
+                  reset
+                  items={this.state.menuOpen}
+                  from={{
+                    opacity: 0,
+                    height: 0,
+                    transform: 'translateY(-10%)',
+                  }}
+                  enter={{
+                    opacity: 1,
+                    height: 'auto',
+                    transform: 'translate(0%)',
+                  }}
+                  leave={{ opacity: 0 }}
+                >
+                  {item =>
+                    item &&
+                    (props => (
+                      <div style={props} className="menu">
+                        <Trail
+                          // unique
+                          // reset
+                          items={menuItems}
+                          from={{ opacity: 0 }}
+                          to={{ opacity: 1 }}
+                        >
+                          {trailItem => trailProps => (
+                            <div style={trailProps} className="menuItem">
+                              {trailItem}
+                            </div>
+                          )}
+                        </Trail>
+                      </div>
+                    ))
+                  }
+                </Transition>
+              </div>
+            </a>
+            <Link to="/ContactPage/" style={{ textDecoration: `none` }} className="getinTouch">Contact Us</Link>
           </div>
+
           {/* Mobile Menu */}
           <div className="mobile">
             <section className="section-header" style={{ position: isActive ? 'relative' : 'relative' }} onClick={() => this.toggleHamburger()}>
@@ -65,9 +120,9 @@ class Header extends Component {
                 <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active">About</Link>
                 <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active">Product</Link>
                 <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active">Purhcase</Link>
-                <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills</Link>
+                <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active">Skills Certificate</Link>
                 <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active">Knowledge Bank</Link>
-                <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">FAQ</Link>
+                <Link to="/FAQ/" style={{ textDecoration: `none` }} activeClassName="active">Faqs</Link>
                 <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active">Contact us</Link>
               </div>
               :

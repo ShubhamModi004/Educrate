@@ -68,7 +68,9 @@ class Footer extends Component {
                         </div>
                         <div className="col-md-2 mt-2">
                             <h5>Let's Talk</h5>
-
+                            <div className="contact-footer-link">
+                                <Link to="/ContactPage/" style={{ textDecoration: `none` }} className="getinTouch">Contact Us</Link>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -2,6 +2,7 @@
 
 .logo{
     width: 10rem;
+    
 }
 
 .header{
@@ -10,11 +11,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    z-index: 10;
     top: 0;
     left: 0;
     right: 0;
-    overflow: hidden;
     padding-top: 2rem;
 }
 
@@ -48,7 +47,7 @@
 }
 
 .menu-wrapper{
-    display: flex;
+    display: flex !important;
     justify-content: space-around;
     align-items: center;
 }
@@ -56,19 +55,20 @@
 .menu-wrapper a{
     color: #7A8297;
     font-size: 0.7rem;
+
     font-weight: 400;
     -webkit-transition: 0.3s ease-out;
     -moz-transition: 0.3s ease-out;
     transition: 0.3s ease-out;
     margin: 20px !important;
-    letter-spacing: 0.09rem;
+    letter-spacing: 0.1rem;
 }
 .getinTouch{
     background: #4a70f2;
     border-radius: 5rem;
     color: #fff !important;
     font-weight: bold;
-    padding: 1rem;
+    padding: 1rem 2rem;
 }
 
 .menu-wrapper a:hover{
@@ -223,7 +223,7 @@
   -webkit-overflow-width:100vw;
   height: 100vh;
   -webkit-overflow-height:100vw;
-  background: #5A4625;
+  background: #FFCC73;
   top: 0;
   -webkit-overflow-top:100vw;
   left: 0;
@@ -237,15 +237,22 @@
 }
 
 .header-links-hamburger a{
-  font-size: 2rem;
+  font-size: 1.2rem;
   color: #000;
   text-decoration: none;
   padding: 1rem 0;
 }
 
+
 .header-links-hamburger .active::after{
   top: 70%;
   font-size: 3rem;
+}
+@media only screen and (max-width: 770px){
+  .header-links-hamburger .active::after{
+    top: 50%;
+    font-size: 1.5rem;
+  }
 }
 
 .headerVisible{
@@ -262,4 +269,33 @@
   height: 0vh;
 }
 
+.headerVisible ~ .body ~ .footer{
+  display: none;
+}
 
+
+
+/* drop down menu */
+.menu {
+  background: white;
+  margin: 0 23%;
+  position: fixed;
+  z-index: 10;
+  position: absolute;
+  width: 20vw;
+  margin-left: -8.7vw;
+  text-align: center;
+  box-shadow: 10px 10px 16px -9px #000;
+}
+
+.menuItem {
+  padding: 20px;
+}
+
+.Link-dropdown {
+  position: relative;
+}
+
+.Link-dropdown p{
+  margin-bottom: 0rem;
+}

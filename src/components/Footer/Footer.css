@@ -67,14 +67,16 @@
 /* footer bottom */
 
 
-.footer-bottom{
+.footer-bottom {
     background: #F8F9FB;
     min-height: 28rem;
     border-top-right-radius: 4rem;
     border-top-left-radius: 4rem;
     position: relative;
     overflow: hidden;
+    display: flex;
     padding: 6rem;
+    justify-content: center;
 }
 
 @media only screen and (max-width: 770px){
@@ -89,17 +91,17 @@
     margin-bottom: 2rem;
 }
 
-.blue-footer{
+.blue-footer {
     width: 50vw;
     position: absolute;
-    bottom: -4rem;
-    right: -3rem;
+    bottom: -20%;
+    right: -6%;
 }
-.yellow-footer{
+.yellow-footer {
     width: 30vw;
     position: absolute;
-    bottom: -4rem;
-    left: -3rem;
+    bottom: -30%;
+    left: -3%;
 }
  @media only screen and (max-width: 770px){
     .blue-footer{
@@ -142,4 +144,15 @@
 .quicklinks a:active{
     text-decoration: none;
     color: #000;
+}
+
+
+.contact-footer-link{
+    margin-top: 2.5rem;
+    margin-left: -1rem;
+    
+}
+.contact-footer-link a{
+    font-size: 0.8rem;
+    font-weight: 400;
 }
