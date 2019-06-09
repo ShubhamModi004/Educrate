@@ -51,18 +51,13 @@ class Application extends React.Component {
     render() {
         return (
             <div className='container'>
-                <h1>SOFTWARE</h1>
+                <h1><FormattedMessage id="home.SOFTWARE" /></h1>
                 <div className="software-paragraph">
-                    <h5>Digital Content for E­learning</h5>
-                    <p>Our Interactive WhiteBoard setup adopts the world’s leading
-                    Infrared Positioning Technology along with the green board (optional).
-                    One can use one’s own finger or any other item suchy as dummy pens
-                    or any other object to write on the the Interactive WhiteBoard surface,
-                    whereas the regular green board can be used to write with chalks of any
-                    colour</p>
+                    <h5><FormattedMessage id="home.Digital Content for E­learning" /></h5>
+                    <p><FormattedMessage id="home.Our Interactive WhiteBoard setup adopts the world’s leading Infrared Positioning Technology along with the green board (optional). One can use one’s own finger or any other item suchy as dummy pens or any other object to write on the the Interactive WhiteBoard surface, whereas the regular green board can be used to write with chalks of any colour" /></p>
                 </div>
                 <div className="interative-feature-list">
-                    <h6 className="interative-feature-list-header">CONTENT FEATURES</h6>
+                    <h6 className="interative-feature-list-header"><FormattedMessage id="home.CONTENT FEATURES" /></h6>
                     <div className="content-features">
                         <div className="content-features-section">
                             <div className="row">
@@ -70,7 +65,7 @@ class Application extends React.Component {
                                     1
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>Course content in 2D/3D animation for better learning</h6>
+                                    <h6><FormattedMessage id="home.Course content in 2D/3D animation for better learning" /></h6>
                                 </div>
                             </div>
                         </div>
@@ -80,7 +75,7 @@ class Application extends React.Component {
                                     2
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>1000’s of quizzes and tests.</h6>
+                                    <h6><FormattedMessage id="home.1000’s of quizzes and tests." /></h6>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +85,7 @@ class Application extends React.Component {
                                     3
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>More than 20,000 educational modules.</h6>
+                                    <h6><FormattedMessage id="home.More than 20,000 educational modules." /></h6>
                                 </div>
                             </div>
                         </div>
@@ -100,7 +95,7 @@ class Application extends React.Component {
                                     4
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>Available 24x7 for doubt clearance.</h6>
+                                    <h6><FormattedMessage id="home.Available 24x7 for doubt clearance." /></h6>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +105,7 @@ class Application extends React.Component {
                                     5
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>Free educational software for advanced learners</h6>
+                                    <h6><FormattedMessage id="home.Free educational software for advanced learners" /></h6>
                                 </div>
                             </div>
                         </div>
@@ -120,7 +115,7 @@ class Application extends React.Component {
                                     6
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>Question Bank for over 1 lac questions.</h6>
+                                    <h6><FormattedMessage id="home.Question Bank for over 1 lac questions." /></h6>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +125,7 @@ class Application extends React.Component {
                                     7
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>Full length test series for competitions</h6>
+                                    <h6><FormattedMessage id="home.Full length test series for competitions" /></h6>
                                 </div>
                             </div>
                         </div>
@@ -140,11 +135,11 @@ class Application extends React.Component {
                                     8
                             </div>
                                 <div className="col-md-10 content-features-section-desc">
-                                    <h6>Mapped to CBSE, ICSE & UP Board</h6>
+                                    <h6><FormattedMessage id="home.Mapped to CBSE, ICSE & UP Board" /></h6>
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>

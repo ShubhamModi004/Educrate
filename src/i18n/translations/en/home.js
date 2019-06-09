@@ -28,6 +28,7 @@ export default {
   'SmartClassroom': 'SmartClassroom',
   'Solution': 'Solution',
   'EDUCRATE': 'EDUCRATE',
+  "Educrate": "Educrate",
   'HARDWARE': 'HARDWARE',
   'INTERACTIVE WHITEBOARD': 'INTERACTIVE WHITEBOARD',
   '& GREENBOARD': '& GREENBOARD',
@@ -37,8 +38,39 @@ export default {
   'CABLES': 'CABLES',
   'Visualizer': 'Visualizer',
   'Complete SmartClassroom Solution (CSS) is a combination of Educrate hardware & interactive whiteboard (green board optional) which makes teaching more effective & interactive. The board has in built software which accommodates several applications and can also perform features like edit documents, add comments and save them': 'Complete SmartClassroom Solution (CSS) is a combination of Educrate hardware & interactive whiteboard (green board optional) which makes teaching more effective & interactive. The board has in built software which accommodates several applications and can also perform features like edit documents, add comments and save them',
+  "Interactive Whiteboard": "Interactive Whiteboard",
+  "Our Interactive WhiteBoard setup adopts the world’s leading Infrared Positioning Technology along with the green board (optional). One can use one’s own finger or any other item suchy as dummy pens or any other object to write on the the Interactive WhiteBoard surface, whereas the regular green board can be used to write with chalks of any colour": "Our Interactive WhiteBoard setup adopts the world’s leading Infrared Positioning Technology along with the green board (optional). One can use one’s own finger or any other item suchy as dummy pens or any other object to write on the the Interactive WhiteBoard surface, whereas the regular green board can be used to write with chalks of any colour",
+  "FEATURES": "FEATURES",
+  "+ Infrared sensor technology.": "+ Infrared sensor technology.",
+  "+ 4 point touch with 4 points calibration.": "+ 4 point touch with 4 points calibration.",
+  "+ Interface USB 2.0 International standard communication distance 1.5m, supports 10­15m.": "+ Interface USB 2.0 International standard communication distance 1.5m, supports 10­15m.",
+  "+ Power consumption < 100mA.": "+ Power consumption < 100mA.",
+  "+ Operating system Linux.": "+ Operating system Linux.",
+  "+ Supports screen record and playback.": "+ Supports screen record and playback.",
+  "+ Supports screen record (voice and text synchronization), supports annotation and editing of files with word, PPT format.": "+ Supports screen record (voice and text synchronization), supports annotation and editing of files with word, PPT format.",
+  "+ Supports lines, graphics, triangle, pentagons any polygon drawing and can rub, cut, clone, copy & delete any selected objects.": "+ Supports lines, graphics, triangle, pentagons any polygon drawing and can rub, cut, clone, copy & delete any selected objects.",
+  "+ Support unlimited writing range by moving the pages freely.": "+ Support unlimited writing range by moving the pages freely.",
 
 
+  "SINGLE FRAME INTERACTIVE WHITEBOARD& GREENBOARD": "SINGLE FRAME INTERACTIVE WHITEBOARD& GREENBOARD",
+  "A combination of Interactive WhiteBoard & GreenBoard which can be used both as a digital board and at the same time green board can be used to write with the chalk. In this frame the Interactive WhiteBoard & GreenBoard can be used simultaneously.": "A combination of Interactive WhiteBoard & GreenBoard which can be used both as a digital board and at the same time green board can be used to write with the chalk. In this frame the Interactive WhiteBoard & GreenBoard can be used simultaneously.",
+  "Name": "Name",
+  "Single frame interactive whiteboard & greenboard": "Single frame interactive whiteboard & greenboard",
+  "Weight": "Weight",
+  "6.3 Kgs (approx.)": "6.3 Kgs (approx.)",
+  "Product Size": "Product Size",
+  "Frame": "Frame",
+  "Inustrial Electrophoresis of aluminium alloy": "Inustrial Electrophoresis of aluminium alloy",
+  "External Frame Width": "External Frame Width",
+  "Thickness": "Thickness",
+  "Inner Frame Width": "Inner Frame Width",
+  "1.8 cm with plastic corner solid structure": "1.8 cm with plastic corner solid structure",
+
+
+  "Digital Content for E­learning": "Digital Content for E­learning",
+
+
+  // 
 
   'The future is digitization, The future is our students.': 'The future is digitization, The future is our students.',
   'Read more about how we could help our students get the best that they deserve.Let us take a look at the mission that keeps us going.': 'Read more about how we could help our students get the best that they deserve.Let us take a look at the mission that keeps us going.',
@@ -102,11 +134,36 @@ export default {
 
   // Product Page
   'Providing a complete smartclassroom solution': 'Providing a complete smartclassroom solution',
+  'Digital education to all class of students': 'Digital education to all class of students',
   'SPECIFICATIONS': 'SPECIFICATIONS',
   'WHITEBOARD & GREENBOARD': 'WHITEBOARD & GREENBOARD',
   'SOFTWARE': 'SOFTWARE',
   'MULTI-SENSORY LEARNING': 'MULTI-SENSORY LEARNING',
-
+  'Featuring a brightness of 3200 ANSI Lumens & a high contrast ratio of 15000:1.': 'Featuring a brightness of 3200 ANSI Lumens & a high contrast ratio of 15000:1.',
+  'An inbuilt computer with a RAM of 1GB and HDD of 500GB which is powerful enough to run the digital content from the software and other contents as required by the teachers from the internet (Youtube etc.).': 'An inbuilt computer with a RAM of 1GB and HDD of 500GB which is powerful enough to run the digital content from the software and other contents as required by the teachers from the internet (Youtube etc.).',
+  'It also has in built speakers of 40 Watts to cater to the needs of a class of 40-50 students (Option to attach external speakers is also available).': 'It also has in built speakers of 40 Watts to cater to the needs of a class of 40-50 students (Option to attach external speakers is also available).',
+  'For the purpose of classroom monitoring, Educrate also has a camera at the back which eliminates the use of CCTV camera installation in the class.': 'For the purpose of classroom monitoring, Educrate also has a camera at the back which eliminates the use of CCTV camera installation in the class.',
+  'Educrate can be easily connected to the WiFi network and it also has bluetooth connectivity to connect to other devices.': 'Educrate can be easily connected to the WiFi network and it also has bluetooth connectivity to connect to other devices.',
+  '3 HOURS': '3 HOURS',
+  'Educrate can be easily connected to the WiFi network and it also has bluetooth connectivity to connect to other devices.': 'Educrate can be easily connected to the WiFi network and it also has bluetooth connectivity to connect to other devices.',
+  'Wireless keyboard and mouse are provided along with the device to control the Educrate Hardware.': 'Wireless keyboard and mouse are provided along with the device to control the Educrate Hardware.',
+  "Product Name": "Product Name",
+  "Lens & Picture quality": "Lens & Picture quality",
+  "EXPAND": "EXPAND",
+  "MINIMIZE": "MINIMIZE",
+  "Projection": "Projection",
+  "Short Throw": "Short Throw",
+  "Contrast Ratio": "Contrast Ratio",
+  "Aspect Ratio": "Aspect Ratio",
+  "Lamp Life": "Lamp Life",
+  "15,000 Hours": "15,000 Hours",
+  "Focus Button": "Focus Button",
+  "Yes": "Yes",
+  "Resolution": "Resolution",
+  "Projection System": "Projection System",
+  "Ports & Connectivity": "Ports & Connectivity",
+  "Computer & Processor": "Computer & Processor",
+  "Other": "Other",
 
   // 
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',

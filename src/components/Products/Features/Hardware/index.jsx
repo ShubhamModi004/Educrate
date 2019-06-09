@@ -17,7 +17,7 @@ class Index extends Component {
     render() {
         return (
             <div className="product-hardware container">
-                <h1><FormattedMessage id="home.Hardware" /></h1>
+                <h1><FormattedMessage id="home.HARDWARE" /></h1>
                 <div className="product-hardware-section">
                     <div className="hardware-img">
                         <Projector />
@@ -51,10 +51,10 @@ class Index extends Component {
                         <Wifi />
                     </div>
                     <h6><FormattedMessage id="home.WIFI" /></h6>
-                    <p style={{ color: '#000' }}><FormattedMessage id="home.Educate can be easily connected to the WiFi network and it also has bluetooth connectivity  to connect to other devices." /></p>
+                    <p style={{ color: '#000' }}><FormattedMessage id="home.Educrate can be easily connected to the WiFi network and it also has bluetooth connectivity to connect to other devices." /></p>
                 </div>
                 <h2><FormattedMessage id="home.3 HOURS" /></h2>
-                <p style={{ color: '#000', fontSize: '0.8rem' }}><FormattedMessage id="home.Educate can be easily connected to the WiFi network and it also has bluetooth connectivity  to connect to other devices." /></p>
+                <p style={{ color: '#000', fontSize: '0.8rem' }}><FormattedMessage id="home.Educrate can be easily connected to the WiFi network and it also has bluetooth connectivity to connect to other devices." /></p>
                 <br />
                 <p style={{ color: '#000', fontSize: '0.8rem' }}><FormattedMessage id="home.Wireless keyboard and mouse are provided along with the device to control the Educrate Hardware." /></p>
                 <p style={{ color: '#000', fontSize: '0.8rem' }}><FormattedMessage id="home.Educrate can be wall mount, ceiling mount or table mount as per the comfort of the teachers & the students." /></p>
