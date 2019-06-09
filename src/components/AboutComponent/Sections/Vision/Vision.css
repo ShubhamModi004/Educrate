@@ -1,0 +1,23 @@
+.vision-details{
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    background: #F8F9FB;
+    border-radius: 2rem;
+    display: flex;
+    padding: 5rem ;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    min-height: 50rem;
+}
+
+@media only screen and (max-width: 770px){
+    .vision-details{
+        width: 90%;
+    }
+}
+
+.vision-details h4{
+    font-weight: 400;
+}

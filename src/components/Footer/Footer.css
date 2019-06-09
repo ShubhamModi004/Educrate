@@ -32,6 +32,7 @@
     background: #FFCC73;
     border-radius: 3rem;
     padding: 3rem;
+    cursor: pointer;
 }
 @media only screen and (max-width: 1000px){
     .Insta-footer,
