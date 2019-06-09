@@ -114,7 +114,7 @@ class Features extends Component {
                 <Learning />
             )
         }
-        
+
     }
 
     render() {
@@ -140,8 +140,8 @@ class Features extends Component {
                                         {interactive ? <div className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'single')}>
-                                        <h6 style={{ lineHeight: '1.7rem'}} className={"mission-strive-header " + (single ? 'mission-strive-header-active' : '')}>SINGLE FRAME INTERACTIVE WHITEBOARD & GREENBOARD</h6>
-                                        {single ? <div style={{ marginTop: '-2.5rem'}} className="selectBackground"></div> : null}
+                                        <h6 className={"mission-strive-header " + (single ? 'mission-strive-header-active' : '')}>WHITEBOARD & GREENBOARD</h6>
+                                        {single ? <div style={{ marginTop: '-2.5rem' }} className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'software')}>
                                         <h6 className={"mission-strive-header " + (software ? 'mission-strive-header-active' : '')}>SOFTWARE</h6>
