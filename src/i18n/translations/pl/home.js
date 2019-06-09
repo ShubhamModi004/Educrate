@@ -99,7 +99,21 @@ export default {
   "Government budgets for software products are often limited and the procurement process is highly complex. The EdTech market is also highly fragmented and majorly driven by for-profit players, leading to lack of knowledge among decision-makers on what works and what doesn’t.": "सॉफ्टवेयर उत्पादों के लिए सरकारी बजट अक्सर सीमित होते हैं और खरीद प्रक्रिया अत्यधिक जटिल होती है। एडटेक मार्केट भी अत्यधिक विखंडित और प्रमुखता से मुनाफे वाले खिलाड़ियों द्वारा संचालित होता है, जिसके कारण निर्णय लेने वालों के बीच ज्ञान की कमी होती है कि क्या काम करता है और क्या नहीं।",
   "To address these challenges, our work is focused on making India a centre for innovation, with astrong supply and widespread adoption of low-cost, contextualized, pedagogically sound, proven EdTech solutions for teaching and learning.": "इन चुनौतियों का समाधान करने के लिए, हमारा काम भारत को नवप्रवर्तन के लिए एक केंद्र बनाने के लिए केंद्रित है, जिसमें कम आपूर्ति, प्रासंगिक, व्यापक ध्वनि, शिक्षण और सीखने के लिए एडटेक समाधानों को व्यापक रूप से अपनाना है।",
 
-  // 
+  // Product 
+  'Providing a complete smartclassroom solution': 'एक पूर्ण स्मार्टक्लासरूम समाधान प्रदान करना',
+  'Digital education to all class of students': 'सभी वर्ग के छात्रों को डिजिटल शिक्षा',
+  'SPECIFICATIONS': 'विशेष विवरण',
+  'WHITEBOARD & GREENBOARD': 'व्हाइटबोर्ड एंड ग्रीनबोर्ड',
+  'SOFTWARE': 'सॉफ्टवेयर',
+  'MULTI-SENSORY LEARNING': 'बहुउद्देशीय शिक्षण',
+  'Featuring a brightness of 3200 ANSI Lumens & a high contrast ratio of 15000:1.': '3200 ANSI Lumens की चमक और 15000: 1 का उच्च कंट्रास्ट अनुपात।',
+  'An inbuilt computer with a RAM of 1GB and HDD of 500GB which is powerful enough to run the digital content from the software and other contents as required by the teachers from the internet (Youtube etc.).': 'एक इनबिल्ट कंप्यूटर जिसमें 1GB की RAM और 500GB की HDD होती है जो कि सॉफ्टवेयर से डिजिटल सामग्री और अन्य सामग्री को चलाने के लिए पर्याप्त रूप से शक्तिशाली होती है जो कि शिक्षकों (इंटरनेट आदि) से आवश्यक होती है।',
+  'It also has in built speakers of 40 Watts to cater to the needs of a class of 40-50 students (Option to attach external speakers is also available).': 'इसमें 40- 50 छात्रों की एक कक्षा की जरूरतों को पूरा करने के लिए 40 वाट्स के निर्मित स्पीकर भी हैं (बाहरी स्पीकरों को संलग्न करने का विकल्प भी उपलब्ध है) ।',
+
+
+
+
+
   'FIND OUT HOW': 'पता लगाओ कैसे',
   'Who we are': 'हम जो हैं',
   'MORE ABOUT US': 'हमारे बारे में अधिक',

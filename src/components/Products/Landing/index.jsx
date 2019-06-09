@@ -16,8 +16,8 @@ class Index extends Component {
         return (
             <div className="product-main-title container">
                 <div className="main-title">
-                    <h2><FormattedMessage id="Providing a complete smartclassroom solution " /></h2>
-                    <p className="light"><FormattedMessage id="Digital education to all class of students" /></p>
+                    <h2><FormattedMessage id="home.Providing a complete smartclassroom solution" /></h2>
+                    <p className="light"><FormattedMessage id="home.Digital education to all class of students" /></p>
                 </div>
                 <div className="product-main-title-imageSection">
                     <Product />

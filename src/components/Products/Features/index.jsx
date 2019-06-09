@@ -128,27 +128,27 @@ class Features extends Component {
                             <div className="col-md-3">
                                 <div className="mission-strive-sections-fields">
                                     <div onClick={this.selected.bind(this, 'hardware')}>
-                                        <h6 className={"mission-strive-header " + (hardware ? 'mission-strive-header-active' : '')}>HARDWARE</h6>
+                                        <h6 className={"mission-strive-header " + (hardware ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.HARDWARE" /></h6>
                                         {hardware ? <div className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'specification')}>
-                                        <h6 className={"mission-strive-header " + (specification ? 'mission-strive-header-active' : '')}>SPECIFICATIONS</h6>
+                                        <h6 className={"mission-strive-header " + (specification ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.SPECIFICATIONS" /></h6>
                                         {specification ? <div className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'interactive')}>
-                                        <h6 className={"mission-strive-header " + (interactive ? 'mission-strive-header-active' : '')}>INTERACTIVE WHITEBOARD</h6>
+                                        <h6 className={"mission-strive-header " + (interactive ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.INTERACTIVE WHITEBOARD" /></h6>
                                         {interactive ? <div className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'single')}>
-                                        <h6 className={"mission-strive-header " + (single ? 'mission-strive-header-active' : '')}>WHITEBOARD & GREENBOARD</h6>
+                                        <h6 className={"mission-strive-header " + (single ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.WHITEBOARD & GREENBOARD" /></h6>
                                         {single ? <div style={{ marginTop: '-2.5rem' }} className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'software')}>
-                                        <h6 className={"mission-strive-header " + (software ? 'mission-strive-header-active' : '')}>SOFTWARE</h6>
+                                        <h6 className={"mission-strive-header " + (software ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.SOFTWARE" /></h6>
                                         {software ? <div className="selectBackground"></div> : null}
                                     </div>
                                     <div onClick={this.selected.bind(this, 'learning')}>
-                                        <h6 className={"mission-strive-header " + (learning ? 'mission-strive-header-active' : '')}>MULTI-SENSORY LEARNING</h6>
+                                        <h6 className={"mission-strive-header " + (learning ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.MULTI-SENSORY LEARNING" /></h6>
                                         {learning ? <div className="selectBackground"></div> : null}
                                     </div>
                                 </div>

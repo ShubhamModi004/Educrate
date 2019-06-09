@@ -100,6 +100,14 @@ export default {
   "To address these challenges, our work is focused on making India a centre for innovation, with astrong supply and widespread adoption of low-cost, contextualized, pedagogically sound, proven EdTech solutions for teaching and learning.": "To address these challenges, our work is focused on making India a centre for innovation, with astrong supply and widespread adoption of low-cost, contextualized, pedagogically sound, proven EdTech solutions for teaching and learning.",
 
 
+  // Product Page
+  'Providing a complete smartclassroom solution': 'Providing a complete smartclassroom solution',
+  'SPECIFICATIONS': 'SPECIFICATIONS',
+  'WHITEBOARD & GREENBOARD': 'WHITEBOARD & GREENBOARD',
+  'SOFTWARE': 'SOFTWARE',
+  'MULTI-SENSORY LEARNING': 'MULTI-SENSORY LEARNING',
+
+
   // 
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',
   'Educrate aims to provide the best form of education with the help of tech.': 'Educrate aims to provide the best form of education with the help of tech.',
