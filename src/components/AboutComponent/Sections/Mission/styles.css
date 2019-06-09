@@ -127,6 +127,11 @@
         top: 1%;
         display: flex;
         justify-content: space-between;
+        overflow: auto;
+        white-space: nowrap;
+    }
+    .mission-strive-sections-fields div{
+        margin: 0 1rem;
     }
 }
 
