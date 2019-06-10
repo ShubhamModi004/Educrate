@@ -23,7 +23,9 @@ class Index extends Component {
                     <Purchaseprocedure />
                 </div>
                 <div className="socialMedia">
-                    <Facebook />
+                    <div className="social-media-facebook">
+                        <Facebook />
+                    </div>
                     <Instagram />
                     <Whatsapp />
                 </div>

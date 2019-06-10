@@ -24,7 +24,9 @@ class Index extends Component {
                     <LandingSection />
                 </div>
                 <div className="socialMedia">
-                    <Facebook />
+                    <div className="social-media-facebook">
+                        <Facebook />
+                    </div>
                     <Instagram />
                     <Whatsapp />
                 </div>

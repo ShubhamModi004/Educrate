@@ -13,14 +13,16 @@ import './styles.css';
 class Index extends Component {
     render() {
         return (
-            <div style={{ height: '100%'}}>
+            <div style={{ height: '100%' }}>
                 <div className="container contact-us">
                     <div className="col-l-6 col-md-12 col-12 contact-us-header">
                         <h3>CONTACT US</h3>
                         <p><FormattedMessage id="We would love to get in touch with you." /></p>
                     </div>
                     <div className="socials-contactus">
-                        <Facebook />
+                        <div className="social-media-facebook">
+                            <Facebook />
+                        </div>
                         <Instagram />
                         <Whatsapp />
                     </div>
