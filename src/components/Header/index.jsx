@@ -124,7 +124,7 @@ class Header extends Component {
                 <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Skills Certificate" /></Link>
                 <Link to="/FaqPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Faqs" /></Link>
                 <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Knowledge Bank" /></Link>
-                <Link to="/contact/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Contact Us" /></Link>
+                <Link to="/ContactPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Contact Us" /></Link>
               </div>
               :
               <div />

@@ -354,6 +354,37 @@ export default {
   "MAIL": "MAIL",
   "PHONE": "PHONE",
   "WHATSAPP": "WHATSAPP",
+  "NAME": "NAME",
+  "MOBILE": "MOBILE NUMBER",
+  "Submit": "Submit",
+
+
+  // Knowledge bank
+  "Submit": "Submit",
+  "Get smarter": "Get smarter",
+  "Register to get an invite": "Register to get an invite",
+  "EMAILID": "EMAIL ID",
+  "Concept of knowledge Bank": "Concept of knowledge Bank",
+  "Knowledge Bank is a collection of informational videos from Youtube relating to the topics that impact children.": "Knowledge Bank is a collection of informational videos from Youtube relating to the topics that impact children.",
+  "The list is prepared for non-commercial purpose, and could be downloaded freely without any fee from the link provided below.": "The list is prepared for non-commercial purpose, and could be downloaded freely without any fee from the link provided below.",
+  "The videos are being made available in local languages, so that students can have better grasp over the topics.": "The videos are being made available in local languages, so that students can have better grasp over the topics.",
+  "Process of developing Knowledge bank": "Process of developing Knowledge bank",
+  "EDUCRATE invites every stakeholder of education to come forward to suggest additions to this document.": "EDUCRATE invites every stakeholder of education to come forward to suggest additions to this document.",
+  "They can send us the mail in educrateconnect@gmail.com for suggestion regarding the document.": "They can send us the mail in educrateconnect@gmail.com for suggestion regarding the document.",
+  "Advantages of Knowledge bank": "Advantages of Knowledge bank",
+  "Knowledge bank is our honest try towards more inclusive education, in which we see every child as a changemaker towards their life, classroom, social circle and society. Intention is to facilitate teachers to introduce their beloved children in classrooms to the whole new world that exists beyond text books and will help them in future.": "Knowledge bank is our honest try towards more inclusive education, in which we see every child as a changemaker towards their life, classroom, social circle and society. Intention is to facilitate teachers to introduce their beloved children in classrooms to the whole new world that exists beyond text books and will help them in future.",
+  "There are many topics that have been asserted to be introduced in classrooms before the children, but the teachers do not know the effective way to communicate the same. Knowledge bank would be an effective tool for the teachers to express the topics before the students.": "There are many topics that have been asserted to be introduced in classrooms before the children, but the teachers do not know the effective way to communicate the same. Knowledge bank would be an effective tool for the teachers to express the topics before the students.",
+  "Knowledge Bank wants to serve as a platform to continue their talent and skill to make Indian student community more informed and knowledgeable. The positive impact of these videos in classroom structures would also motivate content makers to release more such alternative skills videos.": "Knowledge Bank wants to serve as a platform to continue their talent and skill to make Indian student community more informed and knowledgeable. The positive impact of these videos in classroom structures would also motivate content makers to release more such alternative skills videos.",
+  "There has always been a lack of information in student community regarding alternate careers (other than traditional career such as engineering, doctor etc.). Success stories and role models videos shared in Knowledge bank would present a plethora of information about career options to students. This in turn would help students in working towards their goals according to their skills, talents and beliefs.": "There has always been a lack of information in student community regarding alternate careers (other than traditional career such as engineering, doctor etc.). Success stories and role models videos shared in Knowledge bank would present a plethora of information about career options to students. This in turn would help students in working towards their goals according to their skills, talents and beliefs.",
+  "Knowledge Bank is an attempt to reduce the education divide between high fee schools and budget private schools or government schools. Knowledge bank will facilitate presentation of informational videos in more creative and magical way to the students.": "Knowledge Bank is an attempt to reduce the education divide between high fee schools and budget private schools or government schools. Knowledge bank will facilitate presentation of informational videos in more creative and magical way to the students.",
+  "Knowledge Bank would reduce the teacher burden in a way as they don't have to waste time looking up for the best videos relating to topics to be presented before classrooms.": "Knowledge Bank would reduce the teacher burden in a way as they don't have to waste time looking up for the best videos relating to topics to be presented before classrooms.",
+  "Introducing Knowledge Bank in classrooms stakeholders can generate next generation luminaires and role models for India.": "Introducing Knowledge Bank in classrooms stakeholders can generate next generation luminaires and role models for India.",
+  "Learning about “Fair Use”": "Learning about “Fair Use”",
+  "There is a general fear among the stakeholders, that using videos in classroom teaching can be a copyright violation. We want to make stakeholders aware about the “FAIR USE” provision in the Indian copyright act.": 'There is a general fear among the stakeholders, that using videos in classroom teaching can be a copyright violation. We want to make stakeholders aware about the “FAIR USE” provision in the Indian copyright act.',
+  "Infringement of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank.": "Infringement of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank.",
+
+
+
 
 
   // 

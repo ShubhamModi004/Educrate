@@ -14,10 +14,18 @@ class Index extends Component {
                     <h2><FormattedMessage id="home.CONTACT US" /></h2>
                     <p><FormattedMessage id="home.Please fill out the form below" /></p>
                     <form className="contact-form" action="https://formspree.io/lifeofpixels0707@gmail.com" method="POST">
-                        <input className="contact-email" type="email" id="femail" name="email" placeholder="EMAIL" />
-                        <input className="contact-name" type="text" id="fname" name="name" placeholder="NAME" />
-                        <input className="contact-mobile" type="integer" id="fmobile" name="mobile" placeholder="MOBILE NUMBER" />
-                        <input type="submit" value="Submit" className="blueButtons" style={{ width: '8rem', marginTop: '1.5rem' }} />
+                        <FormattedMessage id="home.EMAIL">
+                            {EMAIL => <input className="contact-email" type="email" id="femail" name="email" placeholder={EMAIL} />}
+                        </FormattedMessage>
+                        <FormattedMessage id="home.NAME">
+                            {NAME => <input className="contact-email" type="email" id="femail" name="email" placeholder={NAME} />}
+                        </FormattedMessage>
+                        <FormattedMessage id="home.MOBILE">
+                            {MOBILE => <input className="contact-email" type="email" id="femail" name="email" placeholder={MOBILE} />}
+                        </FormattedMessage>
+                        <FormattedMessage id="home.Submit">
+                            {Submit => <input type="submit" value={Submit} className="blueButtons" style={{ width: '8rem', marginTop: '1.5rem' }} />}
+                        </FormattedMessage>
                     </form>
                 </div>
             </div>
