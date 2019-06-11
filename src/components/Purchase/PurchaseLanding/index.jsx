@@ -16,8 +16,8 @@ class Index extends Component {
         return (
             <div className="purchase-main-title container">
                 <div className="main-title">
-                    <h2><FormattedMessage id="How to purchase an Educrate" /></h2>
-                    <p className="light"><FormattedMessage id="Below are the steps that are involved in purchasing Educrate" /></p>
+                    <h2><FormattedMessage id="home.How to purchase an Educrate" /></h2>
+                    <p className="light"><FormattedMessage id="home.Below are the steps that are involved in purchasing Educrate" /></p>
                 </div>
                 <div className="purchase-main-title-imageSection">
                     <Purchaseprocedure />

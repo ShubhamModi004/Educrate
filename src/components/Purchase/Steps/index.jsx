@@ -20,8 +20,8 @@ class Index extends React.Component {
                                     1
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc d-flex">
-                                    <h6>Raise the quotation</h6>
-                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}>CLICK HERE</a>
+                                    <h6><FormattedMessage id="home.Raise the quotation" /></h6>
+                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}><FormattedMessage id="home.CLICK HERE" /></a>
                                 </div>
                             </div>
                         </div>
@@ -31,7 +31,7 @@ class Index extends React.Component {
                                     2
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc">
-                                    <h6>Contact Educrate to place an order</h6>
+                                    <h6><FormattedMessage id="home.Contact Educrate to place an order" /></h6>
                                     <a href="tel:+918197556532" className="yellowBorderButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: '0.2rem', paddingRight: '0.2rem', textAlign: 9 }}>+91 81975 56532</a>
                                 </div>
                             </div>
@@ -42,8 +42,8 @@ class Index extends React.Component {
                                     3
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc">
-                                    <h6>Transfer the first installment to <br /> Educrate team through</h6>
-                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}>PAY NOW</a>
+                                    <h6><FormattedMessage id="home.Transfer the first installment to" /> <br /> <FormattedMessage id="home.Educrate team through" /></h6>
+                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}><FormattedMessage id="home.PAY NOW" /></a>
                                 </div>
                             </div>
                         </div>
@@ -53,8 +53,8 @@ class Index extends React.Component {
                                     4
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc">
-                                    <h6>Wait for delivery of educrate to<br /> your institution</h6>
-                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}>FILL DETAILS</a>
+                                    <h6><FormattedMessage id="home.Wait for delivery of educrate to" /><br /> <FormattedMessage id="home.your institution" /></h6>
+                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}><FormattedMessage id="home.FILL DETAILS" /></a>
                                 </div>
                             </div>
                         </div>
@@ -64,8 +64,8 @@ class Index extends React.Component {
                                     5
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc-nocolumn">
-                                    <h6>Educrate agents will install the product in your institution</h6>
-                                    <p>Kit would contain(Educrate, Booklet, warranty card, wireless keyboard mouse)</p>
+                                    <h6><FormattedMessage id="home.Educrate agents will install the product in your institution" /></h6>
+                                    <p><FormattedMessage id="home.Kit would contain(Educrate, Booklet, warranty card, wireless keyboard mouse)" /></p>
                                 </div>
                             </div>
                         </div>
@@ -75,8 +75,8 @@ class Index extends React.Component {
                                     6
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc">
-                                    <h6>Educrate agent will give you demonstration <br /> of the product through presentations</h6>
-                                    <a className="yellowButtons" style={{ width: '9rem', paddingTop: '1rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}>VIEW DEMO</a>
+                                    <h6><FormattedMessage id="home.Educrate agent will give you demonstration" /> <br /> <FormattedMessage id="home.of the product through presentations" /></h6>
+                                    <a className="yellowButtons" style={{ width: '9rem', paddingTop: '1rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}><FormattedMessage id="home.VIEW DEMO" /></a>
                                 </div>
                             </div>
                         </div>
@@ -86,8 +86,8 @@ class Index extends React.Component {
                                     7
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc">
-                                    <h6>Eductrate agent will train <br /> teachers/operator how to use</h6>
-                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: '0.2rem', paddingRight: '0.2rem', textAlign: 9 }}>KNOWLEDGE BANK</a>
+                                    <h6><FormattedMessage id="home.Eductrate agent will train" /> <br /> <FormattedMessage id="home.teachers/operator how to use" /></h6>
+                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: '0.2rem', paddingRight: '0.2rem', textAlign: 9 }}><FormattedMessage id="home.KNOWLEDGE BANK" /></a>
                                 </div>
                             </div>
                         </div>
@@ -97,8 +97,8 @@ class Index extends React.Component {
                                     8
                             </div>
                                 <div className="col-md-9 steps-content-features-section-desc">
-                                    <h6>Educrate team will register the Gmail <br /> id of the teacher</h6>
-                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}>REGISTER</a>
+                                    <h6><FormattedMessage id="home.Educrate team will register the Gmail" /> <br /> <FormattedMessage id="home.id of the teacher" /></h6>
+                                    <a className="yellowButtons" style={{ width: '9rem', paddingBottom: '1rem', paddingLeft: 'auto', paddingRight: 'auto', textAlign: 9 }}><FormattedMessage id="home.REGISTER" /></a>
                                 </div>
                             </div>
                         </div>

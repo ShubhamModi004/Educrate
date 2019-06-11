@@ -7,8 +7,10 @@ export default {
   'More': 'मोर',
   'Skills Certificate': 'स्किल्स सर्टिफिकेट',
   'Knowledge Bank': 'नॉलेज बैंक',
+  'KNOWLEDGE BANK': 'नॉलेज बैंक',
   'Faqs': 'फॉक्स',
   'Contact Us': 'कांटेक्ट उस',
+  "CONTACT US": "कांटेक्ट उस",
   'Revolutionizing the way content is delivered in school': 'जिस तरह से सामग्री स्कूल में वितरित की जाती है, उसमें क्रांति करना',
   'Digital education to all class of students': 'सभी वर्ग के छात्रों को डिजिटल शिक्षा',
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'एजुकेट यह ध्यान में रखकर बनाया गया था कि डिजिटल / स्मार्ट कक्षा की अवधारणा सभी छात्रों तक पहुंचनी चाहिए, प्रत्येक छात्र को शिक्षा के क्षेत्र में तकनीकी प्रगति के लिए समान पहुंच होनी चाहिए और अधिक से अधिक ऑडियो विजुअल सामग्री न्यूनतम लागत पर उन तक पहुंचनी चाहिए।',
@@ -222,7 +224,123 @@ export default {
   "What infrastructural support in classroom is needed for EDUCRATE installation?": "स्थापना को शिक्षित करने के लिए कक्षा में किस आधारभूत संरचना के समर्थन की आवश्यकता है?",
   "We don’t need much for Educrate installation. Power supply and that’s it. Rest other things shall be done by our Edurate team. Educrate shall be wall-mounted by our team, and power supply shall be given to the Educrate. Through USB cable our Digital Board shall be powered, and done, there’s your digital classroom.": "हमें एजुसेट इंस्टालेशन के लिए ज्यादा जरूरत नहीं है। बिजली की आपूर्ति और वह है बाकी चीजें हमारी एडुरेट टीम द्वारा की जाएंगी। हमारी टीम द्वारा एडुकेट को दीवार पर लगाया जाएगा, और एडुकेट को बिजली की आपूर्ति दी जाएगी। USB केबल के माध्यम से हमारे डिजिटल बोर्ड को संचालित किया जाएगा, और किया जाएगा, आपकी डिजिटल कक्षा है।",
 
+  // Faq Teacher Section
 
+
+  "TEACHERS": "अध्यापक",
+  "What role teacher has to play in EDUCRATE mission?": "शिक्षक को एडुक्रेट मिशन में क्या भूमिका निभानी है?",
+  "A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual.": "एक शिक्षक शिक्षा प्रणाली का मूल और स्टेम है और कोई भी तकनीक शिक्षक को प्रतिस्थापित नहीं कर सकती है। हम अपने एजुकेट के साथ शिक्षकों को छात्रों को अधिक उन्नत तरीके से पढ़ाने में सहायता करेंगे। शिक्षकों को एजुसेट शुरू करने और वीडियो चलाने की आवश्यकता होगी। शिक्षक छात्रों को अध्याय का विवरण देंगे और फिर शिक्षक हमेशा की तरह अध्याय की व्याख्या करेंगे।",
+  "How educrate team would help Teachers ?": "कैसे एडुक्रेट टीम शिक्षकों की मदद करेगी?",
+  "A combination of Teacher’s teaching + Educrate’s Audio-Visual content will give a better understanding to the students, and the teachers would also be required to make less efforts than usual. Apart from this, test series would also be given by our digital content software which will reduce the burden of the teachers for giving tests to the sudents.": "शिक्षक के शिक्षण + एजुकेट की ऑडियो- विज़ुअल सामग्री के संयोजन से छात्रों को बेहतर समझ मिलेगी, और शिक्षकों को सामान्य से कम प्रयास करने की भी आवश्यकता होगी। इसके अलावा, हमारे डिजिटल कंटेंट सॉफ़्टवेयर द्वारा टेस्ट सीरीज़ भी दी जाएगी, जो शिक्षकों को सूदखोरों को टेस्ट देने के बोझ को कम करेगी।",
+  "Will there be issue of copyright action?": "क्या कॉपीराइट कार्रवाई का मुद्दा होगा?",
+  "Infringement of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the Knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank.": "कॉपीराइट का उल्लंघन केवल तभी होता है जब वितरण या प्रजनन वाणिज्यिक इरादे से किया जाता है। एजुकेट ने बार-बार दोहराया, ज्ञान बैंक मुफ्त में उपलब्ध है और बिना किसी शुल्क या व्यावसायिक इरादे के कक्षाओं में प्रसारित किया जा रहा है। हम न तो ज्ञान बैंक के डाउनलोड के दौरान कोई पंजीकरण लेते हैं, ताकि ज्ञान बैंक के वितरण से कोई छिपा हुआ लाभ न हो।",
+  "What is the benefit of Skill-certificate model in teaching?": "टीचिंग में स्किल-सर्टिफिकेट मॉडल का क्या फायदा है?",
+  "Teacher would be helped in classroom level a": "कक्षा स्तर पर शिक्षक की मदद की जाएगी",
+  "+ Increased attendance and enthusiasm in schools as well as in teacher training and professional development sessions.": "+ स्कूलों में और साथ ही शिक्षक प्रशिक्षण और पेशेवर विकास सत्रों में उपस्थिति और उत्साह में वृद्धि।",
+  "+ To instill faith of parents towards alternative learning and beyond curriculum learning.": "+ वैकल्पिक सीखने के लिए और पाठ्यक्रम सीखने से परे माता-पिता का विश्वास बढ़ाना।",
+  "+ Certification model of will make students real motivated towards Learning as it will publication of certificates in our website would give them more recognition.": "+ प्रमाणन मॉडल छात्रों को सीखने के प्रति वास्तविक रूप से प्रेरित करेगा क्योंकि यह हमारी वेबसाइट में प्रमाणपत्रों का प्रकाशन करेगा जिससे उन्हें अधिक पहचान मिलेगी।",
+  "+ Certification model would make learning more fun and challenging to sustain students interest, and corresponding co-curricular activities will ensure their all-round development.": "+ प्रमाणन मॉडल छात्रों के हित को बनाए रखने के लिए सीखने को अधिक मज़ेदार और चुनौतीपूर्ण बना देगा, और इसी सह-पाठ्यचर्या संबंधी गतिविधियाँ उनके सर्वांगीण विकास को सुनिश्चित करेंगी।",
+  "What will I do if I have internet prblems in the classroom?": "अगर मुझे कक्षा में इंटरनेट के प्रॉमिस हैं तो मैं क्या करूंगा?",
+  "Even though there is an internet problem in the classroom, then too the digital content shall be played without any internet connectivity as the software works in an offline mode.": "भले ही कक्षा में इंटरनेट की समस्या है, फिर भी डिजिटल सामग्री बिना किसी इंटरनेट कनेक्टिविटी के खेली जाएगी क्योंकि सॉफ्टवेयर ऑफ़लाइन मोड में काम करता है।",
+  "What will I do if I have electricity problems in the classroom?": "अगर मुझे कक्षा में बिजली की समस्या है तो मैं क्या करूँगा?",
+  "With Educrate, electricity is not a matter of concern any more. Educrate provides the highest hours of battery backup in the same price range of the projector. Moreover, at the option of the purchaser we provide a separate solar panel with each Educrate, which eliminates the use of electricity to run the devices.": "एजुकेट के साथ, बिजली किसी भी चिंता का विषय नहीं है। एजुकेटर प्रोजेक्टर के समान मूल्य श्रेणी में उच्चतम घंटे का बैटरी बैकअप प्रदान करता है। इसके अलावा, क्रेता के विकल्प पर हम प्रत्येक एजुकेट के साथ एक अलग सौर पैनल प्रदान करते हैं, जो उपकरणों को चलाने के लिए बिजली के उपयोग को समाप्त करता है",
+  "What will I do if I have an audio problem while taking the class?": "यदि क्लास लेते समय मुझे कोई ऑडियो समस्या है तो मैं क्या करूँगा?",
+  "Educrate has a good audio system to cater the needs of 40-50 students in the class, which is the best in it’s class, but even though if it doesn’t works well enough in the class for all the students (which would be a rare instance), port for external speakers is given and the management can attach speakers whichever they want.": "एजुकेट में कक्षा में 40-50 छात्रों की जरूरतों को पूरा करने के लिए एक अच्छा ऑडियो सिस्टम है, जो कि कक्षा में सबसे अच्छा है, लेकिन भले ही यह सभी छात्रों के लिए कक्षा में अच्छी तरह से काम नहीं करता है (जो कि एक होगा दुर्लभ उदाहरण), बाहरी वक्ताओं के लिए पोर्ट दिया गया है और प्रबंधन वक्ताओं को जो भी चाहें संलग्न कर सकता है।",
+  "What will I do if I have video problem?": "अगर मुझे वीडियो की समस्या है तो मैं क्या करूंगा?",
+  "Our device comes with a warranty of 2 years and digital board comes with a warranty of 1 year. We provide the best video quality and the chances of errors will be reduced to nil by us so that schools do not face any problem in playing videos. If any problems occur, it can be informed to us by a telephonic call & a mail. The problem shall be resolved within 48 hours of informing us. Moreover, we intend to provide an extra Educrate to the school if Educrates are purchased over a defined quantity. With this, if any problem occurs in the Educrate, the extra provided Educrate can be installed by the school until the non-functioning device is repaired.": "हमारा डिवाइस 2 साल की वारंटी के साथ आता है और डिजिटल बोर्ड 1 साल की वारंटी के साथ आता है। हम सर्वोत्तम वीडियो गुणवत्ता प्रदान करते हैं और त्रुटियों की संभावना हमारे द्वारा कम हो जाएगी ताकि स्कूलों को वीडियो चलाने में किसी भी समस्या का सामना न करना पड़े। यदि कोई समस्या होती है, तो यह हमें एक टेलीफोन कॉल और एक मेल द्वारा सूचित किया जा सकता है। हमें सूचित करने के 48 घंटों के भीतर समस्या का समाधान किया जाएगा। इसके अलावा, अगर हम एजुकेट्स को परिभाषित मात्रा में खरीदे जाते हैं तो हम स्कूल को एक अतिरिक्त एजुकेट प्रदान करने का इरादा रखते हैं। इसके साथ, यदि कोई समस्या एजुकेट में होती है, तो अतिरिक्त प्रदान की गई एजुकेट स्कूल द्वारा तब तक स्थापित की जा सकती है जब तक कि गैर-कामकाजी डिवाइस की मरम्मत नहीं की जाती है।",
+
+
+
+  // CCORPORATE
+  "CORPORATE": "कॉर्पोरेट",
+  "How companies can partner with educrate?": "कंपनियां कैसे शिक्षित कर सकती हैं पार्टनर?",
+  "We work with CSR teams of companies to ideate excliusive programs that align with their education specific activities. EDUCRATE as a device is most cost effective technological device to transmit education in low resource setting.": "हम कंपनियों के CSR टीमों के साथ काम करते हैं जो कि उनके शिक्षा विशिष्ट गतिविधियों के साथ संरेखित उत्कृष्ट कार्यक्रमों को पूरा करते हैं। एक उपकरण के रूप में शिक्षित करना कम संसाधन सेटिंग में शिक्षा प्रसारित करने के लिए सबसे अधिक लागत प्रभावी तकनीकी उपकरण है।",
+  "Provide the proposal to what EDUCRATE can offer to CSR teams of companies?": "CSR कंपनियों की टीमों को क्या प्रदान कर सकता है, इसका प्रस्ताव प्रदान करें?",
+  "We want CSR team to send us the request through their official CSR email-id with company name and registered office address to get the 10 page presentation.This presentation of our will surely get your attention, then we can meet in person to discuss how we both can contribute to the education.": "हम चाहते हैं कि CSR टीम 10 पेज की प्रस्तुति पाने के लिए कंपनी के नाम और पंजीकृत कार्यालय के पते के साथ अपने आधिकारिक सीएसआर ईमेल-आईडी के माध्यम से हमें अनुरोध भेज सकती है। हमारी यह प्रस्तुति निश्चित रूप से आपका ध्यान आकर्षित करेगी, फिर हम व्यक्ति से मिलकर चर्चा कर सकते हैं कि हम कैसे दोनों शिक्षा में योगदान कर सकते हैं।",
+  "Brief the benefits to company in partnering with EDUCRATE?": "एडुक्रेट के साथ साझेदारी में कंपनी को होने वाले लाभों को संक्षिप्त करें?",
+  "EDUCRATE will complement the education focussed activities through our minimum budget and maximum coverage policy. EDUCRATE will provide digital infrastructure to CSR committee to reach out to their beloved customers with a gift of education for them. The software of EDUCRATE will be modified according to company logo and brief description of companies CSR program, so that their customers can realize the goodwill of the company.": "शिक्षा हमारी न्यूनतम बजट और अधिकतम कवरेज नीति के माध्यम से शिक्षा केंद्रित गतिविधियों को पूरक करेगी। एडुक्रेट CSR समिति को उनके लिए शिक्षा का उपहार के साथ अपने प्रिय ग्राहकों तक पहुंचने के लिए डिजिटल बुनियादी ढांचा प्रदान करेगा। EDUCRATE के सॉफ्टवेयर को कंपनी के लोगो और कंपनियों CSR प्रोग्राम के संक्षिप्त विवरण के अनुसार संशोधित किया जाएगा, ताकि उनके ग्राहकों को कंपनी की सद्भावना का एहसास हो सके।",
+  "Why EDUCRATE as a hardware is distinct from other products in the market?": "एक हार्डवेयर के रूप में एडुक्रेट बाजार में अन्य उत्पादों से अलग क्यों है?",
+  "EDUCRATE has combined 5 devices namely Computer, projector, camera, UPS and speakers in itself for education delivery. CSR committees often face difficulty in monitoring, whether after the hardware installation, whether teachers are using that hardware. The CSR committee member would get regular update through gallery in skill certificate page.": "शिक्षा वितरण के लिए एडुक्रेट ने कम्प्यूटर, प्रोजेक्टर, कैमरा, यूपीएस और स्वयं में 5 उपकरणों को संयुक्त किया है। CSR समितियां अक्सर निगरानी में कठिनाई का सामना करती हैं, चाहे हार्डवेयर स्थापना के बाद, चाहे शिक्षक उस हार्डवेयर का उपयोग कर रहे हों। CSR समिति के सदस्य को स्किल सर्टिफिकेट पेज में गैलरी के माध्यम से नियमित अपडेट मिलेगा।",
+  "If CSR committee is previously working with child focussed NGOs,then?": "यदि सीएसआर कमेटी पहले बच्चे के साथ गैर-सरकारी संगठनों के साथ काम कर रही है, तो?",
+  "EDUCRATE team proposes partnering with existing CSR programs, that are already running. We propose to provide the infrastructural and innovative support to existing programs, without any extra cost.": "एडुक्रेट टीम मौजूदा CSR कार्यक्रमों के साथ साझेदारी करने का प्रस्ताव करती है, जो पहले से चल रहे हैं। हम किसी भी अतिरिक्त लागत के बिना मौजूदा कार्यक्रमों में अवसंरचनात्मक और अभिनव सहायता प्रदान करने का प्रस्ताव करते हैं।",
+  "What would be consultation fee?": "परामर्श शुल्क क्या होगा?",
+  "We are not charging any consultation fee, as we want to be most cost effective service providers for smart education delivery. If the order is placed through institutional foundation and NGOs, we will offer the major discount as well. If the EDUCRATE is purchased in bulk quantities, then also the cost would be made more affordable to CSR committees. We are also in the process of empanelling the Local NGOs with us, so that our team, NGO and CSR committee can reach out to quick agreement.": "हम कोई परामर्श शुल्क नहीं ले रहे हैं, क्योंकि हम स्मार्ट शिक्षा वितरण के लिए सबसे अधिक लागत प्रभावी सेवा प्रदाता बनना चाहते हैं। यदि आदेश संस्थागत आधार और गैर सरकारी संगठनों के माध्यम से रखा जाता है, तो हम प्रमुख छूट भी प्रदान करेंगे। यदि एडुक्रेट को भारी मात्रा में खरीदा जाता है, तो यह लागत CSR समितियों के लिए और अधिक सस्ती हो जाएगी। हम अपने साथ स्थानीय एनजीओ को सशक्त बनाने की प्रक्रिया में भी हैं, ताकि हमारी टीम, एनजीओ और सीएसआर समिति त्वरित समझौते पर पहुंच सकें।",
+  "What are the steps involved in this partnership?": "इस साझेदारी में क्या कदम शामिल हैं?",
+  "Engage with EDUCRATE team by sending the mail at educrateconnect@gmail.com": "शिक्षित करने के लिए एडुक्रेट की टीम के साथ मेल भेजकर हमें educationrateconnect@gmail.com पर मेल करें",
+  "Receive the 10 page presentation from our team at your official CSR mail or company website.": "अपनी आधिकारिक CSR मेल या कंपनी की वेबसाइट पर हमारी टीम से 10 पेज की प्रस्तुति प्राप्त करें।",
+  "Discussion with EDUCRATE team to select the region to introduce EDUCRATE in the classroom.": "कक्षा में शिक्षा का परिचय देने के लिए क्षेत्र का चयन करने के लिए एडुक्रेट टीम के साथ चर्चा।",
+  "EDUCRATE team will find the credible NGO in the region to reach out to your selected region.": "एडुक्रेट टीम आपके चयनित क्षेत्र तक पहुंचने के लिए क्षेत्र में विश्वसनीय NGO ढूंढेगी।",
+  "After discussion of proposal from CSR committee and NGO, standard contract would be signed between NGO and CSR committee.": "सीएसआर समिति और एनजीओ से प्रस्ताव की चर्चा के बाद, एनजीओ और सीएसआर समिति के बीच मानक अनुबंध पर हस्ताक्षर किए जाएंगे।",
+  "NGO would place the order with EDUCRATE team.": "NGO एडुक्रेट टीम के साथ आदेश देगा।",
+  "EDUCRATE will modify its device hardware and software according to CSR company profile.": "एडुक्रेट अपने डिवाइस हार्डवेयर और सॉफ्टवेयर को CSR कंपनी प्रोफाइल के अनुसार संशोधित करेगा।",
+  "EDUCRATE team would deliver hardware and provide technical support to NGO members to uplift digital education in selected classrooms.": "एडुक्रेट टीम हार्डवेयर का वितरण करेगी और चयनित कक्षाओं में डिजिटल शिक्षा के उत्थान के लिए NGO सदस्यों को तकनीकी सहायता प्रदान करेगी।",
+  "Step 1) ": "चरण 1) ",
+  "Step 2) ": "चरण 2) ",
+  "Step 3) ": "चरण 3) ",
+  "Step 4) ": "चरण 4) ",
+  "Step 5) ": "चरण 5) ",
+  "Step 6) ": "चरण 6) ",
+  "Step 7) ": "चरण 7) ",
+  "Step 8) ": "चरण 8) ",
+
+  // Schools section
+  "SCHOOL": "स्कूल",
+  "SCHOOLS": "स्कूल",
+
+  // NGO section
+  "NGO": "एनजीओ",
+  "What types of organizations does EDUCRATE work with?": "एडुक्रेट किस प्रकार के संगठनों के साथ काम करता है?",
+  "We are reaching out to education and child development focussed nonprofits and NGOs across all country. The NGOs have to play the pivotal role in picking up the topics for classrooms, which impact the students in that geographical region.": "हम पूरे देश में शिक्षा और बाल विकास पर ध्यान केंद्रित गैर-लाभकारी संस्थाओं और गैर-सरकारी संगठनों तक पहुंच रहे हैं। गैर सरकारी संगठनों को कक्षाओं के लिए विषयों को लेने में महत्वपूर्ण भूमिका निभानी है, जो छात्रों को उस भौगोलिक क्षेत्र में प्रभावित करते हैं।",
+  "What EDUCRATE can offer to NGO?": "एडुक्रेट एनजीओ को क्या दे सकता है?",
+  "If you are registered NGO or non-profit, EDUCRATE team will offer you the major discount in the prices of EDUCRATE. You can directly send us the mail and we will negotiate as per your requirements, so that no child is being denied a good education.": "यदि आप गैर-सरकारी संगठन या गैर-लाभकारी पंजीकृत हैं, तो एडुक्रेट टीम आपको एडुक्रेट की कीमतों में प्रमुख छूट प्रदान करेगी। आप हमें सीधे मेल भेज सकते हैं और हम आपकी आवश्यकताओं के अनुसार बातचीत करेंगे, ताकि कोई भी बच्चा अच्छी शिक्षा से वंचित न रहे।",
+  "What other benefits NGO has with EDUCRATE?": "एनजीओ को एडुक्रेट से क्या अन्य लाभ हैं?",
+  "Thank you for being part of this mission! Please access our website and choose the three model(listed below) and work with us.": "इस मिशन का हिस्सा बनने के लिए धन्यवाद! कृपया हमारी वेबसाइट पर पहुँचें और तीन मॉडल (नीचे सूचीबद्ध) चुनें और हमारे साथ काम करें।",
+  "What other services does EDUCRATE can offer NGOs?": "एडुक्रेट एनजीओ की अन्य कौन सी सेवाएँ दे सकता है?",
+  "We would be listing star volunteers in EDUCRATE social networking handle.": "हम एडुक्रेट सोशल नेटवर्किंग हैंडल में स्टार वॉलंटियर्स को सूचीबद्ध करेंगे।",
+  "How can schools and colleges be part of this initiative?": "स्कूल और कॉलेज इस पहल का हिस्सा कैसे हो सकते हैं?",
+  "EDUCRATE team members have been in premier colleges and have observed that there is a section of students motivated towards community service. This committee works in education field through self made NGOs or Local NGOs. We want them to believe in our 3M design of Learning and promote Knowledge bank usage in classrooms.": "एडुक्रेट टीम के सदस्य प्रीमियर कॉलेजों में रहे हैं और उन्होंने पाया है कि छात्रों का एक वर्ग सामुदायिक सेवा के लिए प्रेरित है। यह समिति स्व-निर्मित गैर-सरकारी संगठनों या स्थानीय गैर- सरकारी संगठनों के माध्यम से शिक्षा के क्षेत्र में काम करती है। हम चाहते हैं कि वे हमारे 3M लर्निंग के डिजाइन पर विश्वास करें और कक्षाओं में नॉलेज बैंक के उपयोग को बढ़ावा दें।",
+  "What our regional NGOs have to do?": "हमारे क्षेत्रीय गैर सरकारी संगठनों को क्या करना है?",
+  "Regional NGOs at district level will explain to teachers and school authorities about the innovative solutions towards education. These innovative solutions can help school to to learn in addition to prescribed curriculum.The If NGOs are ambitious and persistent — they can tackle major issues prevalent in their region by offering new ideas for systems-level change . For your help we have attached presentation in English/Hindi, so you can complement your convincing skills.": "जिला स्तर पर क्षेत्रीय गैर-सरकारी संगठन शिक्षकों और स्कूल प्राधिकारियों को शिक्षा के प्रति अभिनव समाधानों के बारे में समझाएंगे। ये अभिनव समाधान स्कूल को निर्धारित पाठ्यक्रम के अलावा सीखने में मदद कर सकते हैं। यदि गैर- सरकारी संगठन महत्वाकांक्षी और लगातार हैं - वे सिस्टम-स्तर पर बदलाव के लिए नए विचारों की पेशकश करके अपने क्षेत्र में प्रचलित प्रमुख मुद्दों से निपट सकते हैं। आपकी मदद के लिए हमने अंग्रेजी / हिंदी में प्रेजेंटेशन दिया है, ताकि आप अपने ठोस कौशल को पूरा कर सकें।",
+
+
+  // policy makers
+  "POLICY MAKERS": "नीति निर्माताओं",
+
+
+
+
+  // How to purchase an Educrate
+  "How to purchase an Educrate": "कैसे एक एडुक्रेट खरीद करने के लिए",
+  "Below are the steps that are involved in purchasing Educrate": "नीचे वो चरण दिए गए हैं जो एजुसेट खरीदने में शामिल हैं",
+  "Raise the quotation": "कोटेशन बढ़ाएं",
+  "CLICK HERE": "यहां क्लिक करे",
+  "Contact Educrate to place an order": "ऑर्डर देने के लिए एडुक्रेट से संपर्क करें",
+  "Transfer the first installment to": "पहली किस्त को हस्तांतरित करें",
+  "Educrate team through": "के माध्यम से टीम को एडुक्रेट करें",
+  "PAY NOW": "अब भुगतान करें",
+  "Wait for delivery of educrate to": "एडुक्रेट के लिए आपकी संस्था वितरण की प्रतीक्षा करें",
+  "your institution": ".",
+  "FILL DETAILS": "भरने का विवरण",
+  "Educrate agents will install the product in your institution": "एजुकेट एजेंट आपके संस्थान में उत्पाद स्थापित करेंगे",
+  "Educrate agent will give you demonstration": "एजुकेट एजेंट आपको प्रदर्शन देगा। एडिट्रेट एजेंट आपको प्रदर्शन देगा प्रस्तुतियों के माध्यम से उत्पाद की",
+  "of the product through presentations": " ",
+  "VIEW DEMO": "देखें डेमो",
+  "Eductrate agent will train": "अपहरण करने वाला एजेंट प्रशिक्षण देगा",
+  "teachers/operator how to use": "शिक्षकों / ऑपरेटर का उपयोग कैसे करें",
+  "Educrate team will register the Gmail": "शिक्षक की जीमेल आईडी को शिक्षित करने के लिए एजुकेट टीम पंजीकृत करेगी",
+  "id of the teacher": " ",
+  "REGISTER": "रजिस्टर",
+  "Have a query?": "कुछ प्रश्न है?",
+  "We answer all your doubts in our FAQ page": "हम आपके सभी प्रश्नों का उत्तर हमारे फॉक्स पृष्ठ में देते हैं",
+  "READ FAQ": "पढ़ें सामान्य प्रश्न",
+
+
+
+  // Contact page
+  "Please fill out the form below": "कृपया नीचे दिया गया फ़ॉर्म भरें",
+  "MAIL": "मेल",
+  "PHONE": "फ़ोन",
+  "WHATSAPP": "व्हाट्सएप्प",
 
   // 
   'FIND OUT HOW': 'पता लगाओ कैसे',

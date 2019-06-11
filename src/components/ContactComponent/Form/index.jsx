@@ -11,8 +11,8 @@ class Index extends Component {
         return (
             <div className="contact-section">
                 <div className="contact-form-section">
-                    <h2>CONTACT US</h2>
-                    <p>Please fill out the form below</p>
+                    <h2><FormattedMessage id="home.CONTACT US" /></h2>
+                    <p><FormattedMessage id="home.Please fill out the form below" /></p>
                     <form className="contact-form" action="https://formspree.io/lifeofpixels0707@gmail.com" method="POST">
                         <input className="contact-email" type="email" id="femail" name="email" placeholder="EMAIL" />
                         <input className="contact-name" type="text" id="fname" name="name" placeholder="NAME" />

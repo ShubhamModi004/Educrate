@@ -22,7 +22,7 @@ class Ngo extends React.Component {
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.What other services does EDUCRATE can offer NGOs?" /></h4>
-                    <p><FormattedMessage id="home.We would be listing star volunteers in EDUCRATE  social networking handle." /></p>
+                    <p><FormattedMessage id="home.We would be listing star volunteers in EDUCRATE social networking handle." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.How can schools and colleges be part of this initiative?" /></h4>
@@ -34,7 +34,7 @@ class Ngo extends React.Component {
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.What our regional NGOs have to do?" /></h4>
-                    <p><FormattedMessage id="home.Regional NGOs at district level will explain to teachers and school authorities about  the innovative solutions towards education. These innovative solutions can help school to to learn in addition to prescribed curriculum.The If NGOs are  ambitious and persistent — they can tackle  major issues prevalent in their region  by offering new ideas for systems-level change . For your help we have attached presentation in English/Hindi, so you can complement your convincing skills." /></p>
+                    <p><FormattedMessage id="home.Regional NGOs at district level will explain to teachers and school authorities about the innovative solutions towards education. These innovative solutions can help school to to learn in addition to prescribed curriculum.The If NGOs are ambitious and persistent — they can tackle major issues prevalent in their region by offering new ideas for systems-level change . For your help we have attached presentation in English/Hindi, so you can complement your convincing skills." /></p>
                 </div>
             </div>
         )

@@ -8,8 +8,10 @@ export default {
   'More': 'More',
   'Skills Certificate': 'Skills Certificate',
   'Knowledge Bank': 'Knowledge Bank',
+  'KNOWLEDGE BANK': 'KNOWLEDGE BANK',
   'Faqs': 'Faqs',
   'Contact Us': 'Contact Us',
+  "CONTACT US": "CONTACT US",
   'Revolutionizing the way content is delivered in school': 'Revolutionizing the way content is delivered in school',
   'Digital education to all class of students': 'Digital education to all class of students',
   'How do we do it?': 'How do we do it?',
@@ -228,8 +230,130 @@ export default {
   "What infrastructural support in classroom is needed for EDUCRATE installation?": "What infrastructural support in classroom is needed for EDUCRATE installation?",
   "We don’t need much for Educrate installation. Power supply and that’s it. Rest other things shall be done by our Edurate team. Educrate shall be wall-mounted by our team, and power supply shall be given to the Educrate. Through USB cable our Digital Board shall be powered, and done, there’s your digital classroom.": "We don’t need much for Educrate installation. Power supply and that’s it. Rest other things shall be done by our Edurate team. Educrate shall be wall-mounted by our team, and power supply shall be given to the Educrate. Through USB cable our Digital Board shall be powered, and done, there’s your digital classroom.",
 
+  // FAQ TEACHER SECTION
+  "TEACHERS": "TEACHERS",
+  "What role teacher has to play in educrate mission?": "What role teacher has to play in educrate mission?",
+  "A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual.": "A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual.",
+  "How educrate team would help Teachers ?": "How educrate team would help Teachers ?",
+  "A combination of Teacher’s teaching + Educrate’s Audio-Visual content will give a better understanding to the students, and the teachers would also be required to make less efforts than usual. Apart from this, test series would also be given by our digital content software which will reduce the burden of the teachers for giving tests to the sudents.": "A combination of Teacher’s teaching + Educrate’s Audio-Visual content will give a better understanding to the students, and the teachers would also be required to make less efforts than usual. Apart from this, test series would also be given by our digital content software which will reduce the burden of the teachers for giving tests to the sudents.",
+  "Will there be issue of copyright action?": "Will there be issue of copyright action?",
+  "Infringement of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the Knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank.": "Infringement of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the Knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank.",
+  "What is the benefit of Skill-certificate model in teaching?": "What is the benefit of Skill-certificate model in teaching?",
+  "Teacher would be helped in classroom level a": "Teacher would be helped in classroom level a:",
+  "+ Increased attendance and enthusiasm in schools as well as in teacher training and professional development sessions.": "+ Increased attendance and enthusiasm in schools as well as in teacher training and professional development sessions.",
+  "+ To instill faith of parents towards alternative learning and beyond curriculum learning.": "+ To instill faith of parents towards alternative learning and beyond curriculum learning.",
+  "+ Certification model of will make students real motivated towards Learning as it will publication of certificates in our website would give them more recognition.": "+ Certification model of will make students real motivated towards Learning as it will publication of certificates in our website would give them more recognition.",
+  "+ Certification model would make learning more fun and challenging to sustain students interest, and corresponding co-curricular activities will ensure their all-round development.": "+ Certification model would make learning more fun and challenging to sustain students interest, and corresponding co-curricular activities will ensure their all-round development.",
+  "What will I do if I have internet prblems in the classroom?": "What will I do if I have internet prblems in the classroom?",
+  "Even though there is an internet problem in the classroom, then too the digital content shall be played without any internet connectivity as the software works in an offline mode.": "Even though there is an internet problem in the classroom, then too the digital content shall be played without any internet connectivity as the software works in an offline mode.",
+  "What will I do if I have electricity problems in the classroom?": "What will I do if I have electricity problems in the classroom?",
+  "With Educrate, electricity is not a matter of concern any more. Educrate provides the highest hours of battery backup in the same price range of the projector. Moreover, at the option of the purchaser we provide a separate solar panel with each Educrate, which eliminates the use of electricity to run the devices": "With Educrate, electricity is not a matter of concern any more. Educrate provides the highest hours of battery backup in the same price range of the projector. Moreover, at the option of the purchaser we provide a separate solar panel with each Educrate, which eliminates the use of electricity to run the devices",
+  "What will I do if I have an audio problem while taking the class?": "What will I do if I have an audio problem while taking the class?",
+  "Educrate has a good audio system to cater the needs of 40-50 students in the class, which is the best in it’s class, but even though if it doesn’t works well enough in the class for all the students (which would be a rare instance), port for external speakers is given and the management can attach speakers whichever they want.": "Educrate has a good audio system to cater the needs of 40-50 students in the class, which is the best in it’s class, but even though if it doesn’t works well enough in the class for all the students (which would be a rare instance), port for external speakers is given and the management can attach speakers whichever they want.",
+  "What will I do if I have video problem?": "What will I do if I have video problem?",
+  "Our device comes with a warranty of 2 years and digital board comes with a warranty of 1 year. We provide the best video quality and the chances of errors will be reduced to nil by us so that schools do not face any problem in playing videos. If any problems occur, it can be informed to us by a telephonic call & a mail. The problem shall be resolved within 48 hours of informing us. Moreover, we intend to provide an extra Educrate to the school if Educrates are purchased over a defined quantity. With this, if any problem occurs in the Educrate, the extra provided Educrate can be installed by the school until the non-functioning device is repaired.": "Our device comes with a warranty of 2 years and digital board comes with a warranty of 1 year. We provide the best video quality and the chances of errors will be reduced to nil by us so that schools do not face any problem in playing videos. If any problems occur, it can be informed to us by a telephonic call & a mail. The problem shall be resolved within 48 hours of informing us. Moreover, we intend to provide an extra Educrate to the school if Educrates are purchased over a defined quantity. With this, if any problem occurs in the Educrate, the extra provided Educrate can be installed by the school until the non-functioning device is repaired.",
 
 
+
+  // Corporate
+  "CORPORATE": "CORPORATE",
+  "How companies can partner with educrate?": "How companies can partner with educrate?",
+  "We work with CSR teams of companies to ideate excliusive programs that align with their education specific activities. EDUCRATE as a device is most cost effective technological device to transmit education in low resource setting.": "We work with CSR teams of companies to ideate excliusive programs that align with their education specific activities. EDUCRATE as a device is most cost effective technological device to transmit education in low resource setting.",
+  "Provide the proposal to what EDUCRATE can offer to CSR teams of companies?": "Provide the proposal to what EDUCRATE can offer to CSR teams of companies?",
+  "We want CSR team to send us the request through their official CSR email-id with company name and registered office address to get the 10 page presentation.This presentation of our will surely get your attention, then we can meet in person to discuss how we both can contribute to the education.": "We want CSR team to send us the request through their official CSR email-id with company name and registered office address to get the 10 page presentation.This presentation of our will surely get your attention, then we can meet in person to discuss how we both can contribute to the education.",
+  "Brief the benefits to company in partnering with EDUCRATE?": "Brief the benefits to company in partnering with EDUCRATE?",
+  "EDUCRATE will complement the education focussed activities through our minimum budget and maximum coverage policy. EDUCRATE will provide digital infrastructure to CSR committee to reach out to their beloved customers with a gift of education for them. The software of EDUCRATE will be modified according to company logo and brief description of companies CSR program, so that their customers can realize the goodwill of the company.": "EDUCRATE will complement the education focussed activities through our minimum budget and maximum coverage policy. EDUCRATE will provide digital infrastructure to CSR committee to reach out to their beloved customers with a gift of education for them. The software of EDUCRATE will be modified according to company logo and brief description of companies CSR program, so that their customers can realize the goodwill of the company.",
+  "Why EDUCRATE as a hardware is distinct from other products in the market?": "Why EDUCRATE as a hardware is distinct from other products in the market?",
+  "EDUCRATE has combined 5 devices namely Computer, projector, camera, UPS and speakers in itself for education delivery. CSR committees often face difficulty in monitoring, whether after the hardware installation, whether teachers are using that hardware. The CSR committee member would get regular update through gallery in skill certificate page.": "EDUCRATE has combined 5 devices namely Computer, projector, camera, UPS and speakers in itself for education delivery. CSR committees often face difficulty in monitoring, whether after the hardware installation, whether teachers are using that hardware. The CSR committee member would get regular update through gallery in skill certificate page.",
+  "If CSR committee is previously working with child focussed NGOs,then?": "If CSR committee is previously working with child focussed NGOs,then?",
+  "EDUCRATE team proposes partnering with existing CSR programs, that are already running. We propose to provide the infrastructural and innovative support to existing programs, without any extra cost.": "EDUCRATE team proposes partnering with existing CSR programs, that are already running. We propose to provide the infrastructural and innovative support to existing programs, without any extra cost.",
+  "What would be consultation fee?": "What would be consultation fee?",
+  "We are not charging any consultation fee, as we want to be most cost effective service providers for smart education delivery. If the order is placed through institutional foundation and NGOs, we will offer the major discount as well. If the EDUCRATE is purchased in bulk quantities, then also the cost would be made more affordable to CSR committees. We are also in the process of empanelling the Local NGOs with us, so that our team, NGO and CSR committee can reach out to quick agreement.": "We are not charging any consultation fee, as we want to be most cost effective service providers for smart education delivery. If the order is placed through institutional foundation and NGOs, we will offer the major discount as well. If the EDUCRATE is purchased in bulk quantities, then also the cost would be made more affordable to CSR committees. We are also in the process of empanelling the Local NGOs with us, so that our team, NGO and CSR committee can reach out to quick agreement.",
+  "What are the steps involved in this partnership?": "What are the steps involved in this partnership?",
+  "Engage with EDUCRATE team by sending the mail at educrateconnect@gmail.com": "Engage with EDUCRATE team by sending the mail at educrateconnect@gmail.com",
+  "Receive the 10 page presentation from our team at your official CSR mail or company website.": "Receive the 10 page presentation from our team at your official CSR mail or company website.",
+  "Discussion with EDUCRATE team to select the region to introduce EDUCRATE in the classroom.": "Discussion with EDUCRATE team to select the region to introduce EDUCRATE in the classroom.",
+  "EDUCRATE team will find the credible NGO in the region to reach out to your selected region.": "EDUCRATE team will find the credible NGO in the region to reach out to your selected region.",
+  "After discussion of proposal from CSR committee and NGO, standard contract would be signed between NGO and CSR committee.": "After discussion of proposal from CSR committee and NGO, standard contract would be signed between NGO and CSR committee.",
+  "NGO would place the order with EDUCRATE team.": "NGO would place the order with EDUCRATE team.",
+  "EDUCRATE will modify its device hardware and software according to CSR company profile.": "EDUCRATE will modify its device hardware and software according to CSR company profile.",
+  "EDUCRATE team would deliver hardware and provide technical support to NGO members to uplift digital education in selected classrooms.": "EDUCRATE team would deliver hardware and provide technical support to NGO members to uplift digital education in selected classrooms.",
+  "Step 1) ": "Step 1) ",
+  "Step 2) ": "Step 2) ",
+  "Step 3) ": "Step 3) ",
+  "Step 4) ": "Step 4) ",
+  "Step 5) ": "Step 5) ",
+  "Step 6) ": "Step 6) ",
+  "Step 7) ": "Step 7) ",
+  "Step 8) ": "Step 8) ",
+
+
+  // Schools section
+  "SCHOOL": "SCHOOL",
+  "SCHOOLS": "SCHOOLS",
+
+  // NGO SECTION
+  "NGO": "NGO",
+  "What types of organizations does EDUCRATE work with?": "What types of organizations does EDUCRATE work with?",
+  "We are reaching out to education and child development focussed nonprofits and NGOs across all country. The NGOs have to play the pivotal role in picking up the topics for classrooms, which impact the students in that geographical region.": "We are reaching out to education and child development focussed nonprofits and NGOs across all country. The NGOs have to play the pivotal role in picking up the topics for classrooms, which impact the students in that geographical region.",
+  "What EDUCRATE can offer to NGO?": "What EDUCRATE can offer to NGO?",
+  "If you are registered NGO or non-profit, EDUCRATE team will offer you the major discount in the prices of EDUCRATE. You can directly send us the mail and we will negotiate as per your requirements, so that no child is being denied a good education.": "If you are registered NGO or non-profit, EDUCRATE team will offer you the major discount in the prices of EDUCRATE. You can directly send us the mail and we will negotiate as per your requirements, so that no child is being denied a good education.",
+  "What other benefits NGO has with EDUCRATE?": "What other benefits NGO has with EDUCRATE?",
+  "Thank you for being part of this mission! Please access our website and choose the three model(listed below) and work with us.": "Thank you for being part of this mission! Please access our website and choose the three model(listed below) and work with us.",
+  "What other services does EDUCRATE can offer NGOs?": "What other services does EDUCRATE can offer NGOs?",
+  "We would be listing star volunteers in EDUCRATE social networking handle.": "We would be listing star volunteers in EDUCRATE social networking handle.",
+  "How can schools and colleges be part of this initiative?": "How can schools and colleges be part of this initiative?",
+  "EDUCRATE team members have been in premier colleges and have observed that there is a section of students motivated towards community service. This committee works in education field through self made NGOs or Local NGOs. We want them to believe in our 3M design of Learning and promote Knowledge bank usage in classrooms.": "EDUCRATE team members have been in premier colleges and have observed that there is a section of students motivated towards community service. This committee works in education field through self made NGOs or Local NGOs. We want them to believe in our 3M design of Learning and promote Knowledge bank usage in classrooms.",
+  "What our regional NGOs have to do?": "What our regional NGOs have to do?",
+  "Regional NGOs at district level will explain to teachers and school authorities about the innovative solutions towards education. These innovative solutions can help school to to learn in addition to prescribed curriculum.The If NGOs are ambitious and persistent — they can tackle major issues prevalent in their region by offering new ideas for systems-level change . For your help we have attached presentation in English/Hindi, so you can complement your convincing skills.": "Regional NGOs at district level will explain to teachers and school authorities about the innovative solutions towards education. These innovative solutions can help school to to learn in addition to prescribed curriculum.The If NGOs are ambitious and persistent — they can tackle major issues prevalent in their region by offering new ideas for systems-level change . For your help we have attached presentation in English/Hindi, so you can complement your convincing skills.",
+  "REGISTER": "REGISTER",
+  "Have a query?": "Have a query?",
+  "We answer all your doubts in our FAQ page": "We answer all your doubts in our FAQ page",
+  "READ FAQ": "READ FAQ",
+
+
+  // Policy makers
+  "POLICY MAKERS": "POLICY MAKERS",
+
+
+
+
+
+
+
+
+  // How to purchase an Educrate
+
+  "How to purchase an Educrate": "How to purchase an Educrate",
+  "Below are the steps that are involved in purchasing Educrate": "Below are the steps that are involved in purchasing Educrate",
+  "Raise the quotation": "Raise the quotation",
+  "CLICK HERE": "CLICK HERE",
+  "Contact Educrate to place an order": "Contact Educrate to place an order",
+  "Transfer the first installment to": "Transfer the first installment to",
+  "Educrate team through": "Educrate team through",
+  "PAY NOW": "PAY NOW",
+  "Wait for delivery of educrate to": "Wait for delivery of educrate to",
+  "your institution": "your institution",
+  "FILL DETAILS": "FILL DETAILS",
+  "Educrate agents will install the product in your institution": "Educrate agents will install the product in your institution",
+  "Educrate agent will give you demonstration": "Educrate agent will give you demonstration",
+  "of the product through presentations": "of the product through presentations",
+  "VIEW DEMO": "VIEW DEMO",
+  "Eductrate agent will train": "Eductrate agent will train",
+  "teachers/operator how to use": "teachers/operator how to use",
+  "Educrate team will register the Gmail": "Educrate team will register the Gmail",
+  "id of the teacher": "id of the teacher",
+
+
+
+  // contact page
+  "Please fill out the form below": "Please fill out the form below",
+  "EMAIL": "EMAIL",
+  "NAME": "NAME",
+  "MOBILE NUMBER": "NUMBER",
+  "MAIL": "MAIL",
+  "PHONE": "PHONE",
+  "WHATSAPP": "WHATSAPP",
 
 
   // 

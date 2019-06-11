@@ -10,7 +10,7 @@ class Teachers extends React.Component {
                 <h1><FormattedMessage id="home.TEACHERS" /></h1>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.What role teacher has to play in EDUCRATE mission?" /></h4>
-                    <p><FormattedMessage id="home.A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual. " /></p>
+                    <p><FormattedMessage id="home.A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.How educrate team would help Teachers ?" /></h4>
@@ -18,15 +18,15 @@ class Teachers extends React.Component {
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.Will there be issue of copyright action?" /></h4>
-                    <p><FormattedMessage id="home.Infringement  of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the Knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank." /></p>
+                    <p><FormattedMessage id="home.Infringement of Copyright occurs only If the distribution or reproduction is done with commercial intent. EDUCRATE has repeatedly reiterated, the Knowledge Bank is available free and is being circulated to classrooms without any fee or commercial intent. We neither take any registration during the download of the Knowledge bank, so that to create any hidden profit from the distribution of the Knowledge Bank." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.What is the benefit of Skill-certificate model in teaching?" /></h4>
                     <p><FormattedMessage id="home.Teacher would be helped in classroom level a" /></p>
-                    <p style={{ marginBottom: 0, lineHeight: '1.2rem', fontSize: '0.7rem' }}><FormattedMessage id="home.+ Increased attendance and enthusiasm in schools as well as in teacher training and professional development sessions." /></p>
-                    <p style={{ marginBottom: 0, lineHeight: '1.2rem', fontSize: '0.7rem' }}><FormattedMessage id="home.+ To instill faith of parents towards alternative learning  and beyond curriculum learning." /></p>
-                    <p style={{ marginBottom: 0, lineHeight: '1.2rem', fontSize: '0.7rem' }}><FormattedMessage id="home.+ Certification model of will make students real motivated towards Learning as it will publication of certificates in our website would give them more recognition." /></p>
-                    <p style={{ marginBottom: 0, lineHeight: '1.2rem', fontSize: '0.7rem' }}><FormattedMessage id="home.+ Certification model would make learning  more  fun and challenging to sustain students  interest, and corresponding co-curricular activities will  ensure their all-round development." /></p>
+                    <p style={{ marginBottom: 0 }}><FormattedMessage id="home.+ Increased attendance and enthusiasm in schools as well as in teacher training and professional development sessions." /></p>
+                    <p style={{ marginBottom: 0 }}><FormattedMessage id="home.+ To instill faith of parents towards alternative learning and beyond curriculum learning." /></p>
+                    <p style={{ marginBottom: 0 }}><FormattedMessage id="home.+ Certification model of will make students real motivated towards Learning as it will publication of certificates in our website would give them more recognition." /></p>
+                    <p style={{ marginBottom: 0 }}><FormattedMessage id="home.+ Certification model would make learning more fun and challenging to sustain students interest, and corresponding co-curricular activities will ensure their all-round development." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.What will I do if I have internet prblems in the classroom?" /></h4>

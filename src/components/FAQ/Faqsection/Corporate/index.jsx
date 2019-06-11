@@ -7,18 +7,18 @@ class Policymakers extends React.Component {
     render() {
         return (
             <div className='container faq-section'>
-                <h1><FormattedMessage id="home.POLICY MAKERS" /></h1>
+                <h1><FormattedMessage id="home.CORPORATE" /></h1>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.How companies can partner with educrate?" /></h4>
                     <p><FormattedMessage id="home.We work with CSR teams of companies to ideate excliusive programs that align with their education specific activities. EDUCRATE as a device is most cost effective technological device to transmit education in low resource setting." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.Provide the proposal to what EDUCRATE can offer to CSR teams of companies?" /></h4>
-                    <p><FormattedMessage id="home.We want CSR team to send us the request through their official CSR email-id with company name and registered office address  to get the 10 page presentation.This  presentation of our will surely get your attention, then we can meet in person to discuss how we both can contribute to the education." /></p>
+                    <p><FormattedMessage id="home.We want CSR team to send us the request through their official CSR email-id with company name and registered office address to get the 10 page presentation.This presentation of our will surely get your attention, then we can meet in person to discuss how we both can contribute to the education." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.Brief the benefits to company in partnering with EDUCRATE?" /></h4>
-                    <p><FormattedMessage id="home.EDUCRATE will complement the education focussed activities through our minimum budget and maximum coverage policy. EDUCRATE will provide digital infrastructure  to CSR committee to reach out to their beloved customers with a gift of education for them. The software of EDUCRATE will be modified according to company logo and brief description of companies CSR program, so that their customers can realize the goodwill of the company." /></p>
+                    <p><FormattedMessage id="home.EDUCRATE will complement the education focussed activities through our minimum budget and maximum coverage policy. EDUCRATE will provide digital infrastructure to CSR committee to reach out to their beloved customers with a gift of education for them. The software of EDUCRATE will be modified according to company logo and brief description of companies CSR program, so that their customers can realize the goodwill of the company." /></p>
                 </div>
                 <div className="software-paragraph">
                     <h4><FormattedMessage id="home.Why EDUCRATE as a hardware is distinct from other products in the market?" /></h4>
@@ -41,7 +41,7 @@ class Policymakers extends React.Component {
                     <p style={{ marginBottom: '0rem' }}><span style={{ fontWeight: 'bold' }}><FormattedMessage id="home.Step 5) " /></span><FormattedMessage id="home.After discussion of proposal from CSR committee and NGO, standard contract would be signed between NGO and CSR committee." /></p>
                     <p style={{ marginBottom: '0rem' }}><span style={{ fontWeight: 'bold' }}><FormattedMessage id="home.Step 6) " /></span><FormattedMessage id="home.NGO would place the order with EDUCRATE team." /></p>
                     <p style={{ marginBottom: '0rem' }}><span style={{ fontWeight: 'bold' }}><FormattedMessage id="home.Step 7) " /></span><FormattedMessage id="home.EDUCRATE will modify its device hardware and software according to CSR company profile." /></p>
-                    <p style={{ marginBottom: '0rem' }}><span style={{ fontWeight: 'bold' }}><FormattedMessage id="home.Step 8) " /></span><FormattedMessage id="home.EDUCRATE team would deliver hardware and provide  technical support to NGO members to uplift digital education in selected classrooms." /></p>
+                    <p style={{ marginBottom: '0rem' }}><span style={{ fontWeight: 'bold' }}><FormattedMessage id="home.Step 8) " /></span><FormattedMessage id="home.EDUCRATE team would deliver hardware and provide technical support to NGO members to uplift digital education in selected classrooms." /></p>
 
                 </div>
 
