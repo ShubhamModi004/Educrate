@@ -20,7 +20,7 @@ class Index extends React.Component {
                     <Yellowbeads />
                 </div>
                 <h2>
-                    Skills we want for children to be prepared for the modern world
+                    <FormattedMessage id="home.Skills we want for children to be prepared for the modern world" />
                 </h2>
             </div>
         )

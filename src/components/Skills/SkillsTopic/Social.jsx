@@ -13,7 +13,7 @@ class Social extends React.Component {
     }
 
     galleryItems() {
-        const Array = ['Honesty', 'Social awareness', 'Everyone should make their opinion and respect others', 'Social etiquette and good behaviour', 'To not be jealous and greedy of neighbour', 'Overcome inferiority complex', 'Anti-bullying', 'Problem sharing with parents and teachers', 'Humbleness', 'Girls education impact whole society', 'Vital human values', 'bullying and teasing should not be done, it can disturb someone’s well being', 'Both male and female are equal', 'Basic Human Rights', 'Empathy with animals', 'Donations can make people happy']
+        const Array = ['home.Honesty', 'home.Social awareness', 'home.Everyone should make their opinion and respect others', 'home.Social etiquette and good behaviour', 'home.To not be jealous and greedy of neighbour', 'home.Overcome inferiority complex', 'home.Anti-bullying', 'home.Problem sharing with parents and teachers', 'home.Humbleness', 'home.Girls education impact whole society', 'home.Vital human values', 'home.Bullying and teasing should not be done, it can disturb someone’s well being', 'home.Both male and female are equal', 'home.Basic Human Rights', 'home.Empathy with animals', 'home.Donations can make people happy']
         return (
             Array.map((item, i) => <div className="skills-categories" style={{ background: '#7937C5' }}><p className="item"><FormattedMessage id={item} /></p></div>)
         )

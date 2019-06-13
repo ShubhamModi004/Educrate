@@ -13,7 +13,7 @@ class Moral extends React.Component {
     }
 
     galleryItems() {
-        const Array = ['Slow and steady wins the race', 'Humaniatarism', 'School learning will always help in future', 'Morals for kids to implement in daily life', 'Teachers importance', 'Practice makes the man perfect', 'Perseverance and Keep trying attitude', 'Respecting your parents', 'Honesty is the best policy', 'True Bravery']
+        const Array = ['home.Slow and steady wins the race', 'home.Humaniatarism', 'home.School learning will always help in future', 'home.Morals for kids to implement in daily life', 'home.Teachers importance', 'home.Practice makes the man perfect', 'home.Perseverance and Keep trying attitude', 'home.Respecting your parents', 'home.Honesty is the best policy', 'home.True Bravery']
         return (
             Array.map((item, i) => <div className="skills-categories" style={{ background: '#57C537' }}><p className="item"><FormattedMessage id={item} /></p></div>)
         )

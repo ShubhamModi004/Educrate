@@ -13,7 +13,7 @@ class Creative extends React.Component {
     }
 
     galleryItems() {
-        const Array = ['Entrepreneur skills', 'Grassroot Innovation', 'Drawing environment posters for awareness classroom', 'We should not contribute to greenhouse gases', 'Recycle and reuse', 'Renewable energy']
+        const Array = ['home.Entrepreneur skills', 'home.Grassroot Innovation', 'home.Drawing environment posters for awareness classroom', 'home.We should not contribute to greenhouse gases', 'home.Recycle and reuse', 'home.Renewable energy']
         return (
             Array.map((item, i) => <div className="skills-categories" style={{ background: '#29AF82' }}><p className="item"><FormattedMessage id={item} /></p></div>)
         )
