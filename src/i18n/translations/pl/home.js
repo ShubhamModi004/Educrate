@@ -497,6 +497,32 @@ export default {
   "Teacher would be awarded the prize for following the skill-certificate model": "शिक्षक को कौशल-प्रमाणपत्र मॉडल का पालन करने के लिए पुरस्कार दिया जाएगा",
 
 
+  // new content added
+  "EDUPEOPLE": "एजुपीपल",
+  "STUDENTS": "छात्र",
+  "PARENTS": "माता-पिता",
+
+
+  "Problems Faced by Students": "छात्रों को किन समस्याओं का सामना करना पड़ता है",
+  "Smart-Education": "स्मार्ट शिक्षा",
+  "EDUCRATE is on strong mission towards making classrooms exciting, meaningful and enjoyable.": "कक्षाओं को रोमांचक, सार्थक और सुखद बनाने की दिशा में एजुसेट मजबूत मिशन पर है।",
+  "Rote learning": "रटना सीखने",
+  "EDUCRATE through audio visual means make classroom more magical and interesting, eliminating rote learning.": "ऑडियो विजुअल के माध्यम से एजुसेट करने का मतलब है कि कक्षा को अधिक जादुई और रोचक बनाया जाए, जिससे रट्टा सीखने को खत्म किया जा सके।",
+  "Lack of Skills beyond curriculum": "पाठ्यक्रम से परे कौशल का अभाव",
+  "Knowledge bank is ever growing list of skills needed in Indian classrooms.": "नॉलेज बैंक कभी भारतीय कक्षाओं में आवश्यक कौशल की सूची बढ़ा रहा है।",
+  "Running behind grades": "ग्रेड के पीछे भाग रहा है",
+  "EDUCRATE enable children’s ability to think critically, to make more informed and ethical decisions. To let students gain knowledge beyond day to day course.": "एजुसेट बच्चों को गंभीर रूप से सोचने, अधिक सूचित और नैतिक निर्णय लेने में सक्षम बनाता है। छात्रों को दिन के पाठ्यक्रम से परे ज्ञान प्राप्त करने के लिए।",
+  "Information overload": "बहुत ज्यादा जानकारी",
+  "EDUCRATE forwards the well concluded research of better learning through audio visual means.": "ऑडियो विजुअल साधनों के माध्यम से बेहतर सीखने के लिए आगे की पढ़ाई के लिए एजुसेट करें।",
+  "Lack of information about skills beyond curriculum": "पाठ्यक्रम से परे कौशल के बारे में जानकारी का अभाव",
+  "Knowledge bank is ever growing list of skills needed in Indian classrooms towards creative learning.": "नॉलेज बैंक कभी रचनात्मक सीखने की दिशा में भारतीय कक्षाओं में आवश्यक कौशल की सूची बढ़ा रहा है।",
+  "Gamification in Learning": "लर्निंग में आनंद",
+  "Skill-Certificate model is based on gamified form of Learning in the classroom.": "स्किल-सर्टिफिकेट मॉडल कक्षा में लर्निंग के संक्षिप्त रूप पर आधारित है।",
+  "Teacher-Student relationship": "शिक्षक-छात्र का संबंध",
+  "Skill certificate model is to increase the communication and dialogue between the teacher and student in the classroom.": "कौशल प्रमाण पत्र मॉडल कक्षा में शिक्षक और छात्र के बीच संवाद और संवाद को बढ़ाने के लिए है।",
+
+
+
   // 
   'FIND OUT HOW': 'पता लगाओ कैसे',
   'Who we are': 'हम जो हैं',

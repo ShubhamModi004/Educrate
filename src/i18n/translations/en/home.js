@@ -507,6 +507,33 @@ export default {
   "Upload the photograph in the gallery": "Upload the photograph in the gallery",
   "Teacher would be awarded the prize for following the skill-certificate model": "Teacher would be awarded the prize for following the skill-certificate model",
 
+
+
+
+  //  new content added
+  "EDUPEOPLE": "EDUPEOPLE",
+  "STUDENTS": "STUDENTS",
+  "PARENTS": "PARENTS",
+
+  // problems faced
+  "Problems Faced by Students": "Problems Faced by Students",
+  "Smart-Education": "Smart-Education",
+  "EDUCRATE is on strong mission towards making classrooms exciting, meaningful and enjoyable.": "EDUCRATE is on strong mission towards making classrooms exciting, meaningful and enjoyable.",
+  "Rote learning": "Rote learning",
+  "EDUCRATE through audio visual means make classroom more magical and interesting, eliminating rote learning.": "EDUCRATE through audio visual means make classroom more magical and interesting, eliminating rote learning.",
+  "Lack of Skills beyond curriculum": "Lack of Skills beyond curriculum",
+  "Knowledge bank is ever growing list of skills needed in Indian classrooms.": "Knowledge bank is ever growing list of skills needed in Indian classrooms.",
+  "Running behind grades": "Running behind grades",
+  "EDUCRATE enable children’s ability to think critically, to make more informed and ethical decisions. To let students gain knowledge beyond day to day course.": "EDUCRATE enable children’s ability to think critically, to make more informed and ethical decisions. To let students gain knowledge beyond day to day course.",
+  "Information overload": "Information overload",
+  "EDUCRATE forwards the well concluded research of better learning through audio visual means.": "EDUCRATE forwards the well concluded research of better learning through audio visual means.",
+  "Lack of information about skills beyond curriculum": "Lack of information about skills beyond curriculum",
+  "Knowledge bank is ever growing list of skills needed in Indian classrooms towards creative learning.": "Knowledge bank is ever growing list of skills needed in Indian classrooms towards creative learning.",
+  "Gamification in Learning": "Gamification in Learning",
+  "Skill-Certificate model is based on gamified form of Learning in the classroom.": "Skill-Certificate model is based on gamified form of Learning in the classroom.",
+  "Teacher-Student relationship": "Teacher-Student relationship",
+  "Skill certificate model is to increase the communication and dialogue between the teacher and student in the classroom.": "Skill certificate model is to increase the communication and dialogue between the teacher and student in the classroom.",
+
   // 
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',
   'Educrate aims to provide the best form of education with the help of tech.': 'Educrate aims to provide the best form of education with the help of tech.',
