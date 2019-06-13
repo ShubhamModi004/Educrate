@@ -10,16 +10,25 @@ import Whatsapp from '../../common/Whatsapp';
 // import css
 import './styles.css';
 
+import Aboutussection from './Aboutussection';
+
 class Index extends Component {
     render() {
         return (
-            <div className="about-main-title container">
+            <div className="home-main-title container">
                 <div className="main-title">
                     <h2><FormattedMessage id="home.EVERYTHING YOU NEED TO KNOW ABOUT US" /></h2>
                     <p className="light"><FormattedMessage id="home.Get to know deeper insights about who we are, what drives us and what is our mission" /></p>
                 </div>
-                <div className="PinkSection">
-
+                <div className="main-title-imageSection">
+                    <Aboutussection />
+                </div>
+                <div className="socialMedia">
+                    <div className="social-media-facebook">
+                        <Facebook />
+                    </div>
+                    <Instagram />
+                    <Whatsapp />
                 </div>
             </div>
         )

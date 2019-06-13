@@ -640,6 +640,14 @@ export default {
   "Mouse": "Mouse",
   "Keyboard": "Keyboard",
   "Volume": "Volume",
+  "Battery": "Battery",
+  "Mount": "Mount",
+  "Yes, Wireless": "Yes, Wireless",
+  "Yes, Wireless (along with Touchpad)": "Yes, Wireless (along with Touchpad)",
+  "2 x 40 Watt Speakers": "2 x 40 Watt Speakers",
+  "Yes ( 3 Hrs backup)": "Yes ( 3 Hrs backup)",
+  "Wall/Ceiling/Table Mount": "Wall/Ceiling/Table Mount",
+  "6 Kgs approx": "6 Kgs approx",
 
 
   // 

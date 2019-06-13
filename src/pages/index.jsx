@@ -1,6 +1,6 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-
+import SEO from '../components/SEO';
 import withLayout from '../layout';
 import Link from '../components/Link';
 import Landing from '../components/Home/Landing';
@@ -13,6 +13,8 @@ import Counter from '../components/Home/Counter';
 
 const IndexPage = () => (
   <>
+  <SEO title="Home" />
+
   <Landing />
   <About />
   <How />

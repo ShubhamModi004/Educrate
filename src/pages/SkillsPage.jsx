@@ -1,6 +1,6 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-
+import SEO from '../components/SEO';
 import withLayout from '../layout';
 import Link from '../components/Link';
 import SkillsLanding from '../components/Skills/SkillsLanding';
@@ -11,6 +11,8 @@ import SkillsCertification from '../components/Skills/SkillsCertification';
 
 const IndexPage = () => (
   <>
+  <SEO title="Skill Certificate" />
+
   <SkillsLanding />
   <SkillsTopic />
   <SkillsQuote />

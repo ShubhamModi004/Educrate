@@ -1,6 +1,6 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-
+import SEO from '../components/SEO';
 import withLayout from '../layout';
 import Link from '../components/Link';
 import Landing from '../components/AboutComponent/AboutLanding';
@@ -11,6 +11,7 @@ import Edupeople from '../components/AboutComponent/Edupeople';
 
 const AboutPage = () => (
   <>
+  <SEO title="About us" />
   <Landing />
   <Sections />
   <Edupeople />

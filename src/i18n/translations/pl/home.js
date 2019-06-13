@@ -625,7 +625,14 @@ export default {
   "Mouse": "माउस",
   "Keyboard": "कीबोर्ड",
   "Volume": "वॉल्यूम",
-
+  "Battery": "बैटरी",
+  "Mount": "माउंट",
+  "Yes, Wireless": "हाँ, वायरलेस",
+  "Yes, Wireless (along with Touchpad)": "हां, वायरलेस(टचपैड के साथ)",
+  "2 x 40 Watt Speakers": "2 x 40 वाट के स्पीकर",
+  "Yes ( 3 Hrs backup)": "हां (3 घंटे बैकअप)",
+  "Wall/Ceiling/Table Mount": "दीवार / छत / टेबल माउंट",
+  "6 Kgs approx": "6 किलोग्राम लगभग",
 
 
   // 

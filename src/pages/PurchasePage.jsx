@@ -1,6 +1,6 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-
+import SEO from '../components/SEO';
 import withLayout from '../layout';
 import Link from '../components/Link';
 import PurchaseLanding from '../components/Purchase/PurchaseLanding';
@@ -10,6 +10,8 @@ import FaqSection from '../components/Purchase/FaqSection';
 
 const AboutPage = () => (
   <>
+  <SEO title="Purchase" />
+
   <PurchaseLanding />
   <Steps />
   <FaqSection />

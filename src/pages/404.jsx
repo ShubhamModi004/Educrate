@@ -1,10 +1,11 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-
+import SEO from '../components/SEO';
 import withLayout from '../layout';
 
 const NotFoundPage = () => (
   <>
+  <SEO title="404" />
   <div style={{ width: '100vw', height: '40rem' }}>
     <h1>
       <FormattedMessage id="error404.NOT FOUND" />

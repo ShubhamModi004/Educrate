@@ -11,7 +11,7 @@ import { translations, languages } from '../i18n';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import SEO from '../components/SEO';
+
 import './layout.min.css';
 import './custom.css';
 
@@ -41,12 +41,12 @@ const withLayout = customProps => PageComponent => props => {
       render={data => (
         <IntlProvider locale={pageLocale} messages={translations[pageLocale]}>
           <PageContext.Provider value={pageContextValue}>
-            <SEO title={pageTitle} lang={pageLocale} />
+
             <Header className="position-sticky" siteTitle={data.site.siteMetadata.title} hideLangs={hideLangs} />
-              <main className="body">
-                <PageComponent {...props} />
-              </main>
-            <Footer/>
+            <main className="body">
+              <PageComponent {...props} />
+            </main>
+            <Footer />
           </PageContext.Provider>
         </IntlProvider>
       )}

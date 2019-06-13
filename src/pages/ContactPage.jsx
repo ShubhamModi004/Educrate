@@ -1,6 +1,6 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-
+import SEO from '../components/SEO';
 import withLayout from '../layout';
 import Contact from '../components/ContactComponent';
 import Form from '../components/ContactComponent/Form';
@@ -10,6 +10,8 @@ import Map from '../components/ContactComponent/MapComponent';
 
 const IndexPage = () => (
   <>
+  <SEO title="Contact us" />
+
   <Form />
   <Yellow />
   <Map />
