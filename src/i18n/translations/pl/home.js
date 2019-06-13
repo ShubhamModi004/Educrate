@@ -212,7 +212,7 @@ export default {
   "+ unequipped teachers": "+ अनकैप्ड शिक्षक",
   "This inhibits the development to child in the classroom and denies the opportunity is available to their urban peers. EDUCRATE also wants to cater those low resource setting, so that NO CHILD IS LEFT BEHIND in opportunity towards modern learning.": "यह कक्षा में बच्चे के विकास को रोकता है और उनके शहरी साथियों के लिए अवसर उपलब्ध होने से इनकार करता है। एडुक्रेट उन कम संसाधन सेटिंग को भी पूरा करना चाहता है, जिससे कोई भी बच्चा आधुनिक सीखने की दिशा में पीछे न रहे।",
   "How EDUCRATE operates in Low resource setting?": "निम्न संसाधन सेटिंग में एडुक्रेट कैसे संचालित होता है?",
-  "Educrate is cheaper as compared to the other smart classroom setups. Moreover it can run on solar power (solar panels provided along with Educrate at the option of the purchaser). Moreover, since only one device has to be powered to make the classroom a Smart ClassRoom, operating cost reduces.": "अन्य स्मार्ट क्लासरूम सेटअपों की तुलना में एजुसेट सस्ता है। इसके अलावा यह सौर ऊर्जा पर चल सकता है (क्रेता के विकल्प पर एजुकेट के साथ दिए गए सौर पैनल)। इसके अलावा, चूंकि कक्षा को स्मार्ट क्लासरूम बनाने के लिए केवल एक डिवाइस को संचालित करना पड़ता है, इसलिए परिचालन लागत कम हो जाती है।",
+  "Educrate is cheaper as compared to the other smart classroom setups. Moreover it can run on solar power (solar panels provided along with Educrate at the option of the purchaser). Moreover, since only one device has to be powered to make the classroom a Smart ClassRoom, operating cost reduces.": "अन्य स्मार्ट क्लासरूम सेटअपों की तुलना में एडुक्रेट सस्ता है। इसके अलावा यह सौर ऊर्जा पर चल सकता है (क्रेता के विकल्प पर एजुकेट के साथ दिए गए सौर पैनल)। इसके अलावा, चूंकि कक्षा को स्मार्ट क्लासरूम बनाने के लिए केवल एक डिवाइस को संचालित करना पड़ता है, इसलिए परिचालन लागत कम हो जाती है।",
   "Can you trust us?": "क्या आप हम पर भरोसा कर सकते हैं?",
   "For our credibility we have attached Aadhar ids of directors and our Memorandum of Association. We have also designed a demo classroom in Kanpur, to introduce school operators to EDUCRATE classrooms. So you can book a schedule to visit us in Kanpur and have direct interaction with us.": "हमारी विश्वसनीयता के लिए हमने आधार आईडी ऑफ डायरेक्टर्स और हमारे मेमोरेंडम ऑफ एसोसिएशन को संलग्न किया है। हमने कक्षाओं को शिक्षित करने के लिए स्कूल संचालकों को पेश करने के लिए कानपुर में एक डेमो कक्षा भी डिजाइन की है। इसलिए आप कानपुर में हमसे मिलने के लिए एक कार्यक्रम बुक कर सकते हैं और हमारे साथ सीधी बातचीत कर सकते हैं।",
   "Can you summarise us, what you propose to do?": "क्या आप हमें संक्षेप में बता सकते हैं कि आप क्या करने का प्रस्ताव रखते हैं?",
@@ -222,14 +222,14 @@ export default {
   "Who can be a part of EDUCRATE family?": "एडुक्रेट परिवार का हिस्सा कौन हो सकता है?",
   "Anyone can be a part of our Educrate family. Give importance to education & learning and hey...you become one of us. A phone call, and that’s it, you get an Educrate and YOU become a part of our Educrate family.": "कोई भी हमारे एजुकेट परिवार का हिस्सा हो सकता है। शिक्षा और शिक्षा को महत्व दें और हे ... आप हम में से एक बनें। एक फोन कॉल, और वह यह है कि आपको एक एजुकेट मिलता है और आप हमारे एजुकेट परिवार का हिस्सा बन जाते हैं।",
   "What infrastructural support in classroom is needed for EDUCRATE installation?": "स्थापना को शिक्षित करने के लिए कक्षा में किस आधारभूत संरचना के समर्थन की आवश्यकता है?",
-  "We don’t need much for Educrate installation. Power supply and that’s it. Rest other things shall be done by our Edurate team. Educrate shall be wall-mounted by our team, and power supply shall be given to the Educrate. Through USB cable our Digital Board shall be powered, and done, there’s your digital classroom.": "हमें एजुसेट इंस्टालेशन के लिए ज्यादा जरूरत नहीं है। बिजली की आपूर्ति और वह है बाकी चीजें हमारी एडुरेट टीम द्वारा की जाएंगी। हमारी टीम द्वारा एडुकेट को दीवार पर लगाया जाएगा, और एडुकेट को बिजली की आपूर्ति दी जाएगी। USB केबल के माध्यम से हमारे डिजिटल बोर्ड को संचालित किया जाएगा, और किया जाएगा, आपकी डिजिटल कक्षा है।",
+  "We don’t need much for Educrate installation. Power supply and that’s it. Rest other things shall be done by our Edurate team. Educrate shall be wall-mounted by our team, and power supply shall be given to the Educrate. Through USB cable our Digital Board shall be powered, and done, there’s your digital classroom.": "हमें एडुक्रेट इंस्टालेशन के लिए ज्यादा जरूरत नहीं है। बिजली की आपूर्ति और वह है बाकी चीजें हमारी एडुरेट टीम द्वारा की जाएंगी। हमारी टीम द्वारा एडुकेट को दीवार पर लगाया जाएगा, और एडुकेट को बिजली की आपूर्ति दी जाएगी। USB केबल के माध्यम से हमारे डिजिटल बोर्ड को संचालित किया जाएगा, और किया जाएगा, आपकी डिजिटल कक्षा है।",
 
   // Faq Teacher Section
 
 
   "TEACHERS": "अध्यापक",
   "What role teacher has to play in EDUCRATE mission?": "शिक्षक को एडुक्रेट मिशन में क्या भूमिका निभानी है?",
-  "A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual.": "एक शिक्षक शिक्षा प्रणाली का मूल और स्टेम है और कोई भी तकनीक शिक्षक को प्रतिस्थापित नहीं कर सकती है। हम अपने एजुकेट के साथ शिक्षकों को छात्रों को अधिक उन्नत तरीके से पढ़ाने में सहायता करेंगे। शिक्षकों को एजुसेट शुरू करने और वीडियो चलाने की आवश्यकता होगी। शिक्षक छात्रों को अध्याय का विवरण देंगे और फिर शिक्षक हमेशा की तरह अध्याय की व्याख्या करेंगे।",
+  "A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual.": "एक शिक्षक शिक्षा प्रणाली का मूल और स्टेम है और कोई भी तकनीक शिक्षक को प्रतिस्थापित नहीं कर सकती है। हम अपने एजुकेट के साथ शिक्षकों को छात्रों को अधिक उन्नत तरीके से पढ़ाने में सहायता करेंगे। शिक्षकों को एडुक्रेट शुरू करने और वीडियो चलाने की आवश्यकता होगी। शिक्षक छात्रों को अध्याय का विवरण देंगे और फिर शिक्षक हमेशा की तरह अध्याय की व्याख्या करेंगे।",
   "How educrate team would help Teachers ?": "कैसे एडुक्रेट टीम शिक्षकों की मदद करेगी?",
   "A combination of Teacher’s teaching + Educrate’s Audio-Visual content will give a better understanding to the students, and the teachers would also be required to make less efforts than usual. Apart from this, test series would also be given by our digital content software which will reduce the burden of the teachers for giving tests to the sudents.": "शिक्षक के शिक्षण + एजुकेट की ऑडियो- विज़ुअल सामग्री के संयोजन से छात्रों को बेहतर समझ मिलेगी, और शिक्षकों को सामान्य से कम प्रयास करने की भी आवश्यकता होगी। इसके अलावा, हमारे डिजिटल कंटेंट सॉफ़्टवेयर द्वारा टेस्ट सीरीज़ भी दी जाएगी, जो शिक्षकों को सूदखोरों को टेस्ट देने के बोझ को कम करेगी।",
   "Will there be issue of copyright action?": "क्या कॉपीराइट कार्रवाई का मुद्दा होगा?",
@@ -311,7 +311,7 @@ export default {
 
   // How to purchase an Educrate
   "How to purchase an Educrate": "कैसे एक एडुक्रेट खरीद करने के लिए",
-  "Below are the steps that are involved in purchasing Educrate": "नीचे वो चरण दिए गए हैं जो एजुसेट खरीदने में शामिल हैं",
+  "Below are the steps that are involved in purchasing Educrate": "नीचे वो चरण दिए गए हैं जो एडुक्रेट खरीदने में शामिल हैं",
   "Raise the quotation": "कोटेशन बढ़ाएं",
   "CLICK HERE": "यहां क्लिक करे",
   "Contact Educrate to place an order": "ऑर्डर देने के लिए एडुक्रेट से संपर्क करें",
@@ -505,21 +505,64 @@ export default {
 
   "Problems Faced by Students": "छात्रों को किन समस्याओं का सामना करना पड़ता है",
   "Smart-Education": "स्मार्ट शिक्षा",
-  "EDUCRATE is on strong mission towards making classrooms exciting, meaningful and enjoyable.": "कक्षाओं को रोमांचक, सार्थक और सुखद बनाने की दिशा में एजुसेट मजबूत मिशन पर है।",
+  "EDUCRATE is on strong mission towards making classrooms exciting, meaningful and enjoyable.": "कक्षाओं को रोमांचक, सार्थक और सुखद बनाने की दिशा में एडुक्रेट मजबूत मिशन पर है।",
   "Rote learning": "रटना सीखने",
-  "EDUCRATE through audio visual means make classroom more magical and interesting, eliminating rote learning.": "ऑडियो विजुअल के माध्यम से एजुसेट करने का मतलब है कि कक्षा को अधिक जादुई और रोचक बनाया जाए, जिससे रट्टा सीखने को खत्म किया जा सके।",
+  "EDUCRATE through audio visual means make classroom more magical and interesting, eliminating rote learning.": "ऑडियो विजुअल के माध्यम से एडुक्रेट करने का मतलब है कि कक्षा को अधिक जादुई और रोचक बनाया जाए, जिससे रट्टा सीखने को खत्म किया जा सके।",
   "Lack of Skills beyond curriculum": "पाठ्यक्रम से परे कौशल का अभाव",
   "Knowledge bank is ever growing list of skills needed in Indian classrooms.": "नॉलेज बैंक कभी भारतीय कक्षाओं में आवश्यक कौशल की सूची बढ़ा रहा है।",
   "Running behind grades": "ग्रेड के पीछे भाग रहा है",
-  "EDUCRATE enable children’s ability to think critically, to make more informed and ethical decisions. To let students gain knowledge beyond day to day course.": "एजुसेट बच्चों को गंभीर रूप से सोचने, अधिक सूचित और नैतिक निर्णय लेने में सक्षम बनाता है। छात्रों को दिन के पाठ्यक्रम से परे ज्ञान प्राप्त करने के लिए।",
+  "EDUCRATE enable children’s ability to think critically, to make more informed and ethical decisions. To let students gain knowledge beyond day to day course.": "एडुक्रेट बच्चों को गंभीर रूप से सोचने, अधिक सूचित और नैतिक निर्णय लेने में सक्षम बनाता है। छात्रों को दिन के पाठ्यक्रम से परे ज्ञान प्राप्त करने के लिए।",
   "Information overload": "बहुत ज्यादा जानकारी",
-  "EDUCRATE forwards the well concluded research of better learning through audio visual means.": "ऑडियो विजुअल साधनों के माध्यम से बेहतर सीखने के लिए आगे की पढ़ाई के लिए एजुसेट करें।",
+  "EDUCRATE forwards the well concluded research of better learning through audio visual means.": "ऑडियो विजुअल साधनों के माध्यम से बेहतर सीखने के लिए आगे की पढ़ाई के लिए एडुक्रेट करें।",
   "Lack of information about skills beyond curriculum": "पाठ्यक्रम से परे कौशल के बारे में जानकारी का अभाव",
   "Knowledge bank is ever growing list of skills needed in Indian classrooms towards creative learning.": "नॉलेज बैंक कभी रचनात्मक सीखने की दिशा में भारतीय कक्षाओं में आवश्यक कौशल की सूची बढ़ा रहा है।",
   "Gamification in Learning": "लर्निंग में आनंद",
   "Skill-Certificate model is based on gamified form of Learning in the classroom.": "स्किल-सर्टिफिकेट मॉडल कक्षा में लर्निंग के संक्षिप्त रूप पर आधारित है।",
   "Teacher-Student relationship": "शिक्षक-छात्र का संबंध",
   "Skill certificate model is to increase the communication and dialogue between the teacher and student in the classroom.": "कौशल प्रमाण पत्र मॉडल कक्षा में शिक्षक और छात्र के बीच संवाद और संवाद को बढ़ाने के लिए है।",
+
+  "Problems Faced by Teachers": "शिक्षकों को किन समस्याओं का सामना करना पड़ता है",
+  "Traditional Hardware is difficult to operate": "पारंपरिक हार्डवेयर को संचालित करना मुश्किल है",
+  "EDUCRATE can be operated just like normal Personal Computer, with Keyboard and mouse provided.": "एडुक्रेट को सामान्य व्यक्तिगत कंप्यूटर की तरह ही संचालित किया जा सकता है, कीबोर्ड और माउस के साथ।",
+  "Hardware setup is difficult": "हार्डवेयर सेटअप मुश्किल है",
+  "EDUCRATE has just one switch to start the classroom learning.": "कक्षा सीखने शुरू करने के लिए एडुक्रेट का सिर्फ एक स्विच है।",
+  "Less information towards newer pedagogical techniques.": "नई शैक्षणिक तकनीकों की ओर कम जानकारी।",
+  "Teacher can readily access EDUCRATE to search the concept from youtube to present before the class.": "शिक्षक आसानी से कक्षा से पहले पेश करने के लिए यूट्यूब से अवधारणा को खोजने के लिए एडुक्रेट तक पहुंच सकता है।",
+  "Application/software is complex to handle": "एप्लिकेशन / सॉफ़्टवेयर को संभालना जटिल है",
+  "EDUCRATE operates in LINUX based operating system, which is the easiest software to use in smart classroom setting.": "एडुक्रेट लिनक्स आधारित ऑपरेटिंग सिस्टम में संचालित होता है, जो स्मार्ट क्लासरूम सेटिंग में उपयोग करने के लिए सबसे आसान सॉफ्टवेयर है।",
+  "Extensive curriculum to cover": "व्यापक पाठ्यक्रम को कवर करने के लिए",
+  "Knowledge bank videos are of short duration to adjust at least once a week for the students without affecting normal teaching-curriculum.": "नॉलेज बैंक वीडियो सामान्य शिक्षण-पाठ्यक्रम को प्रभावित किए बिना छात्रों के लिए सप्ताह में कम से कम एक बार समायोजित करने की छोटी अवधि के होते हैं।",
+  "Language Barrier in content": "सामग्री में भाषा अवरोध",
+  "Knowledge Bank has been made by contribution of Teachers and stakeholders in local language for better understanding for kids.": "ज्ञान बैंक बच्चों के लिए बेहतर समझ के लिए स्थानीय भाषा में शिक्षकों और हितधारकों के योगदान द्वारा बनाया गया है।",
+  "Lack of Communication between student and teacher": "छात्र और शिक्षक के बीच संचार का अभाव।",
+  "EDUCRATE promoter two way communication between student - teacher and amongst students as well through Group discussion certificates and skill topics.": "छात्र और शिक्षक के बीच और साथ ही ग्रुप डिस्कशन सर्टिफिकेट और स्किल विषयों के बीच दो तरह के संचार को बढ़ावा दें।",
+  "Capturing Important photographs in joy moments of classroom": "कक्षा के खुशी के क्षणों में महत्वपूर्ण तस्वीरों को कैप्चर करना",
+  "EDUCRATE has camera feature to capture all the important moments of the classrooms.": "कक्षाओं के सभी महत्वपूर्ण क्षणों को कैप्चर करने के लिए एडुक्रेट में कैमरा फीचर है।",
+  "Lack of awareness about Flipped Learning": "फ़्लिप लर्निंग के बारे में जागरूकता की कमी",
+  "EDUCRATE promotes sharing of topics well in advance with students, and students go through it, forming an understanding of the topic so that they can facilitate discussion on and elaboration of the topic.": "एडुक्रेट छात्रों के साथ पहले से ही अच्छी तरह से विषयों के बंटवारे को बढ़ावा देता है, और छात्रों को इस विषय के बारे में समझ बनाने के लिए, ताकि वे इस विषय पर चर्चा और विस्तार कर सकें।",
+  "Problems Faced by Parents": "माता-पिता को किन समस्याओं का सामना करना पड़ता है",
+  "Soft skill development of child": "बच्चे का सॉफ्ट स्किल डेवलपमेंट",
+  "EDUCRATE through KNOWLEDGE BANK is focussed on skills beyond curriculum.": "नॉलेज बैंक के माध्यम से शिक्षा पाठ्यक्रम से परे कौशल पर ध्यान केंद्रित है।",
+  "Digital literacy": "डिजिटल साक्षरता",
+  "Knowledge Bank has included videos to explain the limited use of technology.": "नॉलेज बैंक ने प्रौद्योगिकी के सीमित उपयोग को समझाने के लिए वीडियो को शामिल किया है।",
+  "Learning better morals": "बेहतर नैतिकता सीखना",
+  "Knowledge Bank has shared age-wise good stories to help children to grow a good and honest citizen.": "नॉलेज बैंक ने बच्चों को एक अच्छा और ईमानदार नागरिक विकसित करने में मदद करने के लिए उम्र-वार अच्छी कहानियों को साझा किया है।",
+  "Increase in Fee": "शुल्क में वृद्धि",
+  "EDUCRATE with school operators tries not to burden parents financially for smart content delivery.": "स्कूल संचालकों के साथ एडुक्रेट स्मार्ट सामग्री वितरण के लिए माता-पिता को आर्थिक रूप से बोझ नहीं बनाने की कोशिश करता है।",
+  "Learning results": "सीखने के परिणाम",
+  "EDUCRATE works on reward and appreciation psychology of child to make the classroom more interesting": "एडुक्रेट कक्षा को और अधिक रोचक बनाने के लिए बच्चे के इनाम और प्रशंसा मनोविज्ञान पर काम करता है",
+  "Lack of multidimensional learning": "बहुआयामी शिक्षा का अभाव",
+  "EDUCRATE through KNOWLEDGE BANK attempts to cognitive, physical, social, emotional and ethical development of each child.": "हर बच्चे के संज्ञानात्मक, शारीरिक, सामाजिक, भावनात्मक और नैतिक विकास के प्रयासों के माध्यम से शिक्षित करें।",
+  "Smart Learning for their kids": "उनके बच्चों के लिए स्मार्ट लर्निंग",
+  "EDUCRATE is an investment to every parent’s dream of good quality education for their children.": "एडुक्रेट अपने बच्चों के लिए अच्छी गुणवत्ता की शिक्षा के हर माता- पिता के सपने के लिए एक निवेश है।",
+  "Problems Faced by School Operators": "स्कूल संचालकों को किन समस्याओं का सामना करना पड़ता है",
+  "Pricing of Hardware": "हार्डवेयर का मूल्य निर्धारण",
+  "EDUCRATE has combined five device and reduce the setup price by 1/3rd": "एडुक्रेट ने पांच डिवाइस को संयोजित किया है और सेटअप मूल्य को 1 / 3rd तक कम किया है",
+
+
+
+
+
 
 
 

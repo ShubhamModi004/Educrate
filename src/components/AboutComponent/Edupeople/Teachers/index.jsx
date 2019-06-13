@@ -121,7 +121,7 @@ class Teachers extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Lack of awareness about Flipped Learning" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE promotes sharing of topics  well in advance with students, and students go through it, forming an understanding of the topic so that they can  facilitate discussion on and elaboration of the topic." />
+                                    <FormattedMessage id="home.EDUCRATE promotes sharing of topics well in advance with students, and students go through it, forming an understanding of the topic so that they can facilitate discussion on and elaboration of the topic." />
                                 </p>
                             </div>
                         </div>

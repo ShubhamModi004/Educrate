@@ -69,7 +69,7 @@ class Parents extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Learning results" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE works on reward and appreciation psychology of child to make the  classroom more interesting" />
+                                    <FormattedMessage id="home.EDUCRATE works on reward and appreciation psychology of child to make the classroom more interesting" />
                                 </p>
                             </div>
                         </div>
@@ -80,9 +80,9 @@ class Parents extends Component {
                                 6
                             </div>
                             <div className="col-md-10 real-world-section-desc">
-                                <h6><FormattedMessage id="home.Lack of multidimensional learning " /></h6>
+                                <h6><FormattedMessage id="home.Lack of multidimensional learning" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE through KNOWLEDGE BANK attempts to  cognitive, physical, social, emotional and ethical development of each child." />
+                                    <FormattedMessage id="home.EDUCRATE through KNOWLEDGE BANK attempts to cognitive, physical, social, emotional and ethical development of each child." />
                                 </p>
                             </div>
                         </div>
@@ -95,7 +95,7 @@ class Parents extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Smart Learning for their kids" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE is an investment  to every parent’s dream of  good quality education for their children." />
+                                    <FormattedMessage id="home.EDUCRATE is an investment to every parent’s dream of good quality education for their children." />
                                 </p>
                             </div>
                         </div>
