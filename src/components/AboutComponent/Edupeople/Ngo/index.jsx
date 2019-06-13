@@ -8,7 +8,7 @@ class Ngo extends Component {
         return (
             <div className="container">
                 <div className="real-world">
-                    <h2><FormattedMessage id="home.Problems Faced by School Operators" /></h2>
+                    <h2><FormattedMessage id="home.Problems Faced by NGOs" /></h2>
                     <div className="real-world-section">
                         <div className="row">
                             <div className="col-md-2 real-world-section-number">
@@ -41,9 +41,9 @@ class Ngo extends Component {
                                 3
                             </div>
                             <div className="col-md-10 real-world-section-desc">
-                                <h6><FormattedMessage id="home.Portability of  Hardware" /></h6>
+                                <h6><FormattedMessage id="home.Portability of Hardware" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE is portable just like your mobile,  if charged for delivery of audio visual lecture infront of any audience." />
+                                    <FormattedMessage id="home.EDUCRATE is portable just like your mobile, if charged for delivery of audio visual lecture infront of any audience." />
                                 </p>
                             </div>
                         </div>

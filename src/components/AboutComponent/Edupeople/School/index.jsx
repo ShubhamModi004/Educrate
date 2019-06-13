@@ -30,7 +30,7 @@ class School extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Training of Teachers towards technology usage" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE gives extensive training to the teachers regarding Hardware usage and Software usage. And support all around the clock mail and telephone support to teachers. " />
+                                    <FormattedMessage id="home.EDUCRATE gives extensive training to the teachers regarding Hardware usage and Software usage. And support all around the clock mail and telephone support to teachers." />
                                 </p>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ class School extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Costly content" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE creates awareness about FAIR USE provisions in Indian Law. EDUCRATE full accessibility to Youtube  for teaching purposes." />
+                                    <FormattedMessage id="home.EDUCRATE creates awareness about FAIR USE provisions in Indian Law. EDUCRATE full accessibility to Youtube for teaching purposes." />
                                 </p>
                             </div>
                         </div>
@@ -82,7 +82,7 @@ class School extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Language Barrier" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.Knowledge Bank has been made by contribution of Teachers and stakeholders in local language  for better understanding for kids." />
+                                    <FormattedMessage id="home.Knowledge Bank has been made by contribution of Teachers and stakeholders in local language for better understanding for kids." />
                                 </p>
                             </div>
                         </div>

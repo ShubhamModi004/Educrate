@@ -571,6 +571,37 @@ export default {
   "Problems Faced by School Operators": "Problems Faced by School Operators",
   "Pricing of Hardware": "Pricing of Hardware",
   "EDUCRATE has combined five device and reduce the setup price by 1/3rd": "EDUCRATE has combined five device and reduce the setup price by 1/3rd",
+  "Training of Teachers towards technology usage": "Training of Teachers towards technology usage",
+  "EDUCRATE gives extensive training to the teachers regarding Hardware usage and Software usage. And support all around the clock mail and telephone support to teachers.": "EDUCRATE gives extensive training to the teachers regarding Hardware usage and Software usage. And support all around the clock mail and telephone support to teachers.",
+  "EDUCRATE’s whole mechanism revolves around the gmail id created for your school/classroom. The training would be provided to teachers and instruction manual with screenshots also would be provided to teachers.": "EDUCRATE’s whole mechanism revolves around the gmail id created for your school/classroom. The training would be provided to teachers and instruction manual with screenshots also would be provided to teachers.",
+  "Discontinuous Electricity": "Discontinuous Electricity",
+  "EDUCRATE has been provided with inbuilt battery backup of 3 hours.": "EDUCRATE has been provided with inbuilt battery backup of 3 hours.",
+  "Costly content": "Costly content",
+  "EDUCRATE creates awareness about FAIR USE provisions in Indian Law. EDUCRATE full accessibility to Youtube for teaching purposes.": "EDUCRATE creates awareness about FAIR USE provisions in Indian Law. EDUCRATE full accessibility to Youtube for teaching purposes.",
+  "Language Barrier": "Language Barrier",
+  "Knowledge Bank has been made by contribution of Teachers and stakeholders in local language for better understanding for kids.": "Knowledge Bank has been made by contribution of Teachers and stakeholders in local language for better understanding for kids.",
+  "Space taking hardware": "Space taking hardware",
+  "EDUCRATE as a package is only one device,placed just above the teacher so as to not disturb the visibility of teacher with students.": "EDUCRATE as a package is only one device,placed just above the teacher so as to not disturb the visibility of teacher with students.",
+  "No real-time monitoring of Hardware usage": "No real-time monitoring of Hardware usage",
+  "Photo upload feature in Skill certificate page would help you to see that Knowledge bank is being used in the classroom.": "Photo upload feature in Skill certificate page would help you to see that Knowledge bank is being used in the classroom.",
+  "Complex softwares": "Complex softwares",
+  "Problems Faced by NGOs": "Problems Faced by NGOs",
+  "Budget constraint": "Budget constraint",
+  "EDUCRATE offer major discounts to NGOs. Please send us the enquiry through the mail.": "EDUCRATE offer major discounts to NGOs. Please send us the enquiry through the mail.",
+  "Socio-Economic Problems": "Socio-Economic Problems",
+  "EDUCRATE sees every child as a changemaker in his/her life, parents, classroom and society towards social evils. Even foremost NGOs are contributing to the Knowledge bank through content and advise wise.": "EDUCRATE sees every child as a changemaker in his/her life, parents, classroom and society towards social evils. Even foremost NGOs are contributing to the Knowledge bank through content and advise wise.",
+  "Portability of Hardware": "Portability of Hardware",
+  "EDUCRATE is portable just like your mobile, if charged for delivery of audio visual lecture infront of any audience.": "EDUCRATE is portable just like your mobile, if charged for delivery of audio visual lecture infront of any audience.",
+  "Lack of Mentorship for new nonprofits and NGOs": "Lack of Mentorship for new nonprofits and NGOs",
+  "EDUCRATE team is in contact with experienced people of Non profit to get your all problems answered. Please share through the mail about your doubts-we will try to maximum of our capability possible.": "EDUCRATE team is in contact with experienced people of Non profit to get your all problems answered. Please share through the mail about your doubts-we will try to maximum of our capability possible.",
+  "Connecting with audience": "Connecting with audience",
+  "Media-rich space of learning can have a positive impact on targeted audience.": "Media-rich space of learning can have a positive impact on targeted audience.",
+  "EDUCRATE offers the optimum storage capacity for videos/media content to deliver in low network areas.": "EDUCRATE offers the optimum storage capacity for videos/media content to deliver in low network areas.",
+
+
+
+
+
 
   // 
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',
