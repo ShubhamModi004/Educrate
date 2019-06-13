@@ -97,32 +97,32 @@ class Application extends React.Component {
                         <table class="table table-striped">
                             <tbody>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Projection" /></td>
-                                    <td className="tableDetail value"><FormattedMessage id="home.Short Throw" /></td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.VGA" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.1 Port" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Contrast Ratio" /></td>
-                                    <td className="tableDetail value">15000:1</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.HDMI" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.2 Ports" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Aspect Ratio" /></td>
-                                    <td className="tableDetail value">4:3</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.USB 2.0" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.2 Ports" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Lamp Life" /></td>
-                                    <td className="tableDetail value"><FormattedMessage id="home.15,000 Hours" /></td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Video In" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.1 Port" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Focus Button" /></td>
-                                    <td className="tableDetail value"><FormattedMessage id="home.Yes" /></td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Video Out" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.1 Port" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Resolution" /></td>
-                                    <td className="tableDetail value">1920 x 1080 (HD)</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Audio In" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.1 Port" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key"><FormattedMessage id="home.Projection System" /></td>
-                                    <td className="tableDetail value">DLP</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Audio Out" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.1 Port" /></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -133,32 +133,16 @@ class Application extends React.Component {
                         <table class="table table-striped">
                             <tbody>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Projection</td>
-                                    <td className="tableDetail value">Short Throw</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.RAM" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.1 GB" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Contrast Ratio</td>
-                                    <td className="tableDetail value">15000:1</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Hard Disk" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.500 GB" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Aspect Ratio</td>
-                                    <td className="tableDetail value">4:3</td>
-                                </tr>
-                                <tr className="tableRow">
-                                    <td className="tableDetail key">Lamp Life</td>
-                                    <td className="tableDetail value">15,000 Hours</td>
-                                </tr>
-                                <tr className="tableRow">
-                                    <td className="tableDetail key">Focus Button</td>
-                                    <td className="tableDetail value">Yes</td>
-                                </tr>
-                                <tr className="tableRow">
-                                    <td className="tableDetail key">Resolution</td>
-                                    <td className="tableDetail value">1920 x 1080 (HD)</td>
-                                </tr>
-                                <tr className="tableRow">
-                                    <td className="tableDetail key">Projection System</td>
-                                    <td className="tableDetail value">DLP</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Operating System" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.Linux" /></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -169,32 +153,28 @@ class Application extends React.Component {
                         <table class="table table-striped">
                             <tbody>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Projection</td>
-                                    <td className="tableDetail value">Short Throw</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Mouse" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.Yes, Wireless" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Contrast Ratio</td>
-                                    <td className="tableDetail value">15000:1</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Keyboard" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.Yes, Wireless (along with Touchpad)" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Aspect Ratio</td>
-                                    <td className="tableDetail value">4:3</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Volume" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.2 x 40 Watt Speakers" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Lamp Life</td>
-                                    <td className="tableDetail value">15,000 Hours</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Battery" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.Yes ( 3 Hrs backup)" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Focus Button</td>
-                                    <td className="tableDetail value">Yes</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Mount" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.Wall/Ceiling/Table Mount" /></td>
                                 </tr>
                                 <tr className="tableRow">
-                                    <td className="tableDetail key">Resolution</td>
-                                    <td className="tableDetail value">1920 x 1080 (HD)</td>
-                                </tr>
-                                <tr className="tableRow">
-                                    <td className="tableDetail key">Projection System</td>
-                                    <td className="tableDetail value">DLP</td>
+                                    <td className="tableDetail key"><FormattedMessage id="home.Weight" /></td>
+                                    <td className="tableDetail value"><FormattedMessage id="home.6 Kgs approx" /></td>
                                 </tr>
                             </tbody>
                         </table>

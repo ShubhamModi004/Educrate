@@ -606,6 +606,25 @@ export default {
   "EDUCRATE is open for procurement and works on BOOT model of public-private partnership. Please check our FAQ page to successful ed-tech PPP models.": "एडुक्रेट सार्वजनिक-निजी भागीदारी के BOOT मॉडल पर खरीद और काम करने के लिए खुला है। कृपया सफल एड-टेक पीपीपी मॉडल के लिए हमारे सामान्य प्रश्न पृष्ठ की जाँच करें।",
 
 
+  // last few hindi stuff
+  "VGA": "वीजीए",
+  "1 Port": "1 पोर्ट",
+  "2 Ports": "2 पोर्ट",
+  "HDMI": "हदिमि",
+  "USB 2.0": "उसब  2.0",
+  "Video In": "वीडियो इनपुट",
+  "Video Out": "वीडियो आउटपुट",
+  "Audio In": "ऑडियो इनपुट",
+  "Audio Out": "ऑडियो आउटपुट",
+  "RAM": "रैम",
+  "Hard Disk": "हार्ड डिस्क",
+  "Operating System": "ऑपरेटिंग सिस्टम",
+  "1 GB": "1 गिबि",
+  "500 GB": "500 गिबि",
+  "Linux": "लिनक्स",
+  "Mouse": "माउस",
+  "Keyboard": "कीबोर्ड",
+  "Volume": "वॉल्यूम",
 
 
 

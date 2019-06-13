@@ -615,6 +615,33 @@ export default {
   "Public-private collaboration": "Public-private collaboration",
   "EDUCRATE is open for procurement and works on BOOT model of public-private partnership. Please check our FAQ page to successful ed-tech PPP models.": "EDUCRATE is open for procurement and works on BOOT model of public-private partnership. Please check our FAQ page to successful ed-tech PPP models.",
 
+
+
+
+
+
+
+  // last few hindi stuff
+  "VGA": "VGA",
+  "1 Port": "1 Port",
+  "2 Ports": "2 Ports",
+  "HDMI": "HDMI",
+  "USB 2.0": "USB 2.0",
+  "Video In": "Video In",
+  "Video Out": "Video Out",
+  "Audio In": "Audio In",
+  "Audio Out": "Audio Out",
+  "RAM": "RAM",
+  "Hard Disk": "Hard Disk",
+  "Operating System": "Operating System",
+  "1 GB": "1 GB",
+  "500 GB": "500 GB",
+  "Linux": "Linux",
+  "Mouse": "Mouse",
+  "Keyboard": "Keyboard",
+  "Volume": "Volume",
+
+
   // 
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',
   'Educrate aims to provide the best form of education with the help of tech.': 'Educrate aims to provide the best form of education with the help of tech.',
