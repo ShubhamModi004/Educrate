@@ -587,8 +587,23 @@ export default {
   "Media-rich space of learning can have a positive impact on targeted audience.": "सीखने की मीडिया युक्त जगह लक्षित दर्शकों पर सकारात्मक प्रभाव डाल सकती है।",
   "Low network connectivity in rural areas": "ग्रामीण क्षेत्रों में कम नेटवर्क कनेक्टिविटी",
   "EDUCRATE offers the optimum storage capacity for videos/media content to deliver in low network areas.": "एडुक्रेट कम नेटवर्क क्षेत्रों में वितरित करने के लिए वीडियो / मीडिया सामग्री के लिए इष्टतम भंडारण क्षमता प्रदान करता है।",
-
-
+  "Problems Faced by Policy Makers": "नीति निर्माताओं को किन समस्याओं का सामना करना पड़ रहा है",
+  "Early Age Learning": "प्रारंभिक आयु सीखना",
+  "EDUCRATE offers Early-age skill-development programme that can help kids grow into responsible citizens.": "एडुक्रेट प्रारंभिक आयु कौशल-विकास कार्यक्रम प्रदान करता है जो बच्चों को जिम्मेदार नागरिकों के रूप में विकसित करने में मदद कर सकता है।",
+  "Little focus on developing the skills of young learners": "युवा शिक्षार्थियों के कौशल को विकसित करने पर थोड़ा ध्यान केंद्रित करें",
+  "EDUCRATE whole focus is on K-12 school and elementary schooling.": "एडुक्रेट का पूरा ध्यान K-12 स्कूल और प्राथमिक स्कूलिंग पर है।",
+  "Delivering pedagogical innovations to government schools": "सरकारी स्कूलों में शैक्षणिक नवाचारों को वितरित करना",
+  "EDUCRATE shares real concern towards public schools, and it is adamant to provide equal opportunity as their urban peers.": "एडुक्रेट सार्वजनिक स्कूलों के प्रति वास्तविक चिंता साझा करता है, और यह उनके शहरी साथियों के समान अवसर प्रदान करने के लिए उपयुक्त है।",
+  "Uniform Device/Hardware to train teacher": "शिक्षक को प्रशिक्षित करने के लिए यूनिफ़ॉर्म डिवाइस / हार्डवेयर",
+  "EDUCRATE is the most compact device in Indian ed-tech which can be operated just like normal Computer.": "एडुक्रेट भारतीय एड-टेक में सबसे कॉम्पैक्ट डिवाइस है जिसे सामान्य कंप्यूटर की तरह ही संचालित किया जा सकता है।",
+  "Maintenance of the Hardware and Software": "हार्डवेयर और सॉफ्टवेयर का रखरखाव",
+  "EDUCRATE offers 6 monthly checkup in very affordable Annual Maintenance service cost.": "एडुक्रेट बहुत सस्ती वार्षिक रखरखाव सेवा लागत में 6 मासिक चेकअप प्रदान करता है।",
+  "Costly nature of Software licenses": "सॉफ्टवेयर लाइसेंस की महंगी प्रकृति",
+  "EDUCRATE has used all the free and open operating system for classroom setting to make smart-education cost efficient.": "एडुक्रेट ने स्मार्ट-एजुकेशन कॉस्ट को कुशल बनाने के लिए क्लासरूम सेटिंग के लिए सभी फ्री और ओपन ऑपरेटिंग सिस्टम का इस्तेमाल किया है।",
+  "Permission of Cluster and Block Resource Centres and DIETs": "क्लस्टर और ब्लॉक संसाधन केंद्र और DIETs की अनुमति",
+  "EDUCRATE team is in regular touch with several District Institutes of Educational Training (DIET) centers and they have shown positive interest towards installation of EDUCRATE.": "एडुक्रेट टीम कई जिला शिक्षण संस्थानों (DIET) केंद्रों के साथ नियमित संपर्क में है और उन्होंने EDUCRATE की स्थापना के प्रति सकारात्मक रुचि दिखाई है।",
+  "Public-private collaboration": "सार्वजनिक-निजी सहयोग",
+  "EDUCRATE is open for procurement and works on BOOT model of public-private partnership. Please check our FAQ page to successful ed-tech PPP models.": "एडुक्रेट सार्वजनिक-निजी भागीदारी के BOOT मॉडल पर खरीद और काम करने के लिए खुला है। कृपया सफल एड-टेक पीपीपी मॉडल के लिए हमारे सामान्य प्रश्न पृष्ठ की जाँच करें।",
 
 
 

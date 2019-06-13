@@ -17,7 +17,7 @@ class Policy extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Early Age Learning" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE offers  Early-age skill-development programme that can help kids grow into responsible citizens." />
+                                    <FormattedMessage id="home.EDUCRATE offers Early-age skill-development programme that can help kids grow into responsible citizens." />
                                 </p>
                             </div>
                         </div>
@@ -30,7 +30,7 @@ class Policy extends Component {
                             <div className="col-md-10 real-world-section-desc">
                                 <h6><FormattedMessage id="home.Little focus on developing the skills of young learners" /></h6>
                                 <p>
-                                    <FormattedMessage id="home.EDUCRATE whole focus is on K-12 school and  elementary schooling." />
+                                    <FormattedMessage id="home.EDUCRATE whole focus is on K-12 school and elementary schooling." />
                                 </p>
                             </div>
                         </div>

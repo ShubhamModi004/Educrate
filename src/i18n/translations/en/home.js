@@ -597,11 +597,23 @@ export default {
   "Connecting with audience": "Connecting with audience",
   "Media-rich space of learning can have a positive impact on targeted audience.": "Media-rich space of learning can have a positive impact on targeted audience.",
   "EDUCRATE offers the optimum storage capacity for videos/media content to deliver in low network areas.": "EDUCRATE offers the optimum storage capacity for videos/media content to deliver in low network areas.",
-
-
-
-
-
+  "Problems Faced by Policy Makers": "Problems Faced by Policy Makers",
+  "Early Age Learning": "Early Age Learning",
+  "EDUCRATE offers Early-age skill-development programme that can help kids grow into responsible citizens.": "EDUCRATE offers Early-age skill-development programme that can help kids grow into responsible citizens.",
+  "Little focus on developing the skills of young learners": "Little focus on developing the skills of young learners",
+  "EDUCRATE whole focus is on K-12 school and elementary schooling.": "EDUCRATE whole focus is on K-12 school and elementary schooling.",
+  "Delivering pedagogical innovations to government schools": "Delivering pedagogical innovations to government schools",
+  "EDUCRATE shares real concern towards public schools, and it is adamant to provide equal opportunity as their urban peers.": "EDUCRATE shares real concern towards public schools, and it is adamant to provide equal opportunity as their urban peers.",
+  "Uniform Device/Hardware to train teacher": "Uniform Device/Hardware to train teacher",
+  "EDUCRATE is the most compact device in Indian ed-tech which can be operated just like normal Computer.": "EDUCRATE is the most compact device in Indian ed-tech which can be operated just like normal Computer.",
+  "Maintenance of the Hardware and Software": "Maintenance of the Hardware and Software",
+  "EDUCRATE offers 6 monthly checkup in very affordable Annual Maintenance service cost.": "EDUCRATE offers 6 monthly checkup in very affordable Annual Maintenance service cost.",
+  "Costly nature of Software licenses": "Costly nature of Software licenses",
+  "EDUCRATE has used all the free and open operating system for classroom setting to make smart-education cost efficient.": "EDUCRATE has used all the free and open operating system for classroom setting to make smart-education cost efficient.",
+  "Permission of Cluster and Block Resource Centres and DIETs": "Permission of Cluster and Block Resource Centres and DIETs",
+  "EDUCRATE team is in regular touch with several District Institutes of Educational Training (DIET) centers and they have shown positive interest towards installation of EDUCRATE.": "EDUCRATE team is in regular touch with several District Institutes of Educational Training (DIET) centers and they have shown positive interest towards installation of EDUCRATE.",
+  "Public-private collaboration": "Public-private collaboration",
+  "EDUCRATE is open for procurement and works on BOOT model of public-private partnership. Please check our FAQ page to successful ed-tech PPP models.": "EDUCRATE is open for procurement and works on BOOT model of public-private partnership. Please check our FAQ page to successful ed-tech PPP models.",
 
   // 
   'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.': 'Educrate was created by keeping in mind that digital/smart classroom concept should reach all the students, every student should have equal access to the technological advancements in the field of education and moreover audio visual content should reach them, at minimal cost.',
