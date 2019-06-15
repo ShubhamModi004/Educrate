@@ -11,7 +11,7 @@ import SkillsCertification from '../components/Skills/SkillsCertification';
 
 const IndexPage = () => (
   <>
-  <SEO title="Skill Certificate" />
+  <SEO title="Skill Certificate" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
 
   <SkillsLanding />
   <SkillsTopic />

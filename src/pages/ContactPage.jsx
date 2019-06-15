@@ -10,7 +10,7 @@ import Map from '../components/ContactComponent/MapComponent';
 
 const IndexPage = () => (
   <>
-  <SEO title="Contact us" />
+  <SEO title="Contact us" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
 
   <Form />
   <Yellow />

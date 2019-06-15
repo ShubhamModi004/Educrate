@@ -10,7 +10,7 @@ import Features from '../components/Products/Features';
 
 const AboutPage = () => (
   <>
-  <SEO title="Product" />
+  <SEO title="Product" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
 
   <Products />
   <Features />

@@ -13,7 +13,7 @@ import Counter from '../components/Home/Counter';
 
 const IndexPage = () => (
   <>
-  <SEO title="Home" />
+  <SEO title="Home" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
 
   <Landing />
   <About />

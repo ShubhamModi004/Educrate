@@ -11,7 +11,7 @@ import Edupeople from '../components/AboutComponent/Edupeople';
 
 const AboutPage = () => (
   <>
-  <SEO title="About us" />
+  <SEO title="About us" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
   <Landing />
   <Sections />
   <Edupeople />

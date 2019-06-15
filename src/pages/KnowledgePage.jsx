@@ -9,7 +9,7 @@ import KnowledgeDetails from '../components/KnowledgeBank/KnowledgeDetails';
 
 const IndexPage = () => (
   <>
-  <SEO title="Knowledge Bank" />
+  <SEO title="Knowledge Bank" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
 
   <KnowledgeLanding />
   <KnowledgeDetails />

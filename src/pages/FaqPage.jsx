@@ -10,7 +10,7 @@ import Faqsection from '../components/FAQ/Faqsection';
 
 const FaqPage = () => (
   <>
-  <SEO title="FAQ" />
+  <SEO title="FAQ" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
 
   <Landing />
   <Faqsection />
