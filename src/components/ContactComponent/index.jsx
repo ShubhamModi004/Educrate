@@ -16,7 +16,7 @@ class Index extends Component {
             <div style={{ height: '100%' }}>
                 <div className="container contact-us">
                     <div className="col-l-6 col-md-12 col-12 contact-us-header">
-                        <h3><FormattedMessage id="home.CONTACT US" /></h3>
+                        <h1><FormattedMessage id="home.CONTACT US" /></h1>
                         <p><FormattedMessage id="home.We would love to get in touch with you." /></p>
                     </div>
                     <div className="socials-contactus">

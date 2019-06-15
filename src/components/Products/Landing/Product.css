@@ -23,7 +23,7 @@
     flex: 4;
 }
 
-.product-main-title .main-title h2{
+.product-main-title .main-title h1{
     line-height: 3rem;
 }
 
@@ -43,7 +43,7 @@
     letter-spacing: 0.02rem;
 }   
 
-.product-main-title h2{
+.product-main-title h1{
     font-size: 1.9rem; 
     letter-spacing: 0.015rem;
     font-weight: 700;

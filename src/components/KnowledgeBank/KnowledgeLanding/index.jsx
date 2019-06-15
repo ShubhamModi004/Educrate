@@ -17,7 +17,7 @@ class Index extends React.Component {
             <div className="knowledge-bank-landing">
                 <div className="knowledge-bank-landing-header">
                     <div>
-                        <h3><FormattedMessage id="home.Knowledge Bank" /></h3>
+                        <h1><FormattedMessage id="home.Knowledge Bank" /></h1>
                         <p><FormattedMessage id="home.Get smarter" /></p>
                     </div>
                 </div>

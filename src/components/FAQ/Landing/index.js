@@ -18,7 +18,7 @@ class Index extends Component {
         return (
             <div className="home-main-title container">
                 <div className="main-title">
-                    <h2><FormattedMessage id="home.FREQUENTLY ASKED QUESTIONS" /></h2>
+                    <h1><FormattedMessage id="home.FREQUENTLY ASKED QUESTIONS" /></h1>
                     <p className="light"><FormattedMessage id="home.This page aims at informing on the main activities and progress made under Educrate" /></p>
                 </div>
                 <div className="main-title-imageSection">
