@@ -18,10 +18,10 @@ class Index extends Component {
                             {EMAIL => <input className="contact-email" type="email" id="femail" name="email" placeholder={EMAIL} />}
                         </FormattedMessage>
                         <FormattedMessage id="home.NAME">
-                            {NAME => <input className="contact-email" type="email" id="femail" name="email" placeholder={NAME} />}
+                            {NAME => <input className="contact-email" type="text" id="femail" name="name" placeholder={NAME} />}
                         </FormattedMessage>
                         <FormattedMessage id="home.MOBILE">
-                            {MOBILE => <input className="contact-email" type="email" id="femail" name="email" placeholder={MOBILE} />}
+                            {MOBILE => <input className="contact-email" type="text" id="femail" name="mobile number" placeholder={MOBILE} />}
                         </FormattedMessage>
                         <FormattedMessage id="home.Submit">
                             {Submit => <input type="submit" value={Submit} className="blueButtons" style={{ width: '8rem', marginTop: '1.5rem' }} />}

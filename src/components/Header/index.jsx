@@ -56,9 +56,10 @@ class Header extends Component {
             <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Product" /></Link>
             <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Purchase" /></Link>
             <br />
-            <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Skills Certificate" /></Link>
-            <Link to="/FaqPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Faqs" /></Link>
-            <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Knowledge Bank" /></Link>
+            <Link to="/SkillsPage/" style={{ textDecoration: `none`, textAlign: 'center' }} activeClassName="active"><FormattedMessage id="home.Skills Certificate" /></Link>
+            <Link to="/KnowledgePage/" style={{ textDecoration: `none`, textAlign: 'center' }} activeClassName="active"><FormattedMessage id="home.Knowledge Bank" /></Link>
+            <Link to="/FaqPage/" style={{ textDecoration: `none`, textAlign: 'center' }} activeClassName="active"><FormattedMessage id="home.Faqs" /></Link>
+
 
             {/* <a>
               <div className="Link-dropdown">
@@ -104,7 +105,7 @@ class Header extends Component {
                 </Transition>
               </div>
             </a> */}
-            <Link to="/ContactPage/" style={{ textDecoration: `none` }} className="getinTouch"><FormattedMessage id="home.Contact Us" /></Link>
+            <Link to="/ContactPage/" style={{ textDecoration: `none`, textAlign: "center" }} className="getinTouch"><FormattedMessage id="home.Contact Us" /></Link>
           </div>
 
           {/* Mobile Menu */}
