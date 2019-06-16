@@ -13,7 +13,7 @@ class Index extends Component {
                 <div className="contact-form-section">
                     <h2><FormattedMessage id="home.CONTACT US" /></h2>
                     <p><FormattedMessage id="home.Please fill out the form below" /></p>
-                    <form className="contact-form" action="https://formspree.io/lifeofpixels0707@gmail.com" method="POST">
+                    <form className="contact-form" action="https://formspree.io/educrate.connect@gmail.com" method="POST">
                         <FormattedMessage id="home.EMAIL">
                             {EMAIL => <input className="contact-email" type="email" id="femail" name="email" placeholder={EMAIL} />}
                         </FormattedMessage>

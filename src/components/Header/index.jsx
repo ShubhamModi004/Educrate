@@ -55,7 +55,12 @@ class Header extends Component {
             <Link to="/AboutPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.About" /></Link>
             <Link to="/ProductPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Product" /></Link>
             <Link to="/PurchasePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Purchase" /></Link>
-            <a>
+            <br />
+            <Link to="/SkillsPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Skills Certificate" /></Link>
+            <Link to="/FaqPage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Faqs" /></Link>
+            <Link to="/KnowledgePage/" style={{ textDecoration: `none` }} activeClassName="active"><FormattedMessage id="home.Knowledge Bank" /></Link>
+
+            {/* <a>
               <div className="Link-dropdown">
                 <p onClick={this.handleBtnClick}>
                   <FormattedMessage id="home.More" /> +
@@ -98,7 +103,7 @@ class Header extends Component {
                   }
                 </Transition>
               </div>
-            </a>
+            </a> */}
             <Link to="/ContactPage/" style={{ textDecoration: `none` }} className="getinTouch"><FormattedMessage id="home.Contact Us" /></Link>
           </div>
 
