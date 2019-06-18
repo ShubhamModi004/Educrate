@@ -7,6 +7,7 @@ export default {
   'Purchase': 'Purchase',
   'More': 'More',
   'Skills Certificate': 'Skills Certificate',
+  'Skills': 'Skills',
   'Knowledge Bank': 'Knowledge Bank',
   'KNOWLEDGE BANK': 'KNOWLEDGE BANK',
   'Faqs': 'Faqs',

@@ -6,6 +6,7 @@ export default {
   'Purchase': 'प्रचासे',
   'More': 'मोर',
   'Skills Certificate': 'स्किल्स सर्टिफिकेट',
+  'Skills': 'स्किल्स',
   'Knowledge Bank': 'नॉलेज बैंक',
   'KNOWLEDGE BANK': 'नॉलेज बैंक',
   'Faqs': 'फॉक्स',
