@@ -26,6 +26,9 @@ export default {
   'Read more about our product specifications': 'हमारे उत्पाद विनिर्देशों के बारे में और पढ़ें',
   'READ MORE': 'और पढो',
 
+
+  'Read about our vision of shaping the future.': 'भविष्य को आकार देने की हमारी दृष्टि के बारे में पढ़ें।',
+
   'Complete': 'पूर्ण',
   'SmartClassroom': 'स्मार्ट क्लासरूम',
   'Solution': 'उपाय',

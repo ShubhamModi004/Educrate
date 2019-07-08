@@ -24,8 +24,8 @@ class Index extends Component {
                 <div className="future-footer">
                     <div className="container content">
                         <h2><FormattedMessage id="home.Ready to take the leap to the future" /></h2>
-                        <p><FormattedMessage id="home.Read more about how we could help our students get the best that they deserve.Let us take a look at the mission that keeps us going." /></p>
-                        <Link className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem', background: '#fff' }}><FormattedMessage id="home.READ MORE" /></Link>
+                        <p><FormattedMessage id="home.Read about our vision of shaping the future." /></p>
+                        <Link className="yellowButtons" to='/AboutPage' activeClassName="active" state={{ visionBlock: true }} style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem', background: '#fff' }}><FormattedMessage id="home.READ MORE" /></Link>
                     </div>
                 </div>
                 {/* <div className="bg-fix"></div> */}

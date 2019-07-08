@@ -27,6 +27,8 @@ export default {
   'Read more about our product specifications': 'Read more about our product specifications',
   'READ MORE': 'READ MORE',
 
+  'Read about our vision of shaping the future.': 'Read about our vision of shaping the future.',
+
   'Complete': 'Complete',
   'SmartClassroom': 'SmartClassroom',
   'Solution': 'Solution',

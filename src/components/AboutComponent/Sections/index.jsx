@@ -16,13 +16,22 @@ import EduPeople from './Edupeople';
 
 class Index extends Component {
     componentDidMount() {
-        const { missionBlock } = this.props;
+        const { missionBlock, visionBlock } = this.props;
         if (missionBlock) {
             this.setState({
                 selected: true,
                 who: false,
                 mission: true,
                 vision: false,
+                eduPeople: false
+            })
+        }
+        if (visionBlock) {
+            this.setState({
+                selected: true,
+                who: false,
+                mission: false,
+                vision: true,
                 eduPeople: false
             })
         }

@@ -8,10 +8,14 @@ import Sections from '../components/AboutComponent/Sections';
 
 const AboutPage = ({ location }) => {
   const [missionBlock, setMissionBlock] = useState(false);
+  const [visionBlock, setVisionBlock] = useState(false);
 
   useEffect(() => {
     if (location.state.missionBlock !== null) {
       setMissionBlock(true)
+    }
+    if (location.state.visionBlock !== null) {
+      setVisionBlock(true)
     }
     // eslint-disable-next-line
   }, []);
@@ -21,9 +25,9 @@ const AboutPage = ({ location }) => {
       <SEO title="About us" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
       <Landing />
       {location.state ? (
-        <Sections missionBlock={location.state.missionBlock} />
+        <Sections missionBlock={location.state.missionBlock} visionBlock={location.state.visionBlock} />
       ) : (
-          <Sections missionBlock={missionBlock} />
+          <Sections missionBlock={missionBlock} visionBlock={visionBlock} />
         )}
     </Fragment>
   )

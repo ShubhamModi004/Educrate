@@ -125,7 +125,7 @@ class Features extends Component {
                 <div className="mission-strive">
                     <div className="mission-strive-sections">
                         <div className="row">
-                            <div className="col-md-3">
+                            <div className="col-md-3 col-sm-12">
                                 <div className="mission-strive-sections-fields">
                                     <div onClick={this.selected.bind(this, 'hardware')}>
                                         <h6 className={"mission-strive-header " + (hardware ? 'mission-strive-header-active' : '')}><FormattedMessage id="home.HARDWARE" /></h6>
@@ -153,7 +153,7 @@ class Features extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-md-9">
+                            <div className="col-md-9 col-sm-12">
                                 {this.renderContent()}
                             </div>
                         </div>
