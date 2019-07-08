@@ -17,7 +17,7 @@ class Index extends Component {
                     <div className="container content">
                         <h2><FormattedMessage id="home.The future is digitization, The future is our students." /></h2>
                         <p><FormattedMessage id="home.Read more about how we could help our students get the best that they deserve.Let us take a look at the mission that keeps us going." /></p>
-                        <Link className="yellowButtons" to='/AboutPage' activeClassName="active" state={{ missionBlock: true }} style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem', background: '#fff' }}><FormattedMessage id="home.READ MORE" /></Link>
+                        <Link className="yellowButtons" to='/AboutPage/#about-sections' activeClassName="active" state={{ missionBlock: true }} style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem', background: '#fff' }}><FormattedMessage id="home.READ MORE" /></Link>
                     </div>
 
                 </div>
@@ -25,7 +25,7 @@ class Index extends Component {
                     <div className="container content">
                         <h2><FormattedMessage id="home.Ready to take the leap to the future" /></h2>
                         <p><FormattedMessage id="home.Read about our vision of shaping the future." /></p>
-                        <Link className="yellowButtons" to='/AboutPage' activeClassName="active" state={{ visionBlock: true }} style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem', background: '#fff' }}><FormattedMessage id="home.READ MORE" /></Link>
+                        <Link className="yellowButtons" to='/AboutPage/#about-sections' activeClassName="active" state={{ visionBlock: true }} style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem', background: '#fff' }}><FormattedMessage id="home.READ MORE" /></Link>
                     </div>
                 </div>
                 {/* <div className="bg-fix"></div> */}

@@ -2,7 +2,6 @@
 
 
 body, html{
-    overflow-x: hidden;
     -webkit-transition: 0.3 all ease-in-out;
     -moz-transition: 0.3 all ease-in-out;
     transition: 0.3 all ease-in-out;
