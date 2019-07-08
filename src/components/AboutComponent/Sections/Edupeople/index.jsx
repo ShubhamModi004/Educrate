@@ -15,7 +15,7 @@ import Policy from './Policy';
 
 // import css
 
-class Who extends Component {
+class EduPeople extends Component {
 
     state = {
         students: true,
@@ -160,4 +160,4 @@ class Who extends Component {
 }
 
 
-export default Who;
+export default EduPeople;
