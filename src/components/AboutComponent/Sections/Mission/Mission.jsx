@@ -17,7 +17,7 @@ import Empowerment from './Empowerment';
 // import css
 import './styles.css';
 
-class Who extends Component {
+class Mission extends Component {
 
     state = {
         motivate: true,
@@ -233,4 +233,4 @@ class Who extends Component {
 }
 
 
-export default Who;
+export default Mission;

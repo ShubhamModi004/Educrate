@@ -15,7 +15,7 @@ import Policy from './Policy';
 
 // import css
 
-class EduPeople extends Component {
+class index extends Component {
 
     state = {
         students: true,
@@ -160,4 +160,4 @@ class EduPeople extends Component {
 }
 
 
-export default EduPeople;
+export default index;
