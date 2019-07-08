@@ -12,7 +12,7 @@ import './styles.css';
 import Who from './Whoweare/Who';
 import Mission from './Mission/Mission';
 import Vision from './Vision';
-import EduPeople from './EduPeople';
+import EduPeople from './Edupeople';
 
 class Index extends Component {
     componentDidMount() {
