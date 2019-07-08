@@ -20,7 +20,11 @@ const AboutPage = ({ location }) => {
     <Fragment>
       <SEO title="About us" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
       <Landing />
-      <Sections missionBlock={missionBlock} />
+      {location.state ? (
+        <Sections missionBlock={location.state.missionBlock} />
+      ) : (
+          <Sections missionBlock={missionBlock} />
+        )}
     </Fragment>
   )
 };
