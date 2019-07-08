@@ -12,7 +12,7 @@ import './ProductHome.css';
 class Index extends React.Component {
     render() {
         return (
-            <div className="product-home">
+            <div id="product-home" className="product-home">
                 <ProductImage />
             </div>
         )

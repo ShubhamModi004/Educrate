@@ -12,13 +12,28 @@ import './styles.css';
 import Who from './Whoweare/Who';
 import Mission from './Mission/Mission';
 import Vision from './Vision';
+import EduPeople from '../EduPeople';
 
 class Index extends Component {
+    componentDidMount() {
+        const { missionBlock } = this.props;
+        if (missionBlock) {
+            this.setState({
+                selected: true,
+                who: false,
+                mission: true,
+                vision: false,
+                eduPeople: false
+            })
+        }
+
+    }
     state = {
         selected: true,
         who: true,
         mission: false,
         vision: false,
+        eduPeople: false
     }
 
     selected = (id) => {
@@ -26,19 +41,29 @@ class Index extends Component {
             this.setState({
                 who: false,
                 mission: false,
-                vision: true
+                vision: true,
+                eduPeople: false
             })
         } else if (id === "mission") {
             this.setState({
                 who: false,
                 mission: true,
-                vision: false
+                vision: false,
+                eduPeople: false
             })
         } else if (id === "who") {
             this.setState({
                 who: true,
                 mission: false,
-                vision: false
+                vision: false,
+                eduPeople: false
+            })
+        } else if (id === "eduPeople") {
+            this.setState({
+                who: false,
+                mission: false,
+                vision: false,
+                eduPeople: true
             })
         }
     }
@@ -57,11 +82,16 @@ class Index extends Component {
                 <Vision />
             )
         }
+        else if (this.state.eduPeople) {
+            return (
+                <EduPeople />
+            )
+        }
 
     }
 
     render() {
-        const { who, mission, vision } = this.state;
+        const { who, mission, vision, eduPeople } = this.state;
         return (
             <div className="container">
                 <div className="about-sections">
@@ -69,6 +99,7 @@ class Index extends Component {
                         <div className="section" id='who' onClick={this.selected.bind(this, 'who')}><h6 className={(who ? 'selected' : 'notSelected')}><FormattedMessage id="home.WHO WE ARE" /></h6></div>
                         <div className="section" id='mission' onClick={this.selected.bind(this, 'mission')}><h6 className={(mission ? 'selected' : 'notSelected')}><FormattedMessage id="home.MISSION" /></h6></div>
                         <div className="section" id='vision' onClick={this.selected.bind(this, 'vision')}><h6 className={(vision ? 'selected' : 'notSelected')}><FormattedMessage id="home.VISION" /></h6></div>
+                        <div className="section" id='eduPeople' onClick={this.selected.bind(this, 'eduPeople')}><h6 className={(eduPeople ? 'selected' : 'notSelected')}><FormattedMessage id="home.EDUPEOPLE" /></h6></div>
                     </div>
                 </div>
                 {this.renderContent()}

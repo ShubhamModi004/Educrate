@@ -72,7 +72,7 @@ class Index extends Component {
                             <div className="smart-classroom-product-feature">
                                 <Visualizer />
                             </div>
-                            <h6><FormattedMessage id="home.Visualizer" /></h6>
+                            <h6><FormattedMessage id="home.Knowledge Bank" /></h6>
                         </div>
                     </div>
 

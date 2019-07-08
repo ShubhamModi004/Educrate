@@ -117,8 +117,7 @@ class Who extends Component {
         const { students, teachers, parents, school, ngo, policy } = this.state;
         return (
             <div className="Whocontainer">
-                <div className="mission-strive">
-                    <h2><FormattedMessage id="home.EDUPEOPLE" /></h2>
+                <div className="mission-strive" style={{ marginTop: 0, paddingTop: 0 }}>
                     <div className="mission-strive-sections">
                         <div className="row">
                             <div className="col-md-3">

@@ -14,9 +14,7 @@ import Counter from '../components/Home/Counter';
 const IndexPage = () => (
   <>
   <SEO title="Smart classroom Projectors" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
-
   <Landing />
-  <About />
   <How />
   <Product />
   <Smart />

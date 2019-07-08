@@ -154,7 +154,7 @@ class Who extends Component {
                     </div>
                 </div>
 
-                <div className="real-world">
+                {/* <div className="real-world">
                     <h2><FormattedMessage id="home.REAL WORLD, REAL PROBLEMS" /></h2>
                     <div className="real-world-section">
                         <div className="row">
@@ -224,7 +224,7 @@ class Who extends Component {
                     <h6 className="mission-end">
                         <FormattedMessage id="home.To address these challenges, our work is focused on making India a centre for innovation, with astrong supply and widespread adoption of low-cost, contextualized, pedagogically sound, proven EdTech solutions for teaching and learning." />
                     </h6>
-                </div>
+                </div> */}
 
 
             </div>
