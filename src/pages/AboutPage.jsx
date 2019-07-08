@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useState, useEffect } from 'react';
 import { FormattedMessage } from 'react-intl';
 import SEO from '../components/SEO';
 import withLayout from '../layout';
@@ -7,11 +7,20 @@ import Landing from '../components/AboutComponent/AboutLanding';
 import Sections from '../components/AboutComponent/Sections';
 
 const AboutPage = ({ location }) => {
+  const [missionBlock, setMissionBlock] = useState(false);
+
+  useEffect(() => {
+    if (location.state.missionBlock) {
+      setMissionBlock(true)
+    }
+    // eslint-disable-next-line
+  }, []);
+
   return (
     <Fragment>
       <SEO title="About us" keywords={[`EDUCRATE`, `PROJECTORS FOR SCHOOLS`, `BEST PROJECTORS IN SCHOOL`, `SMART CLASSROOM`, `PROJECTOR COMPANIES IN KANPUR`, `SMART EDUCATION FOR STUDENTS`]} />
       <Landing />
-      <Sections missionBlock={location.state.missionBlock ? true : false} />
+      <Sections missionBlock={missionBlock} />
     </Fragment>
   )
 };
