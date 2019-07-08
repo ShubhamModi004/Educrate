@@ -10,7 +10,7 @@ const AboutPage = ({ location }) => {
   const [missionBlock, setMissionBlock] = useState(false);
 
   useEffect(() => {
-    if (location.state.missionBlock) {
+    if (location.state.missionBlock !== null) {
       setMissionBlock(true)
     }
     // eslint-disable-next-line

@@ -93,7 +93,7 @@ class Index extends Component {
     render() {
         const { who, mission, vision, eduPeople } = this.state;
         return (
-            <div className="container">
+            <div className="container" style={{ width: '100vw', overflow: 'hidden' }}>
                 <div className="about-sections">
                     <div className="sectionContainer">
                         <div className="section" id='who' onClick={this.selected.bind(this, 'who')}><h6 className={(who ? 'selected' : 'notSelected')}><FormattedMessage id="home.WHO WE ARE" /></h6></div>
