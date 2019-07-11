@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FormattedMessage } from 'react-intl';
-import { Link } from 'gatsby';
+import Link from '../../../components/Link';
 
 // Importing Image
 import Hardware from './Hardware';
@@ -81,7 +81,7 @@ class Index extends Component {
                         <p><FormattedMessage id="home.Complete SmartClassroom Solution (CSS) is a combination of Educrate hardware & interactive whiteboard (green board optional) which makes teaching more effective & interactive. The board has in built software which accommodates several applications and can also perform features like edit documents, add comments and save them" /></p>
 
                     </div>
-                    <Link className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="home.READ MORE" /></Link>
+                    <Link to="/ProductPage/#product-section" state={{ specificationBlock: true }} className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="home.READ MORE" /></Link>
                 </div>
 
             </div>

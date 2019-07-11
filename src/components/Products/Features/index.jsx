@@ -121,7 +121,7 @@ class Features extends Component {
         const { hardware, specification, interactive, single, software, learning } = this.state;
         // console.log(hardware);
         return (
-            <div className="Whocontainer">
+            <div id="product-section" className="Whocontainer">
                 <div className="mission-strive">
                     <div className="mission-strive-sections">
                         <div className="row">

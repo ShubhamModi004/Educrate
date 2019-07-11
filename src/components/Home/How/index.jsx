@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FormattedMessage } from 'react-intl';
-import { Link } from 'gatsby';
+import Link from '../../../components/Link';
 
 // Importing Image
 import Projector from './Projector';
@@ -157,7 +157,7 @@ class Index extends Component {
 
                     <p className="smart-classroom-text mb-4"><FormattedMessage id="home.Read more about our product specifications" /></p>
 
-                    <Link to="/ProductPage" className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="home.READ MORE" /></Link>
+                    <Link to="/ProductPage/#product-section" className="yellowButtons" style={{ width: '12rem', padding: '1.1rem 2rem', marginTop: '2rem' }}><FormattedMessage id="home.READ MORE" /></Link>
                 </div>
 
             </div>
