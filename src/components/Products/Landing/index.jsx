@@ -22,13 +22,13 @@ class Index extends Component {
                 <div className="product-main-title-imageSection">
                     <Product />
                 </div>
-                <div className="socialMedia">
+                {/* <div className="socialMedia">
                     <div className="social-media-facebook">
                         <Facebook />
                     </div>
                     <Instagram />
                     <Whatsapp />
-                </div>
+                </div> */}
             </div>
         )
     }

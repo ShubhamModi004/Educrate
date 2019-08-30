@@ -24,13 +24,13 @@ class Index extends Component {
                 <div className="main-title-imageSection">
                     <LandingSection />
                 </div>
-                <div className="socialMedia">
+                {/* <div className="socialMedia">
                     <div className="social-media-facebook">
                         <Facebook />
                     </div>
                     <Instagram />
                     <Whatsapp />
-                </div>
+                </div> */}
             </div>
         )
     }

@@ -19,13 +19,13 @@ class Index extends Component {
                         <h1><FormattedMessage id="home.CONTACT US" /></h1>
                         <p><FormattedMessage id="home.We would love to get in touch with you." /></p>
                     </div>
-                    <div className="socials-contactus">
+                    {/* <div className="socials-contactus">
                         <div className="social-media-facebook">
                             <Facebook />
                         </div>
                         <Instagram />
                         <Whatsapp />
-                    </div>
+                    </div> */}
                 </div>
                 <div className="yellow-box">
                     <div className="row yellow-box-text">

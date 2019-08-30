@@ -63,6 +63,7 @@
     font-size: 0.8rem;
     color: #7A8297;
     font-weight: 600;
+    cursor: pointer;
 }
 @media only screen and (max-width: 770px){
     .mission-strive-sections .mission-strive-header{

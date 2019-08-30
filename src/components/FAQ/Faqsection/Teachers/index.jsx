@@ -9,7 +9,7 @@ class Teachers extends React.Component {
             <div className='container faq-section'>
                 <h1><FormattedMessage id="home.TEACHERS" /></h1>
                 <div className="software-paragraph">
-                    <h4><FormattedMessage id="home.What role teacher has to play in EDUCRATE mission?" /></h4>
+                    <h4><FormattedMessage id="home.What role teacher has to play in educrate mission?" /></h4>
                     <p><FormattedMessage id="home.A teacher is the root & stem of education system and no technology can replace a teacher. We with our Educrate will assist the teachers to teach the students in a more advanced manner. The teachers will be required to start the Educrate and begin playing the video. Educrate will give a description of the chapter to the students and then the teachers would be explaining the chapter as usual." /></p>
                 </div>
                 <div className="software-paragraph">
